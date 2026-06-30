@@ -1,0 +1,2501 @@
+CustomerID,Age,Gender,City,Education,IncomeBracket,AnnualSpend,MembershipTier,TenureMonths,TotalOrders
+C1000,52,Other,Hyderabad,Bachelor's,50k-100k,17152.26,Silver,5,6
+C1001,30,Female,Delhi,Master's,100k-200k,30274.28,Basic,39,9
+C1002,45,Female,Delhi,Bachelor's,50k-100k,16032.76,Basic,28,6
+C1003,18,Male,Hyderabad,Bachelor's,<25k,3731.09,Silver,13,1
+C1004,36,Female,Ahmedabad,Master's,200k+,57617.21,Silver,9,19
+C1005,30,Male,Chennai,Master's,50k-100k,24672.92,Basic,55,5
+C1006,30,Male,Pune,Master's,25k-50k,1534.08,Gold,47,1
+C1007,50,Female,Delhi,Bachelor's,25k-50k,4296.4,Basic,55,2
+C1008,27,Male,Kolkata,Bachelor's,50k-100k,26259.73,Gold,58,7
+C1009,41,Male,Kolkata,Bachelor's,100k-200k,32393.05,Silver,15,8
+C1010,31,Female,Kolkata,High School,<25k,3950.35,Silver,56,1
+C1011,40,Male,Hyderabad,Master's,100k-200k,38762.44,Silver,49,9
+C1012,33,Female,Kolkata,Bachelor's,100k-200k,25172.22,Basic,4,7
+C1013,23,Female,Hyderabad,Master's,100k-200k,39195.64,Basic,53,10
+C1014,46,Female,Mumbai,Master's,200k+,62406.42,Basic,13,21
+C1015,40,Male,Mumbai,High School,25k-50k,5849.85,Silver,15,4
+C1016,22,Female,Mumbai,Master's,25k-50k,2378.9,Basic,46,2
+C1017,18,Female,Pune,Bachelor's,25k-50k,3390.59,Basic,16,1
+C1018,31,Female,Kolkata,High School,50k-100k,10662.27,Gold,2,1
+C1019,45,Female,Pune,Bachelor's,50k-100k,18218.72,Silver,58,5
+C1020,25,Male,Kolkata,Bachelor's,100k-200k,38151.2,Basic,16,8
+C1021,42,Female,Hyderabad,High School,25k-50k,9421.72,Gold,41,2
+C1022,23,Male,Chennai,PhD,100k-200k,33940.19,Platinum,51,3
+C1023,38,Male,Hyderabad,Master's,100k-200k,47299.63,Basic,23,14
+C1024,32,Female,Kolkata,Bachelor's,<25k,1973.97,Gold,57,1
+C1025,50,Male,Hyderabad,Master's,100k-200k,26406.66,Basic,1,2
+C1026,23,Male,Ahmedabad,Bachelor's,50k-100k,24721.07,Basic,30,10
+C1027,42,Female,Bangalore,Bachelor's,100k-200k,28809.26,Basic,56,7
+C1028,18,Male,Bangalore,Bachelor's,25k-50k,9825.58,Basic,56,3
+C1029,33,Female,Ahmedabad,PhD,50k-100k,19679.01,Gold,5,6
+C1030,18,Male,Ahmedabad,High School,25k-50k,6430.31,Silver,39,7
+C1031,20,Male,Bangalore,Master's,25k-50k,7315.4,Gold,35,1
+C1032,40,Female,Bangalore,Bachelor's,50k-100k,15820.72,Basic,48,4
+C1033,27,Male,Bangalore,PhD,<25k,3347.71,Platinum,7,1
+C1034,38,Female,Bangalore,Master's,50k-100k,32248.11,Basic,27,9
+C1035,55,Male,Delhi,Bachelor's,100k-200k,36560.97,Gold,38,8
+C1036,18,Female,Pune,Bachelor's,25k-50k,7959.61,Silver,37,2
+C1037,20,Male,Hyderabad,Bachelor's,50k-100k,21696.4,Silver,32,3
+C1038,41,Female,Bangalore,High School,50k-100k,9321.05,Basic,33,2
+C1039,44,Male,Bangalore,Bachelor's,100k-200k,58898.3,Platinum,19,15
+C1040,33,Female,Delhi,Master's,50k-100k,23365.13,Gold,15,11
+C1041,48,Female,Pune,High School,25k-50k,7264.44,Gold,12,1
+C1042,37,Male,Mumbai,Bachelor's,25k-50k,6390.52,Basic,3,2
+C1043,23,Female,Mumbai,Bachelor's,50k-100k,16172.29,Gold,38,5
+C1044,42,Male,Hyderabad,High School,50k-100k,24087.22,Platinum,50,7
+C1045,23,Female,Bangalore,Master's,100k-200k,29667.09,Platinum,10,5
+C1046,43,Female,Chennai,High School,100k-200k,22616.25,Gold,19,6
+C1047,43,Female,Bangalore,PhD,25k-50k,9498.45,Silver,32,1
+C1048,27,Male,Kolkata,Bachelor's,50k-100k,16042.08,Gold,58,2
+C1049,18,Male,Bangalore,High School,25k-50k,6929.8,Gold,50,1
+C1050,19,Female,Kolkata,Master's,50k-100k,16177.55,Silver,30,4
+C1051,25,Male,Pune,Master's,50k-100k,9999.02,Gold,3,2
+C1052,19,Female,Pune,Master's,100k-200k,40563.89,Basic,23,16
+C1053,36,Male,Mumbai,High School,25k-50k,9112.63,Silver,46,2
+C1054,34,Male,Kolkata,High School,50k-100k,20400.55,Basic,57,3
+C1055,32,Male,Hyderabad,Bachelor's,25k-50k,5303.63,Platinum,44,1
+C1056,35,Male,Pune,Master's,50k-100k,32801.19,Platinum,11,7
+C1057,51,Female,Mumbai,Bachelor's,200k+,76176.76,Basic,47,20
+C1058,23,Female,Ahmedabad,Bachelor's,50k-100k,14187.75,Basic,17,5
+C1059,18,Male,Bangalore,High School,100k-200k,46317.65,Silver,42,13
+C1060,59,Male,Mumbai,Master's,100k-200k,47600.23,Basic,44,18
+C1061,54,Other,Ahmedabad,Bachelor's,100k-200k,20457.43,Platinum,36,6
+C1062,24,Male,Kolkata,Master's,100k-200k,31441.5,Gold,6,9
+C1063,18,Female,Kolkata,Bachelor's,50k-100k,17917.44,Basic,48,4
+C1064,25,Male,Mumbai,High School,50k-100k,21815.39,Silver,7,7
+C1065,27,Male,Pune,Bachelor's,25k-50k,12275.15,Platinum,47,2
+C1066,39,Female,Delhi,Bachelor's,50k-100k,23365.5,Silver,45,5
+C1067,37,Female,Kolkata,Bachelor's,25k-50k,10508.38,Silver,8,2
+C1068,21,Female,Pune,High School,<25k,3903.2,Gold,23,2
+C1069,40,Male,Delhi,Bachelor's,200k+,54299.33,Basic,2,21
+C1070,35,Male,Delhi,Master's,<25k,2631.55,Basic,51,1
+C1071,48,Female,Delhi,Bachelor's,200k+,52843.32,Platinum,56,10
+C1072,42,Male,Hyderabad,Bachelor's,50k-100k,16765.36,Basic,48,5
+C1073,52,Male,Mumbai,High School,50k-100k,19098.72,Platinum,49,4
+C1074,28,Female,Delhi,Master's,200k+,67722.71,Basic,29,13
+C1075,41,Female,Chennai,Master's,100k-200k,33310.37,Platinum,58,5
+C1076,35,Male,Kolkata,Bachelor's,25k-50k,8128.22,Basic,58,1
+C1077,24,Other,Mumbai,Master's,<25k,3284.51,Gold,16,2
+C1078,37,Male,Mumbai,Bachelor's,50k-100k,21490.4,Gold,24,8
+C1079,34,Female,Ahmedabad,Bachelor's,50k-100k,22625.38,Basic,28,8
+C1080,29,Other,Delhi,Bachelor's,25k-50k,7411.52,Basic,42,2
+C1081,39,Female,Kolkata,PhD,100k-200k,41869.32,Platinum,51,7
+C1082,34,Male,Hyderabad,Master's,200k+,92670.49,Basic,29,19
+C1083,39,Female,Mumbai,Bachelor's,50k-100k,6920.71,Silver,51,2
+C1084,18,Other,Ahmedabad,Bachelor's,<25k,3103.97,Basic,20,1
+C1085,33,Male,Mumbai,High School,50k-100k,9853.35,Basic,4,1
+C1086,23,Female,Bangalore,High School,25k-50k,10784.09,Basic,51,2
+C1087,40,Male,Mumbai,PhD,200k+,92715.62,Silver,42,24
+C1088,29,Female,Delhi,High School,25k-50k,4323.6,Silver,1,1
+C1089,21,Male,Pune,Master's,50k-100k,20679.87,Basic,55,9
+C1090,32,Male,Mumbai,Bachelor's,100k-200k,34123.78,Gold,18,8
+C1091,33,Female,Delhi,High School,50k-100k,19346.99,Silver,22,4
+C1092,35,Male,Chennai,Master's,200k+,79219.51,Silver,41,17
+C1093,45,Male,Delhi,High School,25k-50k,7194.84,Basic,50,2
+C1094,54,Female,Delhi,Master's,200k+,68946.93,Gold,36,23
+C1095,38,Male,Ahmedabad,PhD,50k-100k,15572.47,Gold,53,5
+C1096,45,Male,Kolkata,High School,100k-200k,39704.52,Silver,26,7
+C1097,20,Female,Delhi,Bachelor's,<25k,4364.79,Silver,38,1
+C1098,28,Male,Delhi,Master's,100k-200k,46920.83,Basic,56,6
+C1099,34,Female,Hyderabad,High School,100k-200k,33568.02,Platinum,52,6
+C1100,45,Male,Bangalore,Bachelor's,50k-100k,25040.4,Basic,19,9
+C1101,43,Female,Chennai,Bachelor's,25k-50k,8667.01,Gold,40,3
+C1102,29,Female,Kolkata,High School,50k-100k,9525.65,Gold,34,1
+C1103,55,Male,Delhi,High School,<25k,2750.76,Basic,25,2
+C1104,37,Male,Bangalore,Master's,25k-50k,5640.62,Silver,2,1
+C1105,33,Male,Hyderabad,Bachelor's,<25k,2169.16,Silver,35,1
+C1106,26,Male,Chennai,Master's,100k-200k,53746.7,Gold,19,14
+C1107,27,Female,Kolkata,Bachelor's,25k-50k,7823.77,Gold,50,1
+C1108,36,Male,Pune,Bachelor's,200k+,38858.06,Basic,24,5
+C1109,18,Female,Mumbai,Master's,100k-200k,10392.63,Basic,46,1
+C1110,31,Female,Ahmedabad,High School,<25k,2344.07,Gold,50,1
+C1111,54,Female,Hyderabad,Master's,50k-100k,13768.75,Silver,5,1
+C1112,23,Female,Mumbai,Bachelor's,50k-100k,13112.14,Basic,4,4
+C1113,37,Female,Bangalore,High School,50k-100k,13585.2,Silver,3,7
+C1114,33,Female,Delhi,Master's,25k-50k,11320.09,Basic,13,4
+C1115,45,Female,Pune,Master's,200k+,77743.56,Silver,22,14
+C1116,18,Male,Mumbai,High School,50k-100k,14290.32,Silver,21,3
+C1117,18,Male,Mumbai,Master's,50k-100k,29778.7,Gold,1,10
+C1118,43,Male,Delhi,Bachelor's,200k+,73688.69,Gold,58,14
+C1119,20,Other,Chennai,Bachelor's,<25k,2678.83,Basic,21,1
+C1120,34,Female,Bangalore,High School,25k-50k,6153.77,Gold,39,1
+C1121,34,Female,Kolkata,Bachelor's,25k-50k,7859.84,Gold,7,2
+C1122,50,Male,Kolkata,Master's,200k+,54405.62,Basic,49,21
+C1123,19,Female,Ahmedabad,Bachelor's,<25k,2131.23,Basic,55,1
+C1124,37,Female,Chennai,High School,<25k,3346.5,Gold,50,1
+C1125,18,Female,Delhi,Bachelor's,25k-50k,11521.84,Silver,57,1
+C1126,29,Male,Kolkata,PhD,200k+,25770.96,Silver,7,4
+C1127,29,Female,Pune,Master's,50k-100k,14267.55,Basic,24,2
+C1128,28,Male,Delhi,Bachelor's,50k-100k,22265.43,Platinum,19,4
+C1129,35,Male,Ahmedabad,Bachelor's,100k-200k,35344.42,Gold,54,11
+C1130,30,Female,Bangalore,Master's,25k-50k,3108.51,Gold,17,3
+C1131,35,Female,Delhi,Master's,25k-50k,9440.94,Gold,48,3
+C1132,42,Male,Kolkata,Bachelor's,50k-100k,16650.5,Silver,2,3
+C1133,32,Male,Ahmedabad,Bachelor's,<25k,2620.93,Basic,45,1
+C1134,28,Male,Ahmedabad,High School,100k-200k,48768.88,Basic,33,16
+C1135,50,Male,Kolkata,High School,50k-100k,12590.25,Gold,22,6
+C1136,54,Male,Delhi,Bachelor's,50k-100k,16548.51,Gold,59,2
+C1137,34,Male,Ahmedabad,Bachelor's,50k-100k,9287.99,Basic,33,2
+C1138,28,Female,Bangalore,Bachelor's,50k-100k,22727.89,Gold,26,3
+C1139,25,Male,Bangalore,High School,25k-50k,3621.97,Basic,6,1
+C1140,32,Male,Pune,Master's,100k-200k,41830.24,Silver,42,15
+C1141,37,Female,Delhi,PhD,25k-50k,11296.42,Basic,30,3
+C1142,40,Female,Bangalore,Master's,100k-200k,48888.95,Silver,5,11
+C1143,18,Female,Ahmedabad,Bachelor's,<25k,3998.25,Silver,36,1
+C1144,42,Male,Mumbai,High School,<25k,3878.1,Gold,47,1
+C1145,48,Male,Ahmedabad,Bachelor's,<25k,3131.82,Basic,16,1
+C1146,31,Male,Pune,Bachelor's,25k-50k,10779.69,Silver,24,3
+C1147,45,Female,Kolkata,Bachelor's,100k-200k,37648.3,Basic,26,7
+C1148,37,Male,Hyderabad,Bachelor's,25k-50k,2695.22,Platinum,1,1
+C1149,31,Female,Ahmedabad,High School,25k-50k,5924.06,Platinum,27,3
+C1150,39,Female,Bangalore,Bachelor's,200k+,69975.22,Silver,16,26
+C1151,31,Male,Pune,Bachelor's,25k-50k,5736.75,Silver,46,5
+C1152,32,Female,Bangalore,PhD,25k-50k,6625.4,Silver,12,1
+C1153,43,Female,Hyderabad,Bachelor's,100k-200k,24368.04,Basic,58,6
+C1154,23,Female,Ahmedabad,Master's,25k-50k,8379.43,Gold,5,1
+C1155,49,Male,Mumbai,High School,100k-200k,21752.48,Gold,7,9
+C1156,26,Female,Bangalore,Master's,50k-100k,11626.39,Basic,41,2
+C1157,45,Other,Kolkata,Bachelor's,100k-200k,37137.72,Basic,5,9
+C1158,27,Female,Delhi,Bachelor's,25k-50k,6683.12,Silver,2,2
+C1159,45,Male,Mumbai,PhD,25k-50k,13129.14,Basic,44,4
+C1160,48,Female,Delhi,Bachelor's,50k-100k,16550.58,Silver,25,6
+C1161,40,Male,Ahmedabad,Bachelor's,<25k,3128.08,Basic,24,1
+C1162,35,Male,Chennai,Master's,100k-200k,34809.51,Silver,43,14
+C1163,50,Female,Hyderabad,Master's,100k-200k,44849.33,Basic,50,8
+C1164,35,Male,Bangalore,Bachelor's,50k-100k,18818.73,Basic,9,4
+C1165,18,Male,Mumbai,Bachelor's,<25k,2638.46,Platinum,59,1
+C1166,23,Male,Pune,Master's,25k-50k,6827.19,Silver,16,1
+C1167,41,Male,Mumbai,Bachelor's,100k-200k,26144.12,Silver,39,7
+C1168,18,Female,Bangalore,Bachelor's,50k-100k,25550.98,Basic,22,5
+C1169,38,Female,Bangalore,Bachelor's,50k-100k,8414.45,Silver,16,1
+C1170,32,Female,Bangalore,Master's,200k+,46501.81,Basic,48,15
+C1171,46,Male,Pune,Bachelor's,100k-200k,57607.1,Silver,47,16
+C1172,56,Male,Pune,Bachelor's,100k-200k,33468.74,Platinum,11,9
+C1173,29,Male,Delhi,Master's,25k-50k,8251.7,Silver,42,2
+C1174,36,Male,Chennai,High School,<25k,2077.85,Silver,30,1
+C1175,26,Male,Mumbai,Bachelor's,50k-100k,20736.02,Basic,46,5
+C1176,38,Male,Ahmedabad,Bachelor's,50k-100k,7038.72,Gold,32,1
+C1177,39,Female,Pune,High School,50k-100k,8416.17,Platinum,51,2
+C1178,29,Male,Bangalore,High School,25k-50k,7363.32,Silver,30,1
+C1179,43,Female,Delhi,Bachelor's,25k-50k,5220.26,Silver,45,2
+C1180,22,Male,Delhi,Master's,50k-100k,28860.86,Silver,44,5
+C1181,24,Male,Ahmedabad,Master's,50k-100k,12276.02,Silver,1,4
+C1182,21,Male,Ahmedabad,Bachelor's,50k-100k,21473.55,Basic,4,7
+C1183,45,Male,Chennai,High School,100k-200k,53308.15,Silver,16,14
+C1184,32,Male,Bangalore,High School,25k-50k,7788.66,Silver,11,1
+C1185,34,Female,Ahmedabad,Bachelor's,25k-50k,9896.73,Basic,56,2
+C1186,18,Male,Mumbai,Master's,25k-50k,9012.71,Basic,4,3
+C1187,51,Female,Bangalore,Master's,100k-200k,49226.65,Gold,16,12
+C1188,35,Female,Kolkata,High School,25k-50k,9645.06,Basic,7,5
+C1189,32,Female,Bangalore,Master's,100k-200k,48096.1,Basic,15,17
+C1190,45,Female,Pune,PhD,50k-100k,17226.18,Gold,58,8
+C1191,22,Female,Hyderabad,High School,50k-100k,22314.85,Silver,28,9
+C1192,48,Male,Bangalore,Master's,100k-200k,46015.49,Basic,56,13
+C1193,44,Male,Mumbai,Bachelor's,25k-50k,11192.75,Silver,5,3
+C1194,21,Female,Delhi,Master's,50k-100k,15650.34,Basic,56,4
+C1195,31,Male,Pune,Master's,<25k,2786.46,Basic,59,1
+C1196,25,Female,Hyderabad,Master's,25k-50k,6732.65,Platinum,52,1
+C1197,40,Female,Kolkata,Bachelor's,50k-100k,17543.71,Basic,16,2
+C1198,50,Male,Mumbai,Bachelor's,25k-50k,7574.06,Platinum,20,1
+C1199,35,Male,Pune,Master's,25k-50k,8239.68,Gold,42,1
+C1200,43,Female,Ahmedabad,High School,<25k,2631.41,Silver,52,1
+C1201,19,Male,Pune,Bachelor's,50k-100k,14897.29,Basic,47,5
+C1202,24,Male,Delhi,Bachelor's,25k-50k,4143.73,Gold,58,3
+C1203,32,Female,Ahmedabad,High School,50k-100k,20643.51,Basic,14,7
+C1204,31,Female,Bangalore,Master's,50k-100k,19996.03,Basic,6,5
+C1205,25,Female,Bangalore,Bachelor's,<25k,1467.24,Basic,10,1
+C1206,51,Male,Delhi,Master's,100k-200k,21531.42,Silver,16,7
+C1207,44,Other,Chennai,PhD,50k-100k,21903.99,Basic,38,8
+C1208,27,Female,Hyderabad,Bachelor's,50k-100k,11589.86,Basic,43,1
+C1209,20,Female,Mumbai,PhD,100k-200k,20687.27,Platinum,26,8
+C1210,30,Male,Bangalore,Bachelor's,25k-50k,9027.33,Gold,30,1
+C1211,18,Male,Mumbai,High School,25k-50k,12268.02,Gold,22,3
+C1212,43,Female,Ahmedabad,Bachelor's,100k-200k,42954.16,Basic,21,12
+C1213,36,Female,Mumbai,Bachelor's,100k-200k,31109.69,Basic,19,5
+C1214,44,Other,Hyderabad,Bachelor's,25k-50k,7114.79,Basic,56,1
+C1215,34,Female,Pune,PhD,100k-200k,49508.65,Gold,39,10
+C1216,47,Male,Mumbai,High School,25k-50k,9584.73,Gold,31,2
+C1217,32,Male,Bangalore,High School,25k-50k,5195.97,Silver,4,1
+C1218,36,Male,Kolkata,High School,<25k,3159.03,Basic,15,2
+C1219,48,Male,Mumbai,High School,25k-50k,9402.22,Basic,15,2
+C1220,21,Male,Pune,Bachelor's,25k-50k,6735.17,Silver,25,2
+C1221,18,Male,Kolkata,Master's,100k-200k,30040.24,Silver,45,8
+C1222,28,Male,Hyderabad,Bachelor's,25k-50k,8997.26,Basic,40,2
+C1223,41,Other,Hyderabad,Master's,25k-50k,5841.01,Gold,16,1
+C1224,41,Female,Mumbai,Bachelor's,<25k,1934.43,Basic,44,1
+C1225,34,Female,Hyderabad,Bachelor's,25k-50k,8344.76,Basic,5,1
+C1226,33,Female,Mumbai,Bachelor's,<25k,4201.69,Platinum,19,2
+C1227,31,Male,Pune,Master's,100k-200k,31752.22,Silver,30,6
+C1228,35,Female,Mumbai,High School,100k-200k,52443.27,Basic,43,18
+C1229,34,Female,Hyderabad,Master's,200k+,36049.9,Silver,46,3
+C1230,43,Female,Delhi,Bachelor's,100k-200k,35330.15,Basic,20,11
+C1231,18,Male,Delhi,Master's,25k-50k,6770.53,Basic,38,2
+C1232,45,Male,Pune,Bachelor's,100k-200k,53612.57,Silver,18,13
+C1233,21,Female,Kolkata,Master's,100k-200k,22776.42,Platinum,31,5
+C1234,32,Female,Ahmedabad,Bachelor's,25k-50k,4635.94,Basic,59,2
+C1235,37,Male,Pune,Bachelor's,100k-200k,32126.41,Basic,35,9
+C1236,39,Female,Hyderabad,PhD,200k+,104738.02,Platinum,9,39
+C1237,55,Female,Mumbai,Master's,50k-100k,7277.67,Gold,8,1
+C1238,42,Male,Kolkata,Master's,50k-100k,20951.36,Silver,23,3
+C1239,39,Male,Chennai,Bachelor's,50k-100k,22339.11,Silver,19,3
+C1240,33,Female,Mumbai,High School,50k-100k,23217.94,Basic,58,8
+C1241,33,Male,Mumbai,Master's,25k-50k,6865.17,Basic,4,3
+C1242,21,Female,Mumbai,Master's,25k-50k,9646.75,Silver,27,3
+C1243,19,Male,Bangalore,Master's,<25k,2167.88,Gold,5,1
+C1244,29,Female,Chennai,Bachelor's,50k-100k,15963.42,Silver,35,1
+C1245,37,Female,Ahmedabad,High School,50k-100k,13504.53,Gold,51,2
+C1246,45,Male,Bangalore,Bachelor's,25k-50k,4991.4,Silver,8,1
+C1247,28,Male,Bangalore,PhD,50k-100k,10599.9,Basic,41,1
+C1248,25,Male,Delhi,Master's,50k-100k,12110.17,Basic,41,4
+C1249,30,Male,Delhi,Bachelor's,200k+,73654.11,Gold,16,15
+C1250,32,Male,Bangalore,Master's,50k-100k,13319.82,Basic,24,4
+C1251,43,Female,Ahmedabad,Master's,100k-200k,34816.48,Silver,24,15
+C1252,52,Male,Bangalore,High School,25k-50k,7035.63,Silver,34,2
+C1253,37,Male,Hyderabad,Bachelor's,25k-50k,4759.37,Platinum,14,1
+C1254,26,Male,Delhi,Master's,100k-200k,41426.1,Basic,7,8
+C1255,30,Female,Bangalore,PhD,50k-100k,9271.98,Gold,39,3
+C1256,31,Male,Hyderabad,Master's,50k-100k,22298.77,Basic,37,5
+C1257,26,Male,Pune,Bachelor's,50k-100k,19098.98,Silver,21,2
+C1258,35,Other,Delhi,Bachelor's,50k-100k,22895.71,Basic,29,7
+C1259,18,Male,Mumbai,Master's,50k-100k,15489.94,Platinum,28,12
+C1260,45,Female,Ahmedabad,Master's,200k+,59141.08,Basic,42,17
+C1261,37,Female,Kolkata,Bachelor's,25k-50k,5845.89,Basic,9,3
+C1262,48,Female,Bangalore,Master's,200k+,71578.63,Basic,39,17
+C1263,42,Female,Bangalore,Bachelor's,50k-100k,19153.54,Silver,51,4
+C1264,26,Male,Mumbai,Master's,50k-100k,18512.73,Silver,22,8
+C1265,50,Male,Hyderabad,Bachelor's,50k-100k,16492.45,Silver,35,4
+C1266,48,Female,Hyderabad,High School,25k-50k,6652.77,Silver,54,3
+C1267,39,Female,Bangalore,High School,25k-50k,10055.82,Gold,31,1
+C1268,31,Male,Pune,High School,25k-50k,6903.93,Platinum,44,2
+C1269,22,Female,Bangalore,Master's,100k-200k,36520.76,Basic,32,6
+C1270,31,Female,Pune,Bachelor's,100k-200k,28814.07,Silver,14,6
+C1271,34,Female,Mumbai,Master's,100k-200k,40031.74,Silver,38,5
+C1272,37,Female,Kolkata,PhD,25k-50k,3212.19,Platinum,52,1
+C1273,47,Female,Chennai,High School,100k-200k,17097.69,Basic,38,4
+C1274,25,Female,Mumbai,High School,25k-50k,6253.9,Basic,43,1
+C1275,40,Male,Chennai,Bachelor's,100k-200k,32279.32,Platinum,19,8
+C1276,26,Male,Hyderabad,Bachelor's,50k-100k,15990.31,Basic,44,4
+C1277,40,Female,Kolkata,Master's,<25k,3269.74,Silver,17,1
+C1278,18,Female,Bangalore,High School,25k-50k,9713.01,Basic,43,1
+C1279,35,Male,Chennai,High School,<25k,3435.77,Gold,23,1
+C1280,28,Male,Delhi,Bachelor's,25k-50k,10512.6,Silver,56,1
+C1281,19,Female,Chennai,Bachelor's,<25k,1831.34,Basic,29,1
+C1282,41,Male,Pune,High School,100k-200k,28689.54,Silver,28,6
+C1283,36,Female,Bangalore,Bachelor's,25k-50k,5272.57,Gold,43,2
+C1284,28,Female,Hyderabad,High School,50k-100k,14398.75,Basic,39,4
+C1285,42,Other,Mumbai,High School,25k-50k,9890.96,Basic,56,3
+C1286,57,Female,Pune,Bachelor's,100k-200k,36512.04,Basic,50,16
+C1287,31,Female,Ahmedabad,Bachelor's,<25k,2510.27,Platinum,34,1
+C1288,21,Female,Chennai,Bachelor's,25k-50k,4811.01,Basic,22,1
+C1289,21,Female,Ahmedabad,Bachelor's,25k-50k,7989.3,Silver,17,3
+C1290,34,Female,Kolkata,Bachelor's,50k-100k,22843.81,Silver,4,6
+C1291,39,Female,Delhi,Bachelor's,200k+,29673.84,Basic,12,2
+C1292,18,Male,Kolkata,PhD,50k-100k,14268.93,Platinum,32,4
+C1293,28,Female,Ahmedabad,Master's,<25k,2450.53,Basic,36,1
+C1294,60,Female,Ahmedabad,Bachelor's,200k+,88746.77,Silver,34,19
+C1295,42,Male,Mumbai,Bachelor's,25k-50k,6628.22,Gold,18,1
+C1296,30,Female,Bangalore,Bachelor's,50k-100k,22428.96,Platinum,45,8
+C1297,63,Female,Mumbai,High School,50k-100k,11760.84,Silver,23,2
+C1298,28,Male,Pune,High School,25k-50k,7859.93,Basic,47,1
+C1299,36,Female,Kolkata,Master's,100k-200k,31619.45,Silver,47,9
+C1300,30,Male,Hyderabad,Master's,25k-50k,8910.47,Basic,39,2
+C1301,31,Female,Mumbai,High School,100k-200k,43621.06,Basic,32,13
+C1302,26,Male,Mumbai,Bachelor's,<25k,1722.18,Basic,38,1
+C1303,36,Male,Kolkata,Bachelor's,50k-100k,29001.62,Basic,16,8
+C1304,24,Male,Mumbai,Bachelor's,<25k,3066.01,Basic,57,1
+C1305,47,Female,Kolkata,Bachelor's,50k-100k,18275.89,Silver,23,3
+C1306,26,Female,Kolkata,Bachelor's,50k-100k,18440.0,Basic,5,3
+C1307,38,Male,Bangalore,Bachelor's,100k-200k,10606.99,Basic,8,3
+C1308,18,Female,Pune,Bachelor's,50k-100k,12139.68,Basic,46,5
+C1309,27,Male,Hyderabad,High School,25k-50k,8359.85,Silver,57,2
+C1310,44,Male,Pune,Bachelor's,200k+,59639.57,Silver,59,10
+C1311,33,Female,Bangalore,PhD,100k-200k,40528.36,Silver,26,7
+C1312,37,Male,Mumbai,Master's,25k-50k,9663.93,Platinum,43,3
+C1313,41,Male,Kolkata,Master's,25k-50k,7304.91,Silver,55,4
+C1314,33,Male,Kolkata,High School,25k-50k,7159.82,Gold,11,1
+C1315,40,Female,Delhi,High School,25k-50k,9171.98,Basic,29,3
+C1316,24,Female,Mumbai,Bachelor's,50k-100k,13562.85,Silver,39,7
+C1317,52,Female,Hyderabad,High School,50k-100k,25744.9,Silver,17,7
+C1318,28,Female,Ahmedabad,High School,25k-50k,5715.39,Silver,40,2
+C1319,32,Male,Delhi,Bachelor's,50k-100k,23410.21,Gold,10,4
+C1320,39,Female,Bangalore,Bachelor's,25k-50k,10869.03,Silver,15,2
+C1321,40,Female,Mumbai,Bachelor's,50k-100k,24874.43,Silver,13,11
+C1322,32,Female,Kolkata,Master's,25k-50k,8944.62,Silver,1,2
+C1323,25,Male,Chennai,Bachelor's,25k-50k,10448.67,Gold,14,2
+C1324,27,Male,Ahmedabad,Master's,25k-50k,8735.05,Silver,56,1
+C1325,32,Female,Ahmedabad,Master's,25k-50k,7529.04,Basic,39,2
+C1326,23,Male,Bangalore,Master's,25k-50k,5139.75,Platinum,15,1
+C1327,25,Female,Hyderabad,Bachelor's,25k-50k,6378.22,Basic,52,1
+C1328,18,Male,Chennai,Master's,50k-100k,14751.77,Gold,32,6
+C1329,38,Female,Delhi,High School,100k-200k,31446.16,Gold,42,6
+C1330,22,Female,Bangalore,Master's,50k-100k,21255.2,Basic,12,2
+C1331,29,Male,Delhi,Bachelor's,50k-100k,24085.43,Gold,21,6
+C1332,32,Male,Mumbai,Bachelor's,<25k,2786.46,Gold,32,1
+C1333,21,Male,Mumbai,Bachelor's,<25k,2202.86,Silver,14,2
+C1334,50,Male,Mumbai,High School,25k-50k,11995.98,Platinum,49,3
+C1335,31,Male,Hyderabad,Bachelor's,25k-50k,8786.12,Silver,40,1
+C1336,42,Female,Ahmedabad,Bachelor's,100k-200k,52830.97,Platinum,35,16
+C1337,34,Female,Bangalore,High School,25k-50k,6532.41,Basic,46,2
+C1338,40,Male,Ahmedabad,Master's,50k-100k,10256.08,Basic,1,1
+C1339,33,Female,Mumbai,Bachelor's,50k-100k,24461.71,Gold,35,8
+C1340,47,Male,Hyderabad,Master's,100k-200k,33026.14,Basic,59,4
+C1341,29,Male,Pune,Bachelor's,50k-100k,24512.89,Silver,44,7
+C1342,40,Male,Pune,Bachelor's,25k-50k,5941.07,Platinum,21,1
+C1343,38,Female,Pune,Master's,100k-200k,10456.79,Gold,36,4
+C1344,36,Female,Chennai,Master's,50k-100k,19661.46,Basic,14,2
+C1345,31,Female,Delhi,High School,50k-100k,19814.13,Gold,12,4
+C1346,34,Female,Bangalore,Bachelor's,200k+,50457.16,Basic,10,13
+C1347,18,Female,Hyderabad,Bachelor's,<25k,3117.8,Basic,47,1
+C1348,18,Female,Pune,Master's,25k-50k,3795.08,Gold,31,2
+C1349,40,Male,Hyderabad,Bachelor's,50k-100k,15136.17,Basic,20,6
+C1350,30,Male,Hyderabad,High School,25k-50k,7499.62,Gold,20,1
+C1351,34,Male,Mumbai,Bachelor's,25k-50k,12637.12,Silver,39,2
+C1352,18,Female,Pune,Master's,25k-50k,7155.21,Basic,47,2
+C1353,33,Male,Pune,High School,50k-100k,19972.61,Basic,41,7
+C1354,32,Female,Mumbai,High School,50k-100k,16306.74,Silver,1,5
+C1355,26,Female,Delhi,High School,<25k,3766.77,Gold,48,1
+C1356,37,Female,Chennai,Bachelor's,50k-100k,21313.18,Silver,18,8
+C1357,29,Female,Bangalore,Master's,50k-100k,16234.55,Silver,6,1
+C1358,33,Male,Delhi,Master's,50k-100k,31399.82,Silver,22,10
+C1359,52,Female,Delhi,PhD,25k-50k,5038.02,Silver,55,4
+C1360,30,Female,Delhi,Master's,25k-50k,9781.29,Gold,11,4
+C1361,26,Female,Kolkata,Bachelor's,100k-200k,28862.93,Silver,23,5
+C1362,42,Female,Kolkata,High School,50k-100k,17878.22,Basic,33,6
+C1363,31,Female,Delhi,High School,50k-100k,22356.44,Basic,40,5
+C1364,49,Male,Delhi,High School,50k-100k,15007.57,Silver,11,4
+C1365,32,Female,Kolkata,High School,25k-50k,8608.61,Silver,20,1
+C1366,23,Other,Hyderabad,High School,100k-200k,31234.01,Silver,22,11
+C1367,25,Male,Mumbai,Bachelor's,50k-100k,19848.78,Platinum,15,4
+C1368,41,Male,Delhi,Bachelor's,50k-100k,20451.38,Basic,10,2
+C1369,32,Male,Hyderabad,Bachelor's,50k-100k,24058.07,Basic,18,6
+C1370,37,Male,Delhi,High School,25k-50k,12311.94,Basic,2,4
+C1371,22,Male,Kolkata,Bachelor's,50k-100k,16653.85,Silver,44,1
+C1372,52,Male,Delhi,Master's,100k-200k,26053.44,Silver,33,10
+C1373,19,Male,Kolkata,Bachelor's,<25k,2703.18,Gold,3,2
+C1374,33,Male,Bangalore,PhD,200k+,30194.99,Gold,20,10
+C1375,28,Male,Delhi,High School,25k-50k,9141.1,Platinum,28,1
+C1376,54,Female,Mumbai,Bachelor's,25k-50k,6637.1,Basic,55,2
+C1377,26,Female,Delhi,High School,50k-100k,28773.46,Basic,23,3
+C1378,18,Female,Mumbai,Master's,200k+,40065.22,Basic,16,13
+C1379,41,Male,Delhi,Bachelor's,25k-50k,7367.86,Gold,31,1
+C1380,36,Female,Delhi,Bachelor's,<25k,5294.38,Basic,56,2
+C1381,48,Male,Hyderabad,High School,100k-200k,30329.96,Gold,9,8
+C1382,22,Male,Pune,Bachelor's,100k-200k,30628.97,Silver,56,8
+C1383,42,Male,Mumbai,Bachelor's,25k-50k,7388.26,Silver,20,1
+C1384,41,Other,Hyderabad,High School,50k-100k,23464.28,Basic,17,6
+C1385,26,Male,Delhi,Bachelor's,25k-50k,6850.37,Gold,26,1
+C1386,36,Male,Pune,Bachelor's,100k-200k,38036.96,Silver,14,9
+C1387,22,Male,Kolkata,Bachelor's,25k-50k,8770.22,Basic,24,1
+C1388,33,Female,Mumbai,Master's,50k-100k,20374.58,Silver,10,7
+C1389,39,Female,Mumbai,Bachelor's,50k-100k,25099.01,Platinum,1,4
+C1390,34,Female,Delhi,Master's,50k-100k,18296.0,Platinum,59,5
+C1391,51,Female,Delhi,Bachelor's,100k-200k,35260.89,Basic,54,9
+C1392,35,Male,Bangalore,PhD,100k-200k,31536.88,Basic,38,10
+C1393,24,Female,Kolkata,Master's,100k-200k,25227.45,Gold,28,9
+C1394,32,Male,Bangalore,Bachelor's,25k-50k,9328.02,Gold,58,1
+C1395,37,Male,Pune,High School,<25k,3239.38,Gold,34,3
+C1396,20,Female,Ahmedabad,Master's,25k-50k,8616.26,Basic,26,1
+C1397,50,Female,Delhi,High School,25k-50k,11656.81,Basic,56,3
+C1398,36,Female,Chennai,Bachelor's,25k-50k,2709.3,Basic,15,2
+C1399,38,Female,Pune,Bachelor's,50k-100k,15161.32,Silver,3,8
+C1400,42,Female,Hyderabad,Bachelor's,25k-50k,9974.47,Basic,58,1
+C1401,28,Female,Mumbai,Bachelor's,25k-50k,7649.39,Basic,20,1
+C1402,20,Female,Mumbai,High School,100k-200k,40516.91,Silver,25,6
+C1403,38,Female,Ahmedabad,Master's,25k-50k,7783.65,Gold,49,1
+C1404,42,Female,Kolkata,PhD,100k-200k,57947.25,Platinum,41,10
+C1405,46,Other,Hyderabad,High School,50k-100k,28227.19,Gold,26,4
+C1406,36,Male,Chennai,Bachelor's,50k-100k,17312.44,Silver,57,5
+C1407,26,Female,Bangalore,High School,100k-200k,31191.9,Silver,38,7
+C1408,18,Female,Delhi,Master's,50k-100k,18708.57,Basic,38,4
+C1409,28,Female,Bangalore,High School,25k-50k,10118.07,Platinum,18,2
+C1410,42,Male,Hyderabad,Bachelor's,50k-100k,15673.32,Silver,34,5
+C1411,24,Male,Delhi,Bachelor's,50k-100k,27727.65,Basic,42,9
+C1412,28,Male,Bangalore,Master's,100k-200k,21742.43,Silver,4,5
+C1413,42,Male,Delhi,PhD,25k-50k,6423.82,Silver,59,4
+C1414,37,Male,Delhi,Bachelor's,50k-100k,20877.73,Silver,24,2
+C1415,18,Male,Mumbai,Bachelor's,200k+,27651.34,Silver,59,11
+C1416,31,Male,Bangalore,Bachelor's,<25k,3590.47,Basic,9,1
+C1417,23,Female,Bangalore,High School,50k-100k,13554.38,Gold,42,3
+C1418,18,Male,Kolkata,PhD,<25k,2403.01,Basic,54,1
+C1419,19,Male,Delhi,Bachelor's,50k-100k,22316.31,Basic,37,8
+C1420,27,Male,Pune,Bachelor's,25k-50k,11412.59,Gold,22,3
+C1421,36,Male,Mumbai,High School,50k-100k,19243.37,Silver,29,2
+C1422,28,Male,Pune,Bachelor's,50k-100k,26259.88,Gold,26,9
+C1423,47,Male,Mumbai,Master's,100k-200k,17907.47,Gold,57,6
+C1424,27,Male,Kolkata,Bachelor's,100k-200k,40402.97,Silver,25,11
+C1425,29,Female,Delhi,Bachelor's,50k-100k,12675.29,Basic,11,2
+C1426,31,Female,Delhi,Bachelor's,50k-100k,18071.76,Basic,8,6
+C1427,32,Female,Ahmedabad,Bachelor's,100k-200k,30486.99,Gold,33,5
+C1428,30,Female,Chennai,High School,50k-100k,14538.72,Basic,30,2
+C1429,18,Male,Bangalore,Bachelor's,200k+,53726.03,Basic,34,18
+C1430,29,Female,Chennai,High School,25k-50k,7469.15,Silver,27,1
+C1431,21,Male,Delhi,Bachelor's,25k-50k,6223.25,Silver,43,1
+C1432,18,Male,Mumbai,Master's,50k-100k,19767.27,Silver,13,3
+C1433,46,Female,Kolkata,Master's,200k+,64630.55,Gold,35,19
+C1434,36,Female,Chennai,High School,<25k,2575.07,Gold,32,1
+C1435,49,Male,Kolkata,Bachelor's,25k-50k,4211.39,Basic,31,1
+C1436,44,Female,Hyderabad,Master's,25k-50k,9687.54,Basic,10,1
+C1437,40,Female,Delhi,Master's,200k+,50797.05,Silver,24,11
+C1438,49,Male,Mumbai,Master's,100k-200k,33600.42,Platinum,10,13
+C1439,32,Other,Delhi,Master's,50k-100k,20694.19,Basic,51,5
+C1440,46,Male,Kolkata,Master's,100k-200k,33507.88,Silver,54,2
+C1441,31,Male,Mumbai,Master's,25k-50k,10690.2,Silver,6,2
+C1442,44,Female,Hyderabad,Master's,50k-100k,14941.77,Basic,42,2
+C1443,45,Other,Mumbai,Master's,25k-50k,6924.56,Platinum,44,3
+C1444,32,Male,Mumbai,High School,<25k,2848.6,Silver,26,1
+C1445,18,Male,Delhi,Master's,25k-50k,8242.3,Platinum,31,2
+C1446,33,Male,Mumbai,Bachelor's,100k-200k,53977.5,Basic,19,17
+C1447,42,Female,Pune,PhD,<25k,3423.89,Silver,36,1
+C1448,38,Female,Hyderabad,PhD,200k+,77236.05,Silver,24,15
+C1449,36,Female,Mumbai,Bachelor's,100k-200k,45306.83,Basic,12,12
+C1450,28,Female,Delhi,Bachelor's,50k-100k,17926.84,Silver,27,3
+C1451,18,Male,Pune,Master's,200k+,66526.75,Basic,47,17
+C1452,38,Female,Mumbai,Bachelor's,50k-100k,13178.65,Basic,39,5
+C1453,34,Male,Delhi,Master's,100k-200k,33404.86,Basic,3,6
+C1454,35,Female,Bangalore,Bachelor's,<25k,2706.12,Basic,5,1
+C1455,43,Male,Bangalore,Bachelor's,50k-100k,18401.3,Gold,21,9
+C1456,50,Male,Bangalore,Master's,100k-200k,29542.33,Gold,44,8
+C1457,43,Female,Kolkata,Bachelor's,50k-100k,13466.4,Silver,28,4
+C1458,26,Female,Delhi,Bachelor's,50k-100k,22674.71,Gold,52,4
+C1459,40,Female,Pune,High School,50k-100k,20599.16,Silver,25,6
+C1460,35,Male,Kolkata,High School,50k-100k,19720.32,Silver,10,4
+C1461,56,Male,Delhi,High School,50k-100k,17135.26,Basic,30,4
+C1462,46,Male,Hyderabad,Bachelor's,50k-100k,21421.38,Silver,8,6
+C1463,18,Female,Chennai,Bachelor's,25k-50k,7427.16,Silver,49,1
+C1464,20,Female,Mumbai,Bachelor's,25k-50k,4664.8,Basic,19,1
+C1465,30,Male,Bangalore,Master's,50k-100k,16917.38,Basic,24,4
+C1466,18,Male,Chennai,Master's,25k-50k,7611.22,Silver,30,1
+C1467,37,Male,Delhi,Master's,100k-200k,41201.88,Gold,34,11
+C1468,26,Male,Delhi,Bachelor's,50k-100k,13851.96,Basic,17,4
+C1469,35,Female,Mumbai,Bachelor's,25k-50k,7836.48,Silver,8,3
+C1470,39,Male,Delhi,Bachelor's,100k-200k,42220.11,Platinum,31,11
+C1471,37,Female,Bangalore,High School,50k-100k,13421.41,Silver,11,3
+C1472,40,Male,Hyderabad,Bachelor's,50k-100k,17736.79,Silver,20,2
+C1473,27,Female,Delhi,Bachelor's,200k+,88610.48,Silver,4,21
+C1474,44,Male,Kolkata,High School,100k-200k,27766.19,Basic,9,3
+C1475,30,Female,Delhi,Master's,25k-50k,10428.19,Basic,5,3
+C1476,30,Female,Bangalore,High School,100k-200k,26314.43,Basic,6,6
+C1477,35,Female,Delhi,Bachelor's,25k-50k,5591.41,Silver,47,1
+C1478,45,Male,Chennai,Master's,25k-50k,8694.06,Silver,19,4
+C1479,47,Male,Mumbai,Bachelor's,200k+,60905.19,Basic,44,13
+C1480,25,Female,Mumbai,High School,100k-200k,36175.58,Basic,56,5
+C1481,18,Female,Ahmedabad,PhD,25k-50k,13583.13,Silver,18,1
+C1482,19,Male,Mumbai,Master's,50k-100k,14827.49,Gold,59,2
+C1483,56,Female,Mumbai,Master's,200k+,64837.29,Gold,20,17
+C1484,45,Male,Bangalore,Bachelor's,100k-200k,30127.01,Platinum,38,8
+C1485,27,Male,Delhi,Master's,50k-100k,18514.3,Basic,54,6
+C1486,27,Female,Bangalore,Master's,100k-200k,61769.24,Silver,11,14
+C1487,35,Male,Chennai,High School,<25k,2842.47,Gold,43,1
+C1488,31,Male,Delhi,High School,25k-50k,10571.97,Gold,2,3
+C1489,18,Female,Delhi,Bachelor's,50k-100k,17598.37,Silver,10,3
+C1490,37,Female,Delhi,High School,25k-50k,6937.92,Basic,45,2
+C1491,42,Male,Mumbai,Bachelor's,100k-200k,33505.51,Basic,44,9
+C1492,24,Male,Pune,Bachelor's,25k-50k,10314.54,Silver,11,4
+C1493,31,Female,Mumbai,Master's,50k-100k,18124.44,Basic,45,3
+C1494,30,Female,Mumbai,Bachelor's,25k-50k,9578.11,Basic,25,2
+C1495,35,Female,Mumbai,Bachelor's,50k-100k,13990.85,Basic,32,1
+C1496,47,Female,Ahmedabad,Bachelor's,<25k,4834.81,Silver,6,1
+C1497,51,Female,Bangalore,Bachelor's,200k+,38005.79,Silver,9,6
+C1498,33,Male,Kolkata,Master's,100k-200k,41640.26,Basic,30,7
+C1499,18,Female,Kolkata,PhD,100k-200k,43438.88,Platinum,43,19
+C1500,18,Female,Bangalore,High School,25k-50k,7714.29,Basic,20,1
+C1501,36,Female,Ahmedabad,Bachelor's,<25k,1316.61,Gold,20,1
+C1502,44,Male,Delhi,Bachelor's,50k-100k,22878.56,Silver,33,6
+C1503,31,Female,Mumbai,Master's,50k-100k,23964.28,Platinum,43,6
+C1504,48,Female,Chennai,Master's,100k-200k,27821.56,Silver,34,9
+C1505,43,Male,Pune,High School,100k-200k,28665.9,Gold,19,10
+C1506,34,Female,Pune,Bachelor's,25k-50k,8576.12,Gold,55,2
+C1507,42,Male,Ahmedabad,High School,<25k,2503.95,Basic,38,1
+C1508,48,Female,Mumbai,Bachelor's,100k-200k,38963.46,Gold,18,6
+C1509,32,Male,Bangalore,High School,25k-50k,9988.62,Silver,24,1
+C1510,41,Male,Mumbai,Bachelor's,25k-50k,4980.95,Gold,15,1
+C1511,24,Male,Pune,Bachelor's,50k-100k,13036.9,Platinum,39,1
+C1512,37,Female,Hyderabad,Bachelor's,50k-100k,17794.94,Basic,7,11
+C1513,28,Female,Mumbai,Bachelor's,50k-100k,17281.7,Platinum,2,4
+C1514,35,Male,Delhi,High School,<25k,3834.34,Silver,25,1
+C1515,35,Female,Hyderabad,Bachelor's,200k+,32229.87,Platinum,28,7
+C1516,25,Female,Bangalore,Bachelor's,50k-100k,19223.76,Basic,56,4
+C1517,30,Female,Bangalore,High School,25k-50k,11082.95,Gold,11,2
+C1518,23,Male,Hyderabad,Master's,100k-200k,41726.74,Basic,38,7
+C1519,18,Female,Bangalore,Master's,<25k,3690.43,Basic,44,1
+C1520,31,Male,Mumbai,PhD,100k-200k,40408.52,Platinum,57,8
+C1521,31,Female,Bangalore,High School,50k-100k,20241.85,Silver,16,2
+C1522,23,Female,Bangalore,Bachelor's,100k-200k,31597.08,Silver,4,8
+C1523,18,Female,Ahmedabad,Master's,50k-100k,17873.15,Platinum,19,4
+C1524,24,Female,Ahmedabad,Master's,50k-100k,14959.03,Silver,10,7
+C1525,36,Male,Pune,Bachelor's,25k-50k,7573.92,Silver,37,1
+C1526,22,Female,Bangalore,Master's,50k-100k,11792.63,Silver,28,2
+C1527,39,Male,Kolkata,High School,50k-100k,13689.03,Basic,22,2
+C1528,48,Other,Bangalore,Bachelor's,25k-50k,8027.47,Basic,3,1
+C1529,34,Male,Bangalore,Bachelor's,100k-200k,27650.98,Silver,2,9
+C1530,20,Male,Hyderabad,Master's,100k-200k,34892.06,Basic,55,9
+C1531,62,Female,Ahmedabad,Master's,100k-200k,45016.5,Silver,15,7
+C1532,27,Male,Delhi,Bachelor's,<25k,2277.0,Silver,17,2
+C1533,47,Male,Delhi,High School,25k-50k,9648.37,Platinum,50,6
+C1534,45,Female,Chennai,Bachelor's,50k-100k,16353.56,Silver,54,3
+C1535,18,Female,Chennai,High School,50k-100k,14943.74,Silver,38,1
+C1536,32,Male,Delhi,Master's,50k-100k,16094.02,Platinum,38,5
+C1537,32,Female,Hyderabad,Bachelor's,100k-200k,35126.54,Basic,16,8
+C1538,25,Male,Hyderabad,Master's,100k-200k,40365.34,Basic,44,8
+C1539,43,Female,Pune,Bachelor's,50k-100k,16490.67,Basic,39,5
+C1540,37,Male,Kolkata,Bachelor's,50k-100k,21406.17,Gold,27,6
+C1541,21,Female,Delhi,PhD,25k-50k,3587.09,Basic,14,1
+C1542,28,Male,Delhi,High School,<25k,3716.17,Silver,16,1
+C1543,31,Male,Delhi,Master's,200k+,56832.41,Gold,24,17
+C1544,22,Female,Mumbai,High School,25k-50k,10509.11,Platinum,31,4
+C1545,45,Male,Hyderabad,Master's,100k-200k,32816.1,Basic,5,7
+C1546,32,Male,Chennai,Bachelor's,25k-50k,9208.63,Silver,40,3
+C1547,38,Female,Bangalore,Bachelor's,25k-50k,9245.7,Basic,16,3
+C1548,50,Female,Mumbai,Bachelor's,100k-200k,38029.19,Basic,13,11
+C1549,28,Female,Mumbai,Master's,50k-100k,11937.63,Silver,4,1
+C1550,39,Male,Ahmedabad,Bachelor's,<25k,3810.8,Silver,38,1
+C1551,37,Female,Bangalore,Master's,100k-200k,28211.3,Basic,41,4
+C1552,35,Male,Pune,Bachelor's,50k-100k,14539.11,Basic,48,3
+C1553,56,Male,Pune,Bachelor's,100k-200k,33750.14,Gold,2,7
+C1554,49,Female,Kolkata,Master's,200k+,56163.35,Basic,43,7
+C1555,33,Female,Bangalore,Bachelor's,50k-100k,15919.89,Gold,36,1
+C1556,36,Male,Kolkata,PhD,100k-200k,25011.03,Basic,11,7
+C1557,30,Male,Hyderabad,PhD,50k-100k,23043.31,Silver,51,2
+C1558,51,Male,Mumbai,Bachelor's,100k-200k,33385.54,Basic,16,12
+C1559,45,Female,Delhi,High School,50k-100k,21004.2,Silver,48,6
+C1560,37,Male,Mumbai,Master's,25k-50k,6238.15,Gold,53,1
+C1561,36,Male,Mumbai,High School,25k-50k,8368.63,Gold,57,4
+C1562,34,Male,Pune,Bachelor's,50k-100k,16868.28,Gold,3,6
+C1563,50,Male,Bangalore,PhD,100k-200k,27667.7,Gold,58,10
+C1564,26,Female,Hyderabad,High School,25k-50k,10142.02,Basic,34,4
+C1565,28,Female,Mumbai,Master's,50k-100k,12812.89,Basic,31,6
+C1566,56,Male,Ahmedabad,Bachelor's,50k-100k,21100.61,Silver,8,3
+C1567,32,Female,Bangalore,PhD,25k-50k,8854.85,Basic,10,1
+C1568,18,Male,Kolkata,Master's,25k-50k,12209.09,Silver,57,1
+C1569,55,Female,Bangalore,Master's,200k+,49525.35,Basic,51,8
+C1570,18,Male,Delhi,High School,25k-50k,6498.11,Basic,25,1
+C1571,28,Female,Delhi,Master's,100k-200k,21641.72,Silver,30,3
+C1572,39,Female,Ahmedabad,Master's,25k-50k,7277.6,Gold,52,2
+C1573,37,Male,Bangalore,Master's,100k-200k,28043.53,Basic,53,16
+C1574,32,Female,Ahmedabad,Master's,200k+,39773.32,Gold,34,10
+C1575,47,Male,Delhi,PhD,200k+,66922.19,Platinum,9,22
+C1576,25,Female,Kolkata,High School,50k-100k,21725.94,Basic,27,4
+C1577,53,Male,Chennai,Master's,100k-200k,32291.0,Silver,21,11
+C1578,40,Female,Kolkata,Bachelor's,25k-50k,7075.61,Silver,20,2
+C1579,34,Female,Pune,High School,50k-100k,17209.62,Basic,16,6
+C1580,28,Male,Hyderabad,Bachelor's,25k-50k,8552.56,Gold,42,1
+C1581,31,Female,Chennai,Bachelor's,100k-200k,33163.95,Basic,37,7
+C1582,33,Female,Ahmedabad,Bachelor's,100k-200k,46106.39,Silver,46,13
+C1583,27,Male,Kolkata,Master's,50k-100k,14440.47,Gold,25,5
+C1584,40,Male,Delhi,Bachelor's,25k-50k,1895.34,Silver,39,2
+C1585,41,Male,Mumbai,Bachelor's,25k-50k,8665.88,Basic,53,2
+C1586,42,Male,Chennai,Bachelor's,100k-200k,40778.25,Gold,25,9
+C1587,52,Male,Delhi,Bachelor's,25k-50k,5207.89,Basic,52,1
+C1588,25,Male,Mumbai,Master's,25k-50k,7428.06,Basic,59,1
+C1589,41,Male,Bangalore,Bachelor's,25k-50k,7578.84,Basic,10,2
+C1590,18,Female,Bangalore,Bachelor's,25k-50k,10600.06,Platinum,17,2
+C1591,43,Female,Chennai,Bachelor's,25k-50k,5177.61,Basic,48,3
+C1592,29,Male,Mumbai,Bachelor's,50k-100k,23683.29,Basic,27,7
+C1593,32,Male,Hyderabad,Bachelor's,200k+,69026.33,Silver,14,15
+C1594,32,Male,Bangalore,Master's,25k-50k,6468.4,Platinum,55,2
+C1595,30,Male,Delhi,Bachelor's,50k-100k,23757.54,Basic,7,6
+C1596,24,Female,Ahmedabad,Bachelor's,<25k,3350.65,Basic,22,1
+C1597,46,Female,Delhi,Bachelor's,200k+,64664.63,Silver,11,13
+C1598,29,Male,Kolkata,PhD,<25k,1969.27,Platinum,2,1
+C1599,25,Female,Ahmedabad,Bachelor's,25k-50k,9766.25,Platinum,26,1
+C1600,40,Male,Delhi,Master's,50k-100k,16185.6,Gold,39,7
+C1601,38,Male,Kolkata,Bachelor's,25k-50k,4715.05,Gold,22,1
+C1602,18,Male,Delhi,Bachelor's,100k-200k,32227.66,Basic,10,9
+C1603,31,Female,Bangalore,Master's,100k-200k,29777.97,Basic,47,6
+C1604,46,Female,Chennai,Bachelor's,25k-50k,15204.11,Silver,2,2
+C1605,39,Male,Mumbai,Bachelor's,50k-100k,8792.0,Silver,20,4
+C1606,32,Female,Hyderabad,High School,25k-50k,7312.97,Platinum,43,1
+C1607,30,Male,Mumbai,High School,25k-50k,11777.33,Gold,7,4
+C1608,27,Male,Mumbai,Bachelor's,25k-50k,5501.57,Gold,9,1
+C1609,49,Male,Delhi,Bachelor's,25k-50k,7370.77,Silver,8,1
+C1610,23,Male,Pune,Bachelor's,25k-50k,11222.32,Gold,1,6
+C1611,39,Female,Hyderabad,Master's,<25k,3673.83,Gold,9,1
+C1612,37,Female,Mumbai,Bachelor's,50k-100k,14492.79,Silver,23,4
+C1613,40,Female,Chennai,Master's,25k-50k,9741.95,Silver,56,1
+C1614,45,Female,Chennai,Bachelor's,50k-100k,22206.6,Silver,8,6
+C1615,18,Male,Mumbai,Master's,25k-50k,12365.91,Basic,16,2
+C1616,39,Male,Ahmedabad,High School,200k+,22231.35,Basic,11,8
+C1617,29,Female,Bangalore,Bachelor's,50k-100k,17503.9,Basic,29,5
+C1618,35,Female,Mumbai,Bachelor's,100k-200k,35508.9,Basic,54,12
+C1619,37,Female,Hyderabad,High School,100k-200k,31733.98,Basic,7,7
+C1620,43,Male,Pune,Master's,200k+,55460.13,Silver,32,19
+C1621,24,Male,Pune,High School,50k-100k,18140.59,Gold,54,2
+C1622,25,Male,Pune,PhD,50k-100k,16417.07,Platinum,6,1
+C1623,29,Female,Bangalore,PhD,50k-100k,24853.88,Gold,47,9
+C1624,37,Male,Pune,High School,25k-50k,8252.85,Platinum,36,1
+C1625,34,Male,Delhi,High School,25k-50k,7001.44,Gold,45,1
+C1626,51,Female,Mumbai,Bachelor's,100k-200k,29583.99,Silver,39,6
+C1627,31,Male,Ahmedabad,PhD,100k-200k,36623.48,Silver,42,12
+C1628,24,Male,Ahmedabad,Bachelor's,50k-100k,14123.46,Basic,55,4
+C1629,34,Female,Mumbai,High School,50k-100k,5677.73,Silver,19,1
+C1630,25,Male,Bangalore,Bachelor's,50k-100k,11625.68,Silver,6,4
+C1631,41,Male,Pune,Bachelor's,50k-100k,14981.43,Basic,49,3
+C1632,34,Male,Ahmedabad,Master's,100k-200k,37324.87,Gold,19,5
+C1633,39,Male,Mumbai,High School,25k-50k,12004.78,Silver,19,4
+C1634,40,Female,Pune,Bachelor's,100k-200k,47292.15,Basic,8,18
+C1635,32,Female,Bangalore,Master's,50k-100k,14789.17,Basic,16,4
+C1636,26,Male,Chennai,Master's,50k-100k,11678.67,Basic,35,3
+C1637,34,Female,Delhi,PhD,100k-200k,32283.58,Basic,41,9
+C1638,36,Male,Pune,Bachelor's,25k-50k,9738.23,Silver,5,1
+C1639,18,Male,Mumbai,Bachelor's,25k-50k,9862.18,Gold,50,2
+C1640,32,Male,Chennai,Master's,50k-100k,18578.2,Silver,20,3
+C1641,24,Male,Chennai,Bachelor's,25k-50k,6967.87,Silver,39,1
+C1642,40,Male,Delhi,High School,50k-100k,9052.77,Basic,29,2
+C1643,30,Female,Chennai,High School,50k-100k,21304.72,Silver,23,6
+C1644,28,Female,Delhi,Bachelor's,100k-200k,41534.26,Basic,52,8
+C1645,33,Male,Delhi,Master's,100k-200k,21534.5,Silver,54,6
+C1646,38,Female,Bangalore,High School,25k-50k,11266.96,Basic,52,3
+C1647,39,Male,Ahmedabad,High School,<25k,3410.06,Basic,46,1
+C1648,31,Male,Chennai,PhD,50k-100k,13475.83,Silver,43,5
+C1649,44,Female,Bangalore,Bachelor's,50k-100k,22764.01,Basic,56,3
+C1650,42,Male,Mumbai,Bachelor's,50k-100k,24733.76,Silver,20,4
+C1651,35,Male,Pune,Master's,50k-100k,16565.27,Silver,30,5
+C1652,18,Male,Hyderabad,High School,25k-50k,6639.2,Gold,25,1
+C1653,50,Female,Ahmedabad,Master's,100k-200k,12285.25,Silver,37,2
+C1654,39,Female,Pune,Bachelor's,200k+,68466.18,Basic,19,16
+C1655,30,Other,Ahmedabad,Master's,50k-100k,14627.29,Basic,57,3
+C1656,33,Male,Bangalore,Bachelor's,25k-50k,8169.92,Basic,15,2
+C1657,60,Female,Chennai,High School,50k-100k,14361.45,Silver,50,1
+C1658,31,Male,Hyderabad,PhD,50k-100k,24118.63,Basic,29,7
+C1659,41,Male,Kolkata,Bachelor's,50k-100k,22856.41,Basic,9,8
+C1660,27,Female,Hyderabad,High School,50k-100k,16141.8,Basic,53,8
+C1661,18,Male,Bangalore,Bachelor's,25k-50k,7765.9,Basic,30,1
+C1662,58,Female,Bangalore,Master's,50k-100k,22121.03,Basic,38,6
+C1663,32,Male,Mumbai,Master's,100k-200k,39582.31,Gold,1,5
+C1664,28,Male,Kolkata,Master's,50k-100k,25914.75,Gold,2,5
+C1665,40,Male,Delhi,Bachelor's,100k-200k,31581.05,Silver,24,7
+C1666,25,Male,Ahmedabad,Bachelor's,50k-100k,20395.83,Basic,48,7
+C1667,39,Male,Hyderabad,Master's,25k-50k,6532.43,Basic,26,2
+C1668,57,Female,Mumbai,High School,25k-50k,7658.52,Gold,46,1
+C1669,25,Female,Mumbai,High School,50k-100k,25686.93,Platinum,12,7
+C1670,23,Female,Mumbai,Bachelor's,100k-200k,54148.98,Basic,8,17
+C1671,35,Female,Delhi,High School,100k-200k,43978.77,Platinum,28,10
+C1672,39,Male,Ahmedabad,Bachelor's,100k-200k,59977.32,Gold,6,17
+C1673,64,Female,Bangalore,Master's,100k-200k,48391.66,Platinum,33,17
+C1674,29,Female,Mumbai,Bachelor's,100k-200k,28088.25,Platinum,16,8
+C1675,39,Female,Hyderabad,High School,50k-100k,10426.64,Silver,14,1
+C1676,33,Male,Pune,Bachelor's,50k-100k,11673.06,Gold,27,2
+C1677,33,Female,Delhi,Master's,200k+,68469.13,Silver,22,22
+C1678,35,Female,Delhi,Master's,25k-50k,5916.0,Basic,31,1
+C1679,24,Male,Ahmedabad,Bachelor's,50k-100k,21552.22,Basic,25,7
+C1680,43,Female,Ahmedabad,Bachelor's,25k-50k,6117.76,Platinum,15,1
+C1681,45,Male,Delhi,Master's,100k-200k,43398.54,Gold,58,8
+C1682,41,Female,Mumbai,Bachelor's,100k-200k,39015.48,Silver,23,12
+C1683,40,Female,Bangalore,Master's,50k-100k,9756.11,Silver,2,3
+C1684,52,Female,Ahmedabad,Bachelor's,50k-100k,17974.11,Silver,52,2
+C1685,48,Female,Bangalore,Bachelor's,25k-50k,6133.72,Basic,11,2
+C1686,20,Female,Delhi,PhD,50k-100k,13828.92,Basic,43,2
+C1687,37,Male,Delhi,PhD,100k-200k,21780.6,Gold,20,2
+C1688,47,Female,Ahmedabad,Master's,50k-100k,19102.73,Platinum,29,5
+C1689,34,Male,Pune,Master's,200k+,86439.86,Gold,48,26
+C1690,21,Female,Ahmedabad,Bachelor's,<25k,3712.25,Basic,53,1
+C1691,37,Other,Ahmedabad,Master's,50k-100k,17474.18,Gold,35,4
+C1692,18,Male,Mumbai,Bachelor's,25k-50k,9466.54,Silver,17,2
+C1693,32,Male,Ahmedabad,PhD,25k-50k,9861.69,Silver,51,2
+C1694,31,Female,Kolkata,Master's,50k-100k,20924.86,Basic,56,3
+C1695,39,Male,Chennai,Master's,100k-200k,43301.39,Gold,23,8
+C1696,21,Other,Delhi,Bachelor's,25k-50k,7642.17,Basic,44,4
+C1697,29,Female,Pune,Master's,100k-200k,31187.37,Gold,20,5
+C1698,31,Female,Pune,Master's,100k-200k,39730.13,Basic,55,5
+C1699,37,Female,Pune,Master's,25k-50k,7561.16,Platinum,19,2
+C1700,21,Female,Bangalore,Bachelor's,<25k,2355.81,Silver,1,1
+C1701,56,Female,Bangalore,High School,50k-100k,12691.18,Platinum,7,1
+C1702,46,Female,Chennai,Bachelor's,50k-100k,22223.07,Basic,26,3
+C1703,48,Male,Bangalore,Bachelor's,100k-200k,41090.18,Platinum,47,7
+C1704,34,Female,Delhi,PhD,50k-100k,16663.68,Basic,31,4
+C1705,50,Male,Kolkata,High School,25k-50k,5932.06,Basic,51,2
+C1706,21,Male,Delhi,Bachelor's,<25k,3508.83,Silver,40,1
+C1707,31,Female,Delhi,Bachelor's,25k-50k,8436.7,Gold,35,2
+C1708,18,Male,Bangalore,Master's,100k-200k,43678.89,Gold,55,14
+C1709,24,Male,Delhi,Master's,100k-200k,42394.38,Platinum,9,6
+C1710,25,Male,Kolkata,High School,100k-200k,26126.96,Silver,48,5
+C1711,28,Male,Pune,Master's,25k-50k,7716.3,Basic,56,1
+C1712,18,Male,Delhi,Bachelor's,50k-100k,11540.29,Silver,52,3
+C1713,46,Female,Chennai,Bachelor's,50k-100k,23036.77,Silver,16,5
+C1714,34,Other,Bangalore,Bachelor's,100k-200k,25949.63,Silver,11,3
+C1715,33,Female,Mumbai,High School,25k-50k,6325.73,Basic,54,1
+C1716,60,Female,Mumbai,Master's,100k-200k,11395.46,Silver,32,4
+C1717,22,Female,Delhi,Bachelor's,50k-100k,21644.29,Silver,37,10
+C1718,35,Male,Kolkata,PhD,100k-200k,22337.43,Silver,39,6
+C1719,18,Male,Delhi,Master's,<25k,3493.95,Basic,36,1
+C1720,21,Male,Kolkata,Bachelor's,100k-200k,34605.49,Gold,42,16
+C1721,37,Female,Kolkata,PhD,50k-100k,9739.16,Basic,5,3
+C1722,47,Male,Mumbai,Bachelor's,100k-200k,34896.76,Gold,24,10
+C1723,18,Female,Kolkata,High School,25k-50k,11093.32,Basic,39,2
+C1724,18,Male,Delhi,PhD,25k-50k,8164.84,Basic,39,4
+C1725,25,Male,Kolkata,Bachelor's,100k-200k,47764.59,Basic,44,10
+C1726,58,Male,Ahmedabad,High School,<25k,3893.02,Basic,5,1
+C1727,43,Male,Mumbai,PhD,25k-50k,12374.1,Silver,36,5
+C1728,18,Female,Kolkata,Master's,100k-200k,46106.95,Silver,10,14
+C1729,45,Female,Chennai,Master's,50k-100k,13745.93,Basic,33,2
+C1730,57,Male,Delhi,High School,50k-100k,26702.68,Silver,14,7
+C1731,35,Female,Ahmedabad,Bachelor's,<25k,4621.26,Platinum,13,1
+C1732,49,Female,Delhi,Master's,100k-200k,43345.4,Basic,40,11
+C1733,28,Female,Bangalore,Bachelor's,<25k,2477.6,Platinum,28,1
+C1734,51,Female,Bangalore,Bachelor's,100k-200k,48993.86,Basic,33,10
+C1735,18,Female,Hyderabad,PhD,<25k,1773.89,Silver,8,1
+C1736,30,Male,Bangalore,Master's,50k-100k,13505.27,Basic,52,2
+C1737,29,Female,Delhi,High School,50k-100k,21301.72,Silver,24,4
+C1738,23,Male,Hyderabad,Bachelor's,50k-100k,12389.03,Silver,42,4
+C1739,50,Male,Bangalore,Master's,200k+,68999.83,Basic,1,15
+C1740,29,Female,Kolkata,Bachelor's,50k-100k,14980.27,Basic,47,8
+C1741,48,Male,Ahmedabad,Bachelor's,50k-100k,22591.4,Basic,17,6
+C1742,35,Female,Kolkata,Bachelor's,25k-50k,7681.65,Gold,4,2
+C1743,18,Female,Mumbai,Master's,100k-200k,32301.0,Basic,41,11
+C1744,24,Female,Chennai,Master's,<25k,3499.81,Basic,42,1
+C1745,44,Male,Bangalore,Master's,50k-100k,15733.71,Platinum,45,3
+C1746,44,Male,Hyderabad,Master's,100k-200k,17887.3,Basic,18,3
+C1747,42,Female,Kolkata,High School,100k-200k,48778.76,Basic,48,12
+C1748,36,Male,Pune,Bachelor's,50k-100k,14918.44,Basic,12,4
+C1749,42,Male,Ahmedabad,Bachelor's,100k-200k,40516.23,Platinum,12,9
+C1750,25,Female,Hyderabad,Bachelor's,25k-50k,6086.57,Silver,35,1
+C1751,42,Male,Kolkata,Bachelor's,50k-100k,13221.42,Gold,32,4
+C1752,39,Male,Pune,High School,100k-200k,34308.78,Basic,25,9
+C1753,18,Female,Kolkata,Bachelor's,25k-50k,11631.92,Silver,41,4
+C1754,37,Male,Kolkata,Master's,200k+,54072.04,Gold,38,15
+C1755,33,Female,Mumbai,Master's,100k-200k,29562.56,Silver,46,4
+C1756,19,Female,Kolkata,Master's,50k-100k,11914.13,Basic,43,1
+C1757,31,Male,Delhi,Bachelor's,50k-100k,22600.43,Silver,19,4
+C1758,31,Female,Mumbai,PhD,100k-200k,31097.63,Basic,14,11
+C1759,39,Male,Chennai,High School,50k-100k,21523.44,Gold,15,5
+C1760,37,Female,Chennai,High School,<25k,4310.06,Silver,30,1
+C1761,32,Male,Mumbai,Master's,50k-100k,17449.71,Basic,52,3
+C1762,40,Male,Mumbai,High School,50k-100k,19766.35,Gold,40,6
+C1763,18,Male,Delhi,High School,100k-200k,36771.63,Silver,21,12
+C1764,23,Female,Mumbai,Master's,50k-100k,18545.19,Gold,5,3
+C1765,35,Female,Bangalore,PhD,25k-50k,10997.93,Silver,36,3
+C1766,28,Male,Delhi,High School,50k-100k,11808.84,Silver,39,4
+C1767,53,Male,Chennai,Master's,50k-100k,8232.41,Basic,41,1
+C1768,31,Male,Ahmedabad,Bachelor's,100k-200k,44720.81,Basic,35,6
+C1769,25,Male,Mumbai,Master's,<25k,3848.76,Basic,32,2
+C1770,28,Male,Mumbai,PhD,50k-100k,7851.11,Basic,41,1
+C1771,26,Female,Mumbai,Master's,<25k,3358.97,Silver,54,1
+C1772,33,Female,Ahmedabad,High School,50k-100k,21629.75,Gold,19,12
+C1773,33,Male,Hyderabad,High School,25k-50k,11813.62,Basic,47,2
+C1774,39,Male,Hyderabad,High School,25k-50k,8999.29,Gold,53,5
+C1775,47,Male,Ahmedabad,Master's,200k+,34288.0,Silver,34,12
+C1776,33,Female,Kolkata,Bachelor's,100k-200k,19644.82,Basic,19,4
+C1777,49,Female,Bangalore,Master's,200k+,52182.82,Silver,17,6
+C1778,25,Female,Hyderabad,Bachelor's,25k-50k,5264.03,Basic,50,1
+C1779,33,Male,Hyderabad,Master's,100k-200k,17583.72,Basic,48,7
+C1780,45,Female,Hyderabad,Master's,50k-100k,21775.68,Silver,31,10
+C1781,29,Male,Mumbai,High School,50k-100k,20688.74,Basic,40,4
+C1782,65,Male,Mumbai,PhD,200k+,66970.35,Basic,55,10
+C1783,22,Male,Chennai,Bachelor's,25k-50k,6112.74,Basic,33,1
+C1784,21,Female,Mumbai,Bachelor's,100k-200k,23951.79,Gold,37,7
+C1785,37,Male,Ahmedabad,Bachelor's,50k-100k,21298.03,Platinum,47,10
+C1786,41,Female,Mumbai,High School,50k-100k,26577.18,Basic,42,3
+C1787,32,Male,Delhi,Bachelor's,50k-100k,24489.11,Silver,23,4
+C1788,46,Female,Delhi,Master's,200k+,71841.83,Basic,25,23
+C1789,34,Female,Hyderabad,High School,25k-50k,4531.9,Gold,39,1
+C1790,18,Female,Bangalore,Master's,<25k,2582.0,Basic,18,1
+C1791,37,Female,Hyderabad,Master's,50k-100k,7966.35,Gold,16,7
+C1792,23,Female,Chennai,High School,50k-100k,20755.87,Basic,31,1
+C1793,22,Female,Pune,High School,<25k,3371.33,Platinum,24,1
+C1794,37,Female,Hyderabad,Bachelor's,50k-100k,21927.67,Gold,57,4
+C1795,51,Male,Mumbai,High School,25k-50k,8319.63,Basic,4,1
+C1796,37,Male,Mumbai,High School,100k-200k,34594.6,Basic,37,13
+C1797,18,Female,Pune,Bachelor's,25k-50k,6142.2,Silver,36,1
+C1798,34,Female,Hyderabad,Master's,100k-200k,39286.53,Silver,46,9
+C1799,23,Male,Mumbai,Bachelor's,50k-100k,20215.2,Basic,49,5
+C1800,39,Male,Pune,Bachelor's,50k-100k,21575.02,Platinum,17,6
+C1801,47,Male,Hyderabad,High School,50k-100k,14568.24,Silver,26,4
+C1802,29,Female,Chennai,PhD,100k-200k,20332.36,Platinum,54,6
+C1803,26,Female,Mumbai,PhD,25k-50k,8591.35,Silver,4,1
+C1804,24,Male,Pune,Master's,50k-100k,17723.63,Basic,14,5
+C1805,35,Male,Hyderabad,Master's,25k-50k,5890.46,Basic,7,2
+C1806,33,Female,Mumbai,Bachelor's,25k-50k,9143.97,Basic,21,2
+C1807,25,Male,Bangalore,PhD,50k-100k,20102.03,Basic,35,8
+C1808,40,Female,Delhi,Master's,200k+,33547.44,Silver,32,6
+C1809,19,Male,Mumbai,Bachelor's,<25k,1873.51,Basic,25,1
+C1810,33,Female,Ahmedabad,Master's,50k-100k,18527.86,Platinum,34,3
+C1811,50,Female,Mumbai,Bachelor's,50k-100k,10003.31,Gold,30,4
+C1812,40,Male,Ahmedabad,PhD,25k-50k,5982.45,Platinum,4,1
+C1813,39,Male,Kolkata,Master's,100k-200k,32435.56,Platinum,47,4
+C1814,24,Female,Bangalore,Master's,25k-50k,7725.8,Basic,46,1
+C1815,18,Male,Chennai,Bachelor's,50k-100k,16614.82,Basic,39,1
+C1816,42,Male,Delhi,Master's,100k-200k,21344.57,Basic,38,8
+C1817,24,Female,Bangalore,Bachelor's,50k-100k,19005.45,Gold,33,4
+C1818,32,Female,Pune,High School,50k-100k,27898.16,Basic,44,7
+C1819,40,Male,Mumbai,Master's,100k-200k,47685.64,Silver,57,10
+C1820,23,Female,Hyderabad,Master's,<25k,3420.67,Silver,4,1
+C1821,30,Male,Pune,High School,100k-200k,29852.85,Silver,2,15
+C1822,29,Male,Kolkata,High School,25k-50k,11604.91,Silver,22,3
+C1823,26,Female,Pune,Master's,25k-50k,5570.92,Platinum,6,2
+C1824,36,Female,Ahmedabad,Bachelor's,50k-100k,27670.2,Gold,52,8
+C1825,27,Female,Ahmedabad,Bachelor's,50k-100k,25541.05,Silver,6,6
+C1826,38,Male,Pune,Master's,25k-50k,8882.76,Basic,58,5
+C1827,29,Female,Bangalore,Master's,50k-100k,20676.78,Platinum,30,7
+C1828,21,Female,Kolkata,Bachelor's,<25k,1789.96,Basic,56,1
+C1829,42,Female,Ahmedabad,Master's,25k-50k,7710.76,Basic,7,1
+C1830,38,Female,Hyderabad,High School,25k-50k,8947.4,Gold,16,3
+C1831,35,Female,Delhi,Bachelor's,50k-100k,17455.03,Platinum,34,6
+C1832,18,Male,Kolkata,Bachelor's,<25k,2110.83,Silver,32,1
+C1833,27,Male,Mumbai,High School,50k-100k,13702.35,Basic,4,2
+C1834,32,Male,Mumbai,Master's,25k-50k,6256.23,Gold,12,1
+C1835,49,Female,Mumbai,High School,50k-100k,23519.69,Gold,11,7
+C1836,36,Male,Delhi,Bachelor's,25k-50k,9161.78,Silver,4,3
+C1837,43,Male,Bangalore,High School,50k-100k,23052.72,Basic,20,5
+C1838,40,Male,Chennai,Bachelor's,200k+,53176.3,Basic,34,18
+C1839,39,Male,Kolkata,High School,25k-50k,4448.39,Basic,9,1
+C1840,41,Male,Bangalore,Bachelor's,50k-100k,13185.69,Basic,56,4
+C1841,37,Female,Mumbai,PhD,100k-200k,24148.77,Basic,47,8
+C1842,23,Male,Hyderabad,Bachelor's,50k-100k,18942.7,Platinum,59,4
+C1843,19,Other,Chennai,Master's,25k-50k,11454.66,Silver,38,2
+C1844,44,Female,Bangalore,High School,200k+,79153.05,Silver,54,15
+C1845,49,Male,Mumbai,Master's,100k-200k,23311.13,Silver,8,5
+C1846,39,Female,Pune,PhD,50k-100k,25190.05,Platinum,14,5
+C1847,47,Male,Delhi,Bachelor's,50k-100k,11729.65,Silver,56,1
+C1848,37,Female,Ahmedabad,PhD,50k-100k,17208.35,Silver,42,5
+C1849,43,Female,Mumbai,Master's,50k-100k,11289.46,Platinum,21,2
+C1850,44,Male,Pune,High School,100k-200k,44153.59,Silver,35,5
+C1851,23,Other,Mumbai,Master's,25k-50k,9376.09,Silver,55,1
+C1852,35,Male,Hyderabad,Master's,50k-100k,13935.61,Gold,48,7
+C1853,32,Male,Mumbai,PhD,100k-200k,22072.1,Silver,26,4
+C1854,26,Female,Bangalore,Bachelor's,50k-100k,19178.98,Silver,19,4
+C1855,18,Female,Ahmedabad,Bachelor's,25k-50k,10716.85,Silver,46,2
+C1856,45,Male,Mumbai,Master's,50k-100k,16743.75,Basic,4,2
+C1857,34,Male,Delhi,High School,50k-100k,23720.47,Silver,26,4
+C1858,46,Male,Delhi,High School,100k-200k,45561.36,Platinum,4,11
+C1859,18,Male,Mumbai,Master's,25k-50k,6349.26,Silver,41,1
+C1860,39,Female,Bangalore,Master's,25k-50k,6177.36,Silver,3,3
+C1861,46,Male,Kolkata,Master's,100k-200k,20347.73,Silver,27,6
+C1862,23,Male,Ahmedabad,Bachelor's,200k+,63318.44,Silver,6,12
+C1863,34,Male,Delhi,Bachelor's,100k-200k,24404.24,Basic,58,4
+C1864,58,Male,Kolkata,Master's,100k-200k,28393.34,Platinum,2,7
+C1865,18,Female,Hyderabad,High School,200k+,56415.92,Silver,32,11
+C1866,37,Male,Hyderabad,Master's,200k+,87370.66,Gold,52,19
+C1867,18,Male,Delhi,Master's,25k-50k,9288.52,Platinum,45,4
+C1868,25,Female,Hyderabad,Master's,50k-100k,7019.27,Silver,25,2
+C1869,30,Female,Chennai,Bachelor's,50k-100k,22560.91,Basic,2,4
+C1870,31,Female,Chennai,Master's,25k-50k,5436.68,Basic,50,1
+C1871,38,Female,Bangalore,Master's,200k+,50519.69,Gold,25,13
+C1872,48,Male,Pune,Bachelor's,50k-100k,19929.97,Gold,56,2
+C1873,42,Female,Hyderabad,Bachelor's,50k-100k,21765.13,Gold,41,8
+C1874,40,Female,Hyderabad,Bachelor's,50k-100k,14495.94,Basic,36,1
+C1875,50,Male,Kolkata,Bachelor's,<25k,2330.52,Platinum,14,1
+C1876,38,Female,Hyderabad,High School,100k-200k,40894.88,Platinum,33,10
+C1877,32,Other,Delhi,Master's,50k-100k,24154.11,Platinum,37,6
+C1878,37,Male,Kolkata,Bachelor's,100k-200k,29070.37,Basic,23,10
+C1879,26,Male,Mumbai,Bachelor's,50k-100k,31352.53,Gold,12,4
+C1880,47,Female,Hyderabad,Bachelor's,100k-200k,25393.42,Basic,27,9
+C1881,26,Male,Hyderabad,Bachelor's,200k+,56044.82,Silver,47,13
+C1882,43,Female,Delhi,Bachelor's,100k-200k,23239.29,Platinum,7,7
+C1883,18,Female,Ahmedabad,High School,25k-50k,11347.85,Silver,44,4
+C1884,27,Female,Delhi,High School,50k-100k,8684.37,Platinum,16,2
+C1885,35,Other,Pune,Master's,100k-200k,39047.25,Basic,35,7
+C1886,33,Male,Chennai,Bachelor's,100k-200k,35841.9,Platinum,17,6
+C1887,24,Female,Delhi,Bachelor's,50k-100k,13705.22,Silver,58,1
+C1888,32,Female,Hyderabad,Master's,100k-200k,53545.28,Basic,43,16
+C1889,23,Female,Ahmedabad,Bachelor's,25k-50k,6939.29,Silver,44,2
+C1890,37,Other,Delhi,Bachelor's,100k-200k,46116.85,Platinum,46,10
+C1891,18,Male,Pune,Bachelor's,50k-100k,16131.07,Gold,24,5
+C1892,23,Female,Bangalore,Bachelor's,25k-50k,4882.95,Silver,7,1
+C1893,47,Female,Pune,High School,50k-100k,16058.57,Silver,30,3
+C1894,31,Male,Mumbai,High School,<25k,2136.68,Platinum,52,1
+C1895,29,Female,Chennai,Bachelor's,25k-50k,8967.86,Basic,26,3
+C1896,49,Female,Mumbai,Bachelor's,50k-100k,24902.01,Silver,32,5
+C1897,20,Male,Mumbai,Bachelor's,50k-100k,13445.74,Platinum,41,3
+C1898,47,Female,Hyderabad,Master's,25k-50k,9605.6,Basic,45,2
+C1899,34,Male,Hyderabad,Bachelor's,<25k,4494.23,Silver,55,3
+C1900,49,Male,Hyderabad,Bachelor's,50k-100k,24607.18,Basic,25,4
+C1901,47,Male,Chennai,Bachelor's,100k-200k,42082.15,Platinum,25,11
+C1902,40,Male,Mumbai,High School,<25k,2875.46,Basic,34,1
+C1903,37,Male,Ahmedabad,Bachelor's,200k+,57106.69,Platinum,17,12
+C1904,36,Male,Mumbai,Bachelor's,50k-100k,17410.51,Basic,37,3
+C1905,29,Male,Kolkata,Master's,<25k,4477.61,Silver,24,1
+C1906,45,Female,Mumbai,Bachelor's,100k-200k,53912.88,Basic,36,19
+C1907,30,Female,Kolkata,Bachelor's,25k-50k,8326.89,Basic,40,4
+C1908,41,Male,Kolkata,Master's,25k-50k,5226.94,Basic,6,1
+C1909,26,Female,Ahmedabad,High School,50k-100k,16990.51,Gold,43,5
+C1910,35,Female,Delhi,Bachelor's,25k-50k,10952.96,Gold,8,4
+C1911,18,Female,Kolkata,Bachelor's,100k-200k,46157.26,Platinum,54,11
+C1912,29,Male,Mumbai,Bachelor's,100k-200k,35316.1,Basic,24,10
+C1913,49,Female,Bangalore,Bachelor's,50k-100k,17780.57,Silver,42,6
+C1914,37,Male,Pune,Master's,25k-50k,8824.85,Platinum,27,1
+C1915,46,Female,Chennai,Master's,100k-200k,27303.57,Silver,57,7
+C1916,37,Female,Delhi,Master's,50k-100k,12484.84,Basic,11,1
+C1917,33,Female,Kolkata,Bachelor's,<25k,2490.43,Basic,27,1
+C1918,26,Male,Delhi,Bachelor's,25k-50k,9867.25,Silver,9,3
+C1919,37,Male,Chennai,Master's,100k-200k,35492.99,Basic,56,8
+C1920,41,Female,Mumbai,Bachelor's,50k-100k,11937.37,Basic,37,1
+C1921,41,Male,Hyderabad,Bachelor's,50k-100k,20475.82,Basic,13,4
+C1922,35,Female,Mumbai,Master's,<25k,3162.61,Gold,51,1
+C1923,35,Female,Mumbai,Bachelor's,100k-200k,30377.0,Basic,7,6
+C1924,44,Female,Mumbai,High School,50k-100k,13715.04,Basic,6,2
+C1925,28,Female,Chennai,Bachelor's,100k-200k,33004.11,Basic,18,12
+C1926,40,Male,Hyderabad,Bachelor's,25k-50k,11481.77,Basic,59,1
+C1927,37,Male,Delhi,High School,100k-200k,38507.16,Gold,30,10
+C1928,38,Male,Mumbai,High School,<25k,3808.89,Gold,41,1
+C1929,32,Female,Hyderabad,Master's,50k-100k,16893.71,Gold,34,1
+C1930,31,Male,Kolkata,High School,25k-50k,9693.71,Basic,2,6
+C1931,34,Female,Bangalore,Master's,100k-200k,49442.1,Silver,57,10
+C1932,57,Female,Bangalore,High School,50k-100k,26218.42,Basic,53,8
+C1933,48,Female,Kolkata,Bachelor's,50k-100k,9073.71,Basic,22,1
+C1934,39,Female,Chennai,PhD,100k-200k,42737.92,Gold,43,7
+C1935,35,Male,Mumbai,Master's,50k-100k,3156.51,Gold,58,1
+C1936,35,Female,Hyderabad,Bachelor's,50k-100k,8301.22,Gold,33,3
+C1937,45,Male,Mumbai,Bachelor's,100k-200k,24397.42,Gold,45,6
+C1938,43,Female,Kolkata,Bachelor's,100k-200k,54288.46,Gold,8,17
+C1939,34,Female,Ahmedabad,Master's,200k+,56722.94,Silver,17,17
+C1940,43,Female,Kolkata,Master's,<25k,1641.01,Silver,5,1
+C1941,20,Male,Bangalore,High School,<25k,4237.35,Silver,28,1
+C1942,39,Male,Bangalore,Master's,50k-100k,13880.29,Basic,51,3
+C1943,32,Male,Mumbai,Bachelor's,25k-50k,4107.94,Gold,48,2
+C1944,18,Male,Ahmedabad,Bachelor's,50k-100k,21728.34,Basic,59,5
+C1945,38,Female,Hyderabad,Master's,200k+,80411.19,Basic,20,27
+C1946,37,Male,Kolkata,High School,50k-100k,22946.33,Basic,55,9
+C1947,45,Male,Ahmedabad,Bachelor's,25k-50k,2377.47,Basic,5,1
+C1948,40,Female,Chennai,High School,25k-50k,10206.0,Basic,49,3
+C1949,35,Female,Pune,Bachelor's,50k-100k,21381.86,Gold,48,3
+C1950,24,Female,Bangalore,Bachelor's,50k-100k,24528.52,Platinum,53,8
+C1951,51,Male,Bangalore,Master's,200k+,61642.17,Silver,30,15
+C1952,29,Other,Chennai,Master's,50k-100k,8847.01,Basic,39,1
+C1953,43,Male,Mumbai,Bachelor's,<25k,3278.57,Basic,13,1
+C1954,21,Female,Pune,PhD,<25k,1497.72,Silver,7,1
+C1955,32,Male,Kolkata,Bachelor's,50k-100k,13493.24,Platinum,16,1
+C1956,37,Male,Hyderabad,Master's,200k+,66283.15,Gold,57,16
+C1957,56,Female,Kolkata,PhD,50k-100k,24459.92,Gold,26,3
+C1958,41,Male,Mumbai,Master's,200k+,49028.01,Basic,6,12
+C1959,42,Female,Ahmedabad,Master's,25k-50k,10042.98,Basic,8,3
+C1960,23,Other,Delhi,Bachelor's,100k-200k,39053.99,Silver,41,9
+C1961,31,Female,Ahmedabad,Bachelor's,25k-50k,7281.21,Silver,29,3
+C1962,55,Female,Chennai,High School,25k-50k,6046.26,Gold,46,2
+C1963,21,Male,Bangalore,Bachelor's,25k-50k,6819.81,Basic,29,1
+C1964,28,Male,Delhi,Master's,25k-50k,6149.78,Silver,49,1
+C1965,50,Female,Chennai,Bachelor's,200k+,81845.64,Silver,41,18
+C1966,27,Male,Bangalore,Bachelor's,200k+,76843.52,Platinum,37,20
+C1967,24,Male,Pune,Master's,100k-200k,31663.59,Silver,47,9
+C1968,37,Female,Delhi,Master's,25k-50k,6714.08,Basic,34,1
+C1969,43,Female,Chennai,High School,100k-200k,39818.25,Platinum,1,10
+C1970,31,Female,Delhi,High School,<25k,3264.75,Basic,21,2
+C1971,18,Female,Kolkata,Bachelor's,50k-100k,15180.73,Basic,45,7
+C1972,39,Female,Ahmedabad,High School,25k-50k,9086.62,Basic,9,3
+C1973,54,Female,Pune,Bachelor's,200k+,51593.5,Silver,35,14
+C1974,45,Female,Mumbai,Bachelor's,200k+,47961.05,Gold,44,9
+C1975,21,Male,Bangalore,Master's,50k-100k,19208.38,Silver,37,1
+C1976,25,Male,Ahmedabad,Bachelor's,100k-200k,41742.01,Silver,25,4
+C1977,28,Male,Chennai,Master's,50k-100k,12708.97,Basic,12,5
+C1978,28,Female,Bangalore,Bachelor's,25k-50k,7488.58,Silver,36,1
+C1979,32,Female,Ahmedabad,Master's,50k-100k,20827.06,Gold,41,3
+C1980,35,Female,Delhi,Master's,<25k,2673.48,Basic,7,1
+C1981,26,Female,Bangalore,Bachelor's,25k-50k,6090.05,Silver,5,1
+C1982,40,Female,Pune,High School,25k-50k,6958.3,Silver,26,2
+C1983,48,Male,Chennai,Bachelor's,50k-100k,18862.18,Silver,55,3
+C1984,36,Female,Kolkata,Bachelor's,100k-200k,44205.58,Basic,1,15
+C1985,47,Male,Pune,Bachelor's,200k+,56649.44,Silver,15,21
+C1986,36,Female,Bangalore,High School,100k-200k,53305.64,Gold,47,13
+C1987,18,Female,Hyderabad,PhD,100k-200k,52807.89,Basic,51,16
+C1988,27,Male,Hyderabad,Master's,25k-50k,7189.37,Silver,59,1
+C1989,35,Female,Chennai,Bachelor's,25k-50k,2299.99,Silver,38,2
+C1990,48,Female,Mumbai,PhD,<25k,1520.96,Silver,15,3
+C1991,31,Female,Hyderabad,PhD,100k-200k,45846.68,Platinum,43,11
+C1992,40,Female,Mumbai,Master's,100k-200k,30630.64,Silver,55,8
+C1993,47,Female,Kolkata,Master's,50k-100k,19128.06,Silver,20,8
+C1994,29,Female,Ahmedabad,Master's,50k-100k,21127.01,Basic,57,10
+C1995,44,Female,Mumbai,Bachelor's,25k-50k,5961.64,Basic,1,5
+C1996,28,Male,Mumbai,Master's,100k-200k,40512.29,Basic,30,7
+C1997,18,Female,Delhi,Bachelor's,50k-100k,21151.92,Basic,9,5
+C1998,28,Male,Mumbai,Bachelor's,100k-200k,20665.7,Platinum,29,1
+C1999,36,Female,Ahmedabad,Bachelor's,<25k,2076.1,Basic,14,1
+C2000,19,Female,Ahmedabad,Master's,25k-50k,4931.89,Platinum,25,1
+C2001,50,Male,Mumbai,Bachelor's,50k-100k,14971.3,Platinum,39,4
+C2002,51,Male,Mumbai,PhD,50k-100k,18908.66,Silver,54,5
+C2003,27,Male,Mumbai,High School,25k-50k,6858.58,Gold,57,2
+C2004,44,Female,Kolkata,Bachelor's,25k-50k,10246.53,Gold,15,1
+C2005,41,Female,Mumbai,Bachelor's,50k-100k,24196.64,Silver,21,4
+C2006,50,Female,Ahmedabad,High School,25k-50k,12006.6,Basic,20,3
+C2007,19,Female,Ahmedabad,Master's,<25k,2575.9,Gold,1,1
+C2008,35,Male,Ahmedabad,Bachelor's,100k-200k,35119.99,Basic,39,7
+C2009,18,Male,Chennai,Bachelor's,50k-100k,13932.83,Gold,14,3
+C2010,25,Male,Pune,Master's,50k-100k,26415.54,Silver,36,8
+C2011,22,Male,Delhi,Master's,200k+,38633.76,Basic,35,6
+C2012,24,Other,Mumbai,Bachelor's,<25k,3077.05,Basic,19,1
+C2013,30,Male,Delhi,Bachelor's,<25k,3369.25,Silver,31,1
+C2014,56,Female,Chennai,Bachelor's,50k-100k,8285.93,Platinum,4,2
+C2015,32,Female,Mumbai,Master's,100k-200k,55852.32,Basic,23,18
+C2016,30,Female,Bangalore,Master's,100k-200k,35618.25,Silver,24,9
+C2017,31,Male,Kolkata,High School,25k-50k,11914.68,Platinum,40,4
+C2018,35,Male,Hyderabad,PhD,100k-200k,15104.67,Basic,4,2
+C2019,18,Male,Chennai,Master's,25k-50k,8425.11,Basic,2,5
+C2020,21,Female,Mumbai,Master's,50k-100k,12951.7,Gold,8,3
+C2021,34,Male,Bangalore,High School,50k-100k,19335.69,Silver,22,6
+C2022,43,Female,Hyderabad,Master's,25k-50k,11993.14,Silver,14,5
+C2023,31,Male,Ahmedabad,Master's,100k-200k,35668.7,Basic,54,8
+C2024,48,Male,Bangalore,Bachelor's,100k-200k,36897.9,Platinum,41,8
+C2025,19,Male,Delhi,PhD,25k-50k,11163.38,Silver,11,2
+C2026,38,Male,Bangalore,High School,50k-100k,10869.11,Basic,28,3
+C2027,18,Female,Hyderabad,Master's,50k-100k,17621.64,Platinum,21,7
+C2028,33,Male,Mumbai,Master's,<25k,3698.29,Platinum,6,1
+C2029,18,Male,Delhi,High School,<25k,3288.47,Silver,9,1
+C2030,46,Male,Bangalore,Bachelor's,25k-50k,8139.76,Basic,46,1
+C2031,26,Female,Bangalore,High School,100k-200k,35409.46,Platinum,51,10
+C2032,24,Male,Chennai,Master's,200k+,59412.95,Gold,1,19
+C2033,29,Male,Chennai,High School,50k-100k,30402.59,Basic,49,12
+C2034,33,Female,Bangalore,High School,50k-100k,19150.32,Silver,23,6
+C2035,36,Female,Hyderabad,Bachelor's,25k-50k,7565.25,Silver,9,1
+C2036,18,Male,Chennai,Bachelor's,25k-50k,3960.4,Basic,31,1
+C2037,48,Male,Mumbai,Master's,100k-200k,39528.96,Silver,32,6
+C2038,34,Female,Hyderabad,PhD,25k-50k,8859.59,Basic,52,1
+C2039,34,Male,Delhi,Bachelor's,25k-50k,5108.14,Platinum,10,1
+C2040,42,Female,Delhi,Master's,100k-200k,31027.88,Silver,35,3
+C2041,45,Female,Mumbai,PhD,25k-50k,8850.97,Basic,6,3
+C2042,39,Female,Mumbai,Master's,25k-50k,5523.67,Silver,19,1
+C2043,44,Male,Delhi,PhD,100k-200k,44725.9,Silver,15,8
+C2044,18,Female,Hyderabad,Master's,50k-100k,21112.73,Gold,48,1
+C2045,39,Male,Mumbai,Master's,100k-200k,24082.07,Basic,39,6
+C2046,24,Female,Mumbai,High School,25k-50k,12126.17,Silver,33,2
+C2047,57,Female,Kolkata,Bachelor's,100k-200k,27765.43,Basic,23,9
+C2048,30,Male,Bangalore,Master's,25k-50k,7646.87,Gold,35,2
+C2049,47,Female,Delhi,Master's,200k+,25902.62,Silver,46,8
+C2050,38,Female,Delhi,Bachelor's,100k-200k,29717.18,Gold,35,6
+C2051,31,Male,Mumbai,Bachelor's,50k-100k,15584.82,Basic,37,3
+C2052,52,Female,Delhi,High School,50k-100k,22089.52,Silver,24,6
+C2053,19,Female,Mumbai,Bachelor's,25k-50k,11617.11,Silver,36,3
+C2054,43,Female,Pune,High School,50k-100k,17783.65,Basic,21,3
+C2055,23,Female,Delhi,High School,<25k,4232.99,Basic,20,3
+C2056,59,Female,Bangalore,Bachelor's,100k-200k,32160.92,Silver,5,5
+C2057,38,Female,Mumbai,Master's,100k-200k,44731.48,Gold,30,14
+C2058,25,Female,Delhi,Bachelor's,50k-100k,25645.49,Basic,2,7
+C2059,26,Female,Hyderabad,High School,<25k,2261.08,Gold,14,2
+C2060,33,Female,Chennai,Bachelor's,50k-100k,17201.33,Platinum,50,4
+C2061,32,Male,Hyderabad,High School,50k-100k,17177.03,Basic,39,1
+C2062,24,Female,Ahmedabad,PhD,<25k,3562.93,Platinum,44,1
+C2063,43,Male,Delhi,High School,100k-200k,44757.55,Basic,21,13
+C2064,30,Male,Delhi,Bachelor's,100k-200k,46592.55,Silver,8,13
+C2065,49,Female,Mumbai,Master's,<25k,3005.54,Basic,17,1
+C2066,41,Female,Kolkata,High School,25k-50k,6364.15,Platinum,52,1
+C2067,30,Male,Mumbai,Bachelor's,25k-50k,7680.76,Silver,39,3
+C2068,32,Male,Delhi,Bachelor's,100k-200k,19529.14,Silver,26,9
+C2069,35,Male,Bangalore,PhD,25k-50k,8160.54,Gold,35,1
+C2070,45,Male,Mumbai,High School,<25k,3490.27,Platinum,33,1
+C2071,18,Female,Bangalore,High School,25k-50k,4886.69,Basic,39,1
+C2072,29,Male,Hyderabad,Master's,100k-200k,42012.17,Silver,18,17
+C2073,23,Male,Mumbai,Bachelor's,<25k,3351.5,Basic,22,1
+C2074,44,Male,Pune,Bachelor's,50k-100k,26514.92,Silver,7,4
+C2075,19,Male,Kolkata,Bachelor's,25k-50k,8152.34,Silver,56,4
+C2076,35,Female,Mumbai,High School,<25k,2620.23,Basic,5,1
+C2077,35,Male,Mumbai,Master's,50k-100k,8503.53,Silver,19,1
+C2078,20,Male,Mumbai,Master's,<25k,2828.64,Basic,19,1
+C2079,27,Female,Pune,High School,50k-100k,25856.18,Basic,20,5
+C2080,18,Female,Delhi,Bachelor's,<25k,2267.53,Basic,53,1
+C2081,46,Female,Kolkata,Bachelor's,25k-50k,9075.23,Gold,3,2
+C2082,34,Female,Delhi,PhD,50k-100k,19839.08,Silver,58,10
+C2083,43,Female,Kolkata,Bachelor's,50k-100k,24164.34,Platinum,11,6
+C2084,28,Male,Ahmedabad,Bachelor's,<25k,2825.78,Basic,6,1
+C2085,38,Male,Mumbai,Bachelor's,100k-200k,15191.56,Silver,26,3
+C2086,31,Female,Ahmedabad,High School,50k-100k,21040.19,Basic,7,5
+C2087,35,Female,Mumbai,Bachelor's,25k-50k,8380.38,Platinum,5,1
+C2088,18,Female,Delhi,High School,25k-50k,9590.2,Gold,18,1
+C2089,25,Female,Delhi,High School,50k-100k,17958.18,Gold,39,3
+C2090,28,Male,Mumbai,Master's,<25k,3769.93,Silver,17,1
+C2091,18,Male,Bangalore,Bachelor's,25k-50k,3476.39,Gold,21,1
+C2092,36,Female,Bangalore,Master's,25k-50k,11030.86,Platinum,5,3
+C2093,44,Female,Chennai,Bachelor's,<25k,2317.97,Basic,7,1
+C2094,35,Male,Mumbai,Bachelor's,200k+,70669.73,Basic,4,14
+C2095,33,Female,Kolkata,Bachelor's,50k-100k,14024.3,Platinum,24,7
+C2096,26,Female,Mumbai,Master's,<25k,2909.49,Silver,53,2
+C2097,29,Male,Pune,Bachelor's,100k-200k,17336.36,Basic,16,7
+C2098,18,Other,Bangalore,Master's,25k-50k,9160.69,Platinum,43,1
+C2099,28,Male,Chennai,Master's,50k-100k,21723.3,Gold,4,2
+C2100,25,Female,Bangalore,High School,25k-50k,6883.56,Basic,36,1
+C2101,41,Female,Ahmedabad,Bachelor's,25k-50k,6829.44,Basic,51,1
+C2102,40,Male,Bangalore,High School,25k-50k,7166.85,Platinum,13,3
+C2103,46,Male,Bangalore,Master's,50k-100k,16242.0,Silver,8,2
+C2104,40,Male,Chennai,Bachelor's,50k-100k,12044.14,Basic,34,3
+C2105,38,Female,Chennai,Bachelor's,100k-200k,15541.79,Silver,5,1
+C2106,25,Female,Chennai,High School,50k-100k,25019.63,Gold,29,2
+C2107,27,Male,Bangalore,Bachelor's,25k-50k,7565.96,Platinum,50,2
+C2108,22,Female,Chennai,Bachelor's,25k-50k,7807.16,Silver,35,1
+C2109,18,Female,Delhi,Bachelor's,25k-50k,11439.52,Basic,28,2
+C2110,27,Female,Bangalore,Master's,100k-200k,35609.62,Basic,29,9
+C2111,38,Female,Bangalore,Bachelor's,50k-100k,14490.21,Gold,47,2
+C2112,58,Female,Mumbai,Master's,50k-100k,9656.2,Gold,5,2
+C2113,37,Male,Bangalore,Bachelor's,25k-50k,12403.91,Silver,14,4
+C2114,44,Female,Hyderabad,Master's,200k+,37230.88,Platinum,27,9
+C2115,38,Female,Delhi,High School,100k-200k,33286.62,Gold,50,7
+C2116,22,Male,Bangalore,Bachelor's,50k-100k,22151.29,Silver,36,9
+C2117,32,Other,Pune,Master's,50k-100k,17662.16,Gold,30,5
+C2118,39,Male,Delhi,High School,25k-50k,9160.87,Silver,26,2
+C2119,23,Male,Ahmedabad,Bachelor's,50k-100k,16514.05,Silver,12,2
+C2120,38,Other,Bangalore,Bachelor's,<25k,2652.27,Basic,48,1
+C2121,29,Male,Pune,High School,<25k,2360.61,Gold,37,1
+C2122,57,Female,Delhi,High School,100k-200k,39144.76,Basic,54,14
+C2123,33,Female,Delhi,High School,<25k,2810.35,Gold,16,1
+C2124,18,Female,Delhi,Bachelor's,25k-50k,9013.78,Basic,34,1
+C2125,38,Female,Kolkata,Bachelor's,50k-100k,17500.85,Silver,31,4
+C2126,24,Female,Mumbai,PhD,100k-200k,30012.56,Basic,14,7
+C2127,39,Female,Chennai,High School,50k-100k,26626.18,Platinum,43,1
+C2128,27,Male,Pune,Master's,25k-50k,7770.61,Silver,2,1
+C2129,31,Female,Pune,High School,100k-200k,23719.05,Platinum,19,10
+C2130,35,Female,Mumbai,High School,50k-100k,21706.71,Silver,4,3
+C2131,18,Female,Delhi,High School,25k-50k,7636.72,Gold,42,1
+C2132,22,Female,Delhi,Bachelor's,100k-200k,30411.19,Gold,29,4
+C2133,18,Female,Delhi,Bachelor's,25k-50k,7891.35,Gold,13,1
+C2134,32,Female,Mumbai,PhD,25k-50k,8526.47,Basic,47,1
+C2135,31,Female,Mumbai,High School,50k-100k,18613.6,Silver,38,8
+C2136,49,Male,Mumbai,Bachelor's,200k+,64328.58,Silver,52,20
+C2137,38,Female,Hyderabad,Bachelor's,25k-50k,1041.64,Basic,51,1
+C2138,46,Female,Hyderabad,Master's,25k-50k,7565.62,Basic,17,2
+C2139,31,Female,Hyderabad,Master's,50k-100k,20070.8,Gold,28,5
+C2140,31,Male,Delhi,Master's,50k-100k,14132.69,Gold,37,3
+C2141,38,Female,Delhi,Master's,25k-50k,8321.1,Basic,50,3
+C2142,32,Female,Delhi,Master's,25k-50k,8278.13,Basic,52,5
+C2143,40,Male,Pune,Bachelor's,100k-200k,33281.9,Gold,36,8
+C2144,39,Male,Bangalore,High School,25k-50k,9359.24,Platinum,27,1
+C2145,51,Male,Hyderabad,Bachelor's,100k-200k,42362.77,Gold,59,12
+C2146,34,Other,Kolkata,Bachelor's,50k-100k,11051.67,Gold,51,5
+C2147,40,Female,Kolkata,Bachelor's,50k-100k,13662.86,Basic,27,6
+C2148,28,Female,Bangalore,Bachelor's,25k-50k,5202.88,Platinum,14,1
+C2149,51,Male,Chennai,Master's,50k-100k,16323.01,Basic,59,4
+C2150,19,Female,Mumbai,Bachelor's,100k-200k,24533.54,Gold,38,10
+C2151,25,Female,Mumbai,Master's,<25k,2511.37,Basic,1,1
+C2152,43,Female,Ahmedabad,Bachelor's,200k+,65002.48,Silver,30,15
+C2153,29,Male,Ahmedabad,Bachelor's,100k-200k,24482.46,Silver,36,8
+C2154,38,Male,Delhi,Master's,100k-200k,36469.1,Silver,33,15
+C2155,37,Male,Pune,Master's,200k+,90823.08,Basic,17,25
+C2156,50,Female,Chennai,Bachelor's,100k-200k,21596.7,Basic,38,5
+C2157,45,Male,Delhi,High School,100k-200k,34770.49,Silver,57,8
+C2158,47,Male,Delhi,High School,<25k,3449.26,Platinum,35,2
+C2159,48,Female,Hyderabad,Master's,50k-100k,23657.74,Basic,29,7
+C2160,26,Male,Ahmedabad,Bachelor's,50k-100k,13038.86,Silver,5,2
+C2161,47,Male,Delhi,Bachelor's,200k+,64282.53,Basic,26,15
+C2162,39,Female,Pune,High School,50k-100k,16675.4,Silver,54,7
+C2163,36,Female,Pune,Bachelor's,25k-50k,11519.37,Basic,15,5
+C2164,24,Female,Hyderabad,Bachelor's,25k-50k,12817.94,Silver,43,6
+C2165,23,Female,Chennai,Bachelor's,25k-50k,10344.88,Silver,34,2
+C2166,35,Male,Kolkata,High School,25k-50k,9373.27,Basic,23,4
+C2167,22,Female,Mumbai,High School,50k-100k,22198.5,Gold,47,4
+C2168,45,Female,Bangalore,High School,50k-100k,13791.08,Silver,20,3
+C2169,35,Male,Mumbai,Bachelor's,25k-50k,8321.63,Platinum,58,1
+C2170,20,Female,Bangalore,High School,25k-50k,3553.6,Platinum,5,1
+C2171,18,Male,Pune,PhD,50k-100k,14556.45,Basic,14,1
+C2172,39,Female,Ahmedabad,Master's,50k-100k,11183.04,Basic,14,3
+C2173,66,Male,Kolkata,Bachelor's,100k-200k,51108.14,Platinum,19,14
+C2174,23,Male,Hyderabad,Master's,50k-100k,14726.16,Basic,24,4
+C2175,40,Male,Chennai,Master's,50k-100k,5826.78,Basic,53,1
+C2176,37,Female,Kolkata,Bachelor's,25k-50k,7405.02,Basic,12,2
+C2177,33,Male,Mumbai,High School,<25k,3284.59,Gold,20,1
+C2178,49,Female,Bangalore,Master's,100k-200k,36437.03,Silver,9,16
+C2179,48,Male,Ahmedabad,High School,50k-100k,18085.45,Basic,54,3
+C2180,32,Male,Chennai,Bachelor's,200k+,51826.03,Basic,21,18
+C2181,32,Male,Ahmedabad,PhD,<25k,4524.81,Silver,33,2
+C2182,32,Female,Delhi,Master's,25k-50k,7450.5,Basic,42,3
+C2183,52,Female,Chennai,Bachelor's,50k-100k,20005.55,Basic,57,11
+C2184,44,Female,Hyderabad,Bachelor's,25k-50k,11840.86,Silver,47,3
+C2185,33,Other,Chennai,High School,50k-100k,14874.61,Basic,40,2
+C2186,26,Male,Pune,Master's,25k-50k,11227.64,Silver,33,1
+C2187,28,Female,Chennai,Bachelor's,25k-50k,10666.99,Basic,35,4
+C2188,31,Female,Mumbai,Bachelor's,50k-100k,17444.76,Basic,46,4
+C2189,36,Male,Bangalore,Master's,50k-100k,18051.66,Silver,46,3
+C2190,35,Male,Pune,Bachelor's,25k-50k,6367.84,Basic,25,4
+C2191,23,Male,Bangalore,High School,25k-50k,6419.54,Gold,7,1
+C2192,43,Male,Delhi,High School,<25k,3357.56,Basic,6,1
+C2193,40,Male,Kolkata,Bachelor's,50k-100k,21529.64,Gold,46,6
+C2194,37,Female,Bangalore,Bachelor's,25k-50k,5886.07,Basic,42,2
+C2195,29,Female,Ahmedabad,Bachelor's,25k-50k,8194.75,Gold,6,3
+C2196,32,Male,Chennai,Bachelor's,50k-100k,24362.13,Silver,43,6
+C2197,51,Female,Kolkata,Bachelor's,50k-100k,14252.46,Basic,31,4
+C2198,28,Male,Ahmedabad,Master's,25k-50k,6852.22,Basic,56,1
+C2199,27,Female,Mumbai,PhD,25k-50k,9774.6,Platinum,42,1
+C2200,39,Male,Mumbai,Bachelor's,50k-100k,16493.34,Silver,53,1
+C2201,31,Male,Delhi,Bachelor's,<25k,3285.84,Silver,23,1
+C2202,31,Female,Delhi,Bachelor's,100k-200k,49039.61,Silver,48,13
+C2203,27,Female,Bangalore,Master's,25k-50k,10978.38,Basic,5,3
+C2204,33,Female,Kolkata,Master's,100k-200k,47647.67,Basic,55,9
+C2205,18,Female,Pune,Master's,25k-50k,5521.66,Silver,56,1
+C2206,47,Female,Delhi,Bachelor's,50k-100k,18114.48,Silver,2,7
+C2207,35,Female,Ahmedabad,Bachelor's,25k-50k,6238.72,Platinum,20,2
+C2208,46,Female,Ahmedabad,High School,100k-200k,53689.57,Gold,14,16
+C2209,34,Female,Bangalore,Bachelor's,50k-100k,12389.5,Gold,9,3
+C2210,36,Male,Hyderabad,Bachelor's,25k-50k,10066.51,Basic,35,1
+C2211,30,Female,Chennai,Master's,50k-100k,14529.19,Silver,27,7
+C2212,48,Female,Hyderabad,High School,50k-100k,25007.94,Basic,16,1
+C2213,36,Male,Pune,High School,50k-100k,14659.62,Silver,29,3
+C2214,34,Female,Bangalore,Bachelor's,50k-100k,19202.56,Silver,4,8
+C2215,27,Male,Mumbai,PhD,100k-200k,35918.85,Basic,57,9
+C2216,47,Male,Kolkata,High School,25k-50k,6344.81,Silver,32,1
+C2217,18,Male,Hyderabad,Master's,25k-50k,6601.25,Gold,55,1
+C2218,29,Male,Kolkata,High School,25k-50k,4712.72,Basic,44,1
+C2219,37,Female,Ahmedabad,Bachelor's,25k-50k,7247.04,Silver,5,1
+C2220,40,Female,Pune,Bachelor's,50k-100k,27517.68,Basic,9,7
+C2221,51,Male,Pune,Master's,200k+,21506.63,Basic,13,4
+C2222,40,Other,Kolkata,Master's,50k-100k,16209.89,Silver,53,5
+C2223,24,Male,Bangalore,Bachelor's,25k-50k,8569.62,Gold,30,1
+C2224,36,Male,Delhi,Master's,50k-100k,17986.65,Gold,1,5
+C2225,39,Male,Bangalore,Bachelor's,<25k,1867.78,Silver,44,1
+C2226,48,Female,Mumbai,Bachelor's,50k-100k,10926.21,Silver,29,3
+C2227,30,Male,Mumbai,Master's,25k-50k,7724.5,Gold,46,1
+C2228,45,Male,Pune,Bachelor's,50k-100k,18915.37,Silver,14,5
+C2229,26,Male,Mumbai,Master's,50k-100k,8348.22,Basic,23,3
+C2230,56,Female,Pune,Bachelor's,100k-200k,28676.6,Gold,19,4
+C2231,21,Male,Chennai,Bachelor's,50k-100k,9884.95,Gold,16,5
+C2232,31,Female,Pune,Master's,50k-100k,19557.91,Basic,59,4
+C2233,45,Male,Bangalore,Master's,25k-50k,8162.37,Basic,6,1
+C2234,24,Male,Delhi,Bachelor's,25k-50k,12658.55,Basic,27,5
+C2235,42,Female,Kolkata,High School,100k-200k,19016.15,Gold,35,1
+C2236,37,Male,Chennai,Bachelor's,50k-100k,10962.04,Basic,45,1
+C2237,37,Female,Mumbai,High School,25k-50k,6485.47,Basic,32,2
+C2238,24,Female,Pune,Bachelor's,100k-200k,37641.62,Basic,59,11
+C2239,30,Female,Ahmedabad,PhD,100k-200k,31064.4,Gold,51,12
+C2240,18,Male,Bangalore,Bachelor's,50k-100k,14626.22,Basic,46,4
+C2241,45,Other,Chennai,High School,25k-50k,4964.5,Gold,32,2
+C2242,18,Female,Hyderabad,Bachelor's,50k-100k,23898.43,Basic,52,9
+C2243,23,Male,Mumbai,Bachelor's,25k-50k,11443.92,Gold,26,3
+C2244,50,Male,Kolkata,High School,100k-200k,25772.83,Basic,2,8
+C2245,27,Male,Hyderabad,Master's,25k-50k,9027.43,Silver,22,2
+C2246,37,Male,Bangalore,Master's,100k-200k,14777.94,Basic,26,3
+C2247,38,Male,Pune,Master's,50k-100k,19410.48,Basic,9,4
+C2248,52,Male,Chennai,Bachelor's,100k-200k,42897.03,Gold,55,10
+C2249,35,Female,Delhi,Master's,25k-50k,9450.52,Basic,28,2
+C2250,34,Male,Kolkata,Master's,50k-100k,11430.56,Basic,52,4
+C2251,30,Female,Bangalore,Master's,50k-100k,11319.58,Platinum,14,1
+C2252,39,Male,Bangalore,Bachelor's,25k-50k,4375.52,Basic,4,1
+C2253,48,Female,Mumbai,Bachelor's,50k-100k,13998.49,Basic,20,3
+C2254,18,Male,Bangalore,Bachelor's,<25k,3836.63,Silver,8,1
+C2255,40,Female,Mumbai,Master's,100k-200k,26253.0,Basic,6,4
+C2256,36,Female,Chennai,Master's,100k-200k,23954.87,Platinum,29,6
+C2257,49,Male,Pune,Bachelor's,50k-100k,25004.81,Basic,51,5
+C2258,24,Male,Mumbai,Bachelor's,25k-50k,11407.51,Basic,45,5
+C2259,27,Female,Ahmedabad,Master's,50k-100k,8951.16,Silver,36,1
+C2260,37,Other,Hyderabad,Bachelor's,50k-100k,7746.61,Silver,6,1
+C2261,35,Male,Hyderabad,Bachelor's,50k-100k,20599.81,Basic,46,6
+C2262,33,Female,Kolkata,Bachelor's,25k-50k,9274.22,Basic,53,3
+C2263,45,Male,Kolkata,Bachelor's,100k-200k,29483.89,Basic,42,5
+C2264,29,Male,Pune,Bachelor's,<25k,3665.66,Gold,42,1
+C2265,39,Female,Hyderabad,Bachelor's,25k-50k,7572.11,Gold,23,3
+C2266,44,Female,Delhi,Master's,50k-100k,18796.35,Silver,30,3
+C2267,28,Female,Chennai,Bachelor's,25k-50k,8364.31,Platinum,42,2
+C2268,26,Female,Pune,Bachelor's,100k-200k,25750.13,Basic,5,3
+C2269,38,Male,Kolkata,Bachelor's,50k-100k,23398.07,Basic,18,2
+C2270,37,Male,Pune,Master's,50k-100k,16162.61,Gold,54,4
+C2271,27,Male,Delhi,Bachelor's,25k-50k,10834.08,Silver,1,1
+C2272,42,Female,Delhi,Bachelor's,50k-100k,16509.33,Silver,53,3
+C2273,18,Female,Delhi,High School,<25k,2820.91,Gold,35,1
+C2274,30,Female,Ahmedabad,High School,50k-100k,21175.67,Platinum,57,8
+C2275,18,Male,Delhi,Master's,50k-100k,6144.9,Silver,41,1
+C2276,41,Male,Chennai,High School,100k-200k,40750.89,Basic,23,7
+C2277,39,Male,Bangalore,Bachelor's,50k-100k,21336.75,Platinum,38,7
+C2278,52,Female,Bangalore,Bachelor's,100k-200k,28789.9,Silver,50,8
+C2279,35,Female,Chennai,PhD,50k-100k,17173.27,Basic,42,2
+C2280,35,Female,Ahmedabad,Master's,50k-100k,17338.55,Basic,9,3
+C2281,28,Male,Hyderabad,Bachelor's,25k-50k,4642.3,Silver,44,1
+C2282,38,Female,Pune,PhD,25k-50k,6722.47,Gold,28,1
+C2283,22,Female,Pune,Master's,50k-100k,18832.28,Basic,31,4
+C2284,39,Male,Mumbai,Bachelor's,50k-100k,16481.3,Silver,26,3
+C2285,28,Female,Ahmedabad,Master's,100k-200k,32527.68,Gold,48,6
+C2286,39,Male,Ahmedabad,Master's,100k-200k,49787.27,Silver,58,11
+C2287,47,Male,Delhi,Bachelor's,100k-200k,50605.62,Gold,12,9
+C2288,35,Female,Bangalore,Bachelor's,25k-50k,5727.36,Basic,47,1
+C2289,28,Female,Chennai,Bachelor's,50k-100k,15425.73,Gold,21,8
+C2290,23,Female,Hyderabad,Bachelor's,50k-100k,26632.54,Platinum,3,8
+C2291,43,Female,Delhi,Master's,100k-200k,22452.21,Platinum,32,9
+C2292,23,Male,Bangalore,Bachelor's,50k-100k,11580.29,Gold,35,2
+C2293,46,Female,Kolkata,Bachelor's,50k-100k,17391.69,Basic,3,5
+C2294,18,Female,Mumbai,Master's,50k-100k,19004.33,Basic,3,2
+C2295,44,Male,Delhi,Bachelor's,100k-200k,47523.0,Basic,35,15
+C2296,32,Female,Ahmedabad,PhD,50k-100k,12666.09,Basic,25,2
+C2297,21,Male,Bangalore,PhD,50k-100k,16507.4,Basic,6,5
+C2298,45,Female,Kolkata,Bachelor's,50k-100k,22873.92,Silver,50,10
+C2299,25,Female,Hyderabad,Bachelor's,<25k,3802.1,Basic,45,2
+C2300,29,Male,Hyderabad,High School,25k-50k,6812.8,Basic,45,4
+C2301,34,Male,Delhi,Master's,50k-100k,21654.1,Basic,48,3
+C2302,27,Female,Chennai,Master's,100k-200k,36786.15,Basic,34,11
+C2303,30,Male,Pune,Master's,50k-100k,23113.89,Basic,50,5
+C2304,31,Male,Bangalore,Master's,50k-100k,25164.66,Basic,2,4
+C2305,18,Female,Bangalore,Bachelor's,200k+,63253.12,Basic,54,10
+C2306,22,Male,Bangalore,PhD,50k-100k,16521.16,Basic,31,5
+C2307,26,Male,Chennai,Bachelor's,50k-100k,12098.91,Basic,38,3
+C2308,24,Female,Bangalore,High School,<25k,3208.42,Basic,28,1
+C2309,25,Male,Bangalore,Master's,50k-100k,10263.1,Basic,6,3
+C2310,43,Male,Ahmedabad,Master's,100k-200k,36391.63,Basic,13,13
+C2311,57,Female,Hyderabad,PhD,100k-200k,39089.24,Basic,38,11
+C2312,25,Female,Hyderabad,Bachelor's,100k-200k,37425.54,Silver,17,11
+C2313,28,Male,Bangalore,High School,<25k,2811.13,Gold,33,1
+C2314,37,Female,Pune,Bachelor's,100k-200k,31554.01,Silver,20,4
+C2315,28,Female,Bangalore,Master's,<25k,3301.94,Platinum,2,1
+C2316,23,Female,Bangalore,High School,<25k,2942.37,Basic,25,1
+C2317,45,Male,Mumbai,Master's,25k-50k,8625.85,Platinum,25,5
+C2318,37,Female,Delhi,Master's,50k-100k,13100.91,Basic,41,4
+C2319,29,Male,Ahmedabad,High School,25k-50k,11845.01,Gold,21,2
+C2320,40,Male,Hyderabad,Bachelor's,100k-200k,26550.14,Platinum,7,6
+C2321,18,Female,Pune,Bachelor's,100k-200k,21686.78,Silver,14,9
+C2322,26,Male,Bangalore,Master's,<25k,3013.51,Silver,43,1
+C2323,35,Male,Hyderabad,High School,50k-100k,8032.95,Basic,17,1
+C2324,46,Female,Mumbai,Bachelor's,200k+,53012.47,Basic,9,11
+C2325,32,Female,Pune,High School,50k-100k,22103.99,Silver,17,8
+C2326,48,Male,Kolkata,Master's,100k-200k,40277.57,Basic,23,6
+C2327,18,Female,Pune,PhD,100k-200k,29358.09,Gold,44,6
+C2328,24,Male,Pune,Bachelor's,50k-100k,15435.69,Basic,24,7
+C2329,38,Female,Ahmedabad,Bachelor's,50k-100k,25473.64,Gold,36,6
+C2330,18,Female,Chennai,Master's,100k-200k,20110.14,Silver,39,1
+C2331,21,Male,Kolkata,Bachelor's,100k-200k,23138.3,Silver,37,2
+C2332,33,Female,Bangalore,Bachelor's,50k-100k,21588.24,Silver,52,4
+C2333,27,Other,Ahmedabad,Master's,200k+,41085.24,Gold,57,10
+C2334,26,Male,Mumbai,High School,50k-100k,13547.56,Platinum,32,6
+C2335,39,Female,Delhi,Bachelor's,100k-200k,6471.81,Basic,38,3
+C2336,18,Male,Chennai,Bachelor's,25k-50k,8027.87,Platinum,1,3
+C2337,26,Female,Delhi,Bachelor's,<25k,2200.09,Silver,40,1
+C2338,37,Male,Kolkata,High School,100k-200k,32905.62,Silver,13,5
+C2339,27,Male,Ahmedabad,Bachelor's,50k-100k,22301.72,Platinum,18,6
+C2340,21,Female,Kolkata,Bachelor's,25k-50k,8137.11,Silver,2,1
+C2341,46,Male,Kolkata,Bachelor's,50k-100k,17569.36,Silver,44,3
+C2342,41,Female,Chennai,High School,200k+,79791.47,Platinum,31,22
+C2343,20,Male,Mumbai,Master's,50k-100k,6611.45,Basic,30,3
+C2344,32,Male,Ahmedabad,Bachelor's,50k-100k,19002.96,Silver,14,7
+C2345,31,Male,Delhi,Bachelor's,50k-100k,18946.77,Basic,52,3
+C2346,23,Male,Ahmedabad,Bachelor's,25k-50k,14148.21,Gold,18,5
+C2347,59,Female,Bangalore,High School,25k-50k,6990.11,Basic,21,3
+C2348,29,Male,Delhi,Bachelor's,100k-200k,40801.37,Silver,50,13
+C2349,24,Female,Delhi,PhD,50k-100k,18131.18,Basic,20,6
+C2350,46,Female,Bangalore,Bachelor's,100k-200k,40243.97,Basic,20,7
+C2351,25,Female,Mumbai,Bachelor's,100k-200k,45929.52,Basic,49,18
+C2352,41,Female,Pune,Master's,50k-100k,11261.35,Gold,21,4
+C2353,28,Male,Ahmedabad,Bachelor's,100k-200k,34401.77,Basic,27,8
+C2354,26,Male,Ahmedabad,Bachelor's,100k-200k,47954.63,Gold,32,17
+C2355,18,Female,Mumbai,High School,50k-100k,15665.36,Silver,8,5
+C2356,29,Female,Bangalore,PhD,100k-200k,25986.59,Platinum,25,10
+C2357,28,Female,Pune,Bachelor's,25k-50k,9916.36,Gold,18,4
+C2358,29,Female,Pune,Bachelor's,100k-200k,25432.13,Basic,18,9
+C2359,27,Female,Delhi,Master's,25k-50k,9019.68,Silver,5,3
+C2360,42,Female,Bangalore,Master's,50k-100k,24314.6,Basic,11,5
+C2361,56,Female,Ahmedabad,PhD,50k-100k,24098.51,Silver,9,5
+C2362,36,Male,Mumbai,Master's,100k-200k,38691.94,Basic,11,11
+C2363,40,Male,Mumbai,Master's,200k+,58403.53,Gold,19,12
+C2364,42,Male,Ahmedabad,High School,50k-100k,13750.56,Basic,3,5
+C2365,43,Male,Hyderabad,Bachelor's,50k-100k,13974.99,Basic,55,6
+C2366,34,Male,Hyderabad,Bachelor's,200k+,70498.76,Silver,27,11
+C2367,35,Female,Bangalore,Bachelor's,50k-100k,22432.64,Silver,29,9
+C2368,49,Male,Kolkata,Bachelor's,50k-100k,15062.47,Basic,43,4
+C2369,41,Female,Bangalore,Bachelor's,100k-200k,28852.45,Basic,5,8
+C2370,21,Female,Bangalore,Master's,25k-50k,6934.44,Silver,36,1
+C2371,55,Female,Hyderabad,Master's,200k+,54220.93,Silver,40,19
+C2372,33,Female,Hyderabad,Bachelor's,<25k,3949.66,Gold,51,2
+C2373,36,Female,Chennai,High School,25k-50k,10289.59,Basic,30,6
+C2374,37,Male,Pune,High School,<25k,1482.4,Silver,34,1
+C2375,47,Male,Ahmedabad,High School,50k-100k,18898.92,Basic,30,5
+C2376,42,Female,Bangalore,Master's,50k-100k,13927.0,Gold,35,4
+C2377,34,Male,Chennai,High School,25k-50k,6983.54,Silver,5,2
+C2378,26,Male,Pune,Bachelor's,25k-50k,7622.24,Basic,44,2
+C2379,38,Male,Chennai,Master's,25k-50k,8692.02,Basic,29,3
+C2380,37,Male,Chennai,Bachelor's,25k-50k,9327.02,Silver,40,1
+C2381,18,Female,Mumbai,Bachelor's,25k-50k,4200.3,Platinum,30,1
+C2382,34,Male,Delhi,Bachelor's,<25k,1815.87,Silver,25,1
+C2383,21,Male,Delhi,Master's,50k-100k,21877.19,Gold,33,6
+C2384,31,Female,Bangalore,Bachelor's,25k-50k,8611.11,Gold,21,2
+C2385,37,Male,Mumbai,Bachelor's,25k-50k,6404.5,Basic,56,1
+C2386,18,Female,Pune,Bachelor's,50k-100k,17069.15,Silver,21,10
+C2387,30,Female,Kolkata,PhD,50k-100k,17800.39,Basic,39,6
+C2388,21,Male,Pune,Bachelor's,<25k,2791.62,Platinum,30,1
+C2389,43,Female,Ahmedabad,Master's,100k-200k,16170.61,Silver,11,4
+C2390,29,Male,Bangalore,PhD,50k-100k,12572.35,Platinum,12,3
+C2391,18,Male,Pune,Master's,50k-100k,9547.59,Gold,33,1
+C2392,39,Female,Hyderabad,Bachelor's,<25k,1452.09,Gold,30,1
+C2393,42,Male,Hyderabad,Bachelor's,100k-200k,27164.3,Basic,12,13
+C2394,25,Male,Mumbai,High School,100k-200k,29639.23,Basic,37,5
+C2395,39,Female,Pune,Master's,50k-100k,18594.24,Basic,40,3
+C2396,48,Male,Mumbai,Master's,100k-200k,45907.71,Basic,54,17
+C2397,43,Female,Kolkata,Bachelor's,50k-100k,13877.94,Gold,32,4
+C2398,36,Other,Ahmedabad,PhD,<25k,1527.79,Silver,9,1
+C2399,33,Female,Kolkata,Bachelor's,<25k,2447.08,Silver,55,2
+C2400,31,Female,Pune,High School,100k-200k,42860.4,Basic,23,11
+C2401,25,Male,Mumbai,High School,50k-100k,21357.82,Gold,55,13
+C2402,48,Female,Delhi,Bachelor's,50k-100k,17261.14,Silver,43,5
+C2403,36,Female,Hyderabad,Bachelor's,50k-100k,19360.5,Gold,20,7
+C2404,29,Male,Hyderabad,Bachelor's,<25k,2925.14,Silver,20,1
+C2405,48,Female,Delhi,Bachelor's,50k-100k,23703.35,Silver,42,4
+C2406,38,Female,Mumbai,High School,25k-50k,7958.56,Gold,21,2
+C2407,43,Female,Chennai,PhD,25k-50k,4114.54,Silver,47,2
+C2408,43,Male,Hyderabad,PhD,50k-100k,13266.92,Silver,5,4
+C2409,28,Male,Ahmedabad,Bachelor's,100k-200k,32405.84,Silver,59,9
+C2410,49,Male,Bangalore,Bachelor's,25k-50k,12162.98,Silver,35,2
+C2411,35,Male,Mumbai,Bachelor's,50k-100k,22637.77,Platinum,4,7
+C2412,32,Male,Pune,Bachelor's,50k-100k,15595.1,Basic,43,5
+C2413,22,Female,Ahmedabad,Bachelor's,50k-100k,17477.04,Basic,54,7
+C2414,43,Female,Chennai,Master's,100k-200k,44012.26,Basic,22,10
+C2415,51,Male,Kolkata,Bachelor's,50k-100k,16066.91,Silver,50,1
+C2416,18,Male,Mumbai,Bachelor's,25k-50k,10132.62,Basic,25,4
+C2417,41,Male,Mumbai,Master's,50k-100k,9852.4,Gold,18,1
+C2418,37,Male,Bangalore,Master's,200k+,64210.62,Platinum,4,20
+C2419,41,Female,Mumbai,Master's,50k-100k,20226.42,Basic,42,4
+C2420,48,Male,Mumbai,Bachelor's,200k+,56957.36,Basic,30,10
+C2421,40,Female,Mumbai,Master's,100k-200k,55037.57,Basic,9,13
+C2422,38,Male,Kolkata,High School,25k-50k,1653.26,Gold,24,1
+C2423,51,Female,Kolkata,Bachelor's,100k-200k,39692.41,Platinum,42,10
+C2424,26,Male,Bangalore,Bachelor's,<25k,4150.57,Silver,41,1
+C2425,48,Male,Mumbai,Bachelor's,25k-50k,5545.65,Silver,16,2
+C2426,31,Female,Bangalore,Bachelor's,50k-100k,7337.52,Gold,59,5
+C2427,24,Male,Chennai,Master's,100k-200k,18386.67,Basic,51,2
+C2428,18,Female,Hyderabad,High School,50k-100k,18405.09,Gold,10,2
+C2429,30,Male,Mumbai,Master's,25k-50k,7970.58,Basic,9,4
+C2430,51,Female,Chennai,Bachelor's,50k-100k,19960.81,Silver,54,7
+C2431,34,Female,Chennai,High School,25k-50k,7582.05,Basic,7,1
+C2432,23,Other,Pune,PhD,50k-100k,21781.58,Silver,10,5
+C2433,37,Female,Hyderabad,Bachelor's,50k-100k,26495.93,Basic,23,3
+C2434,49,Female,Ahmedabad,Bachelor's,100k-200k,34867.14,Gold,22,8
+C2435,23,Male,Hyderabad,Bachelor's,100k-200k,22679.85,Platinum,38,6
+C2436,39,Female,Pune,PhD,25k-50k,6982.16,Basic,57,2
+C2437,38,Female,Pune,Bachelor's,25k-50k,7014.24,Platinum,18,1
+C2438,40,Female,Hyderabad,Master's,25k-50k,9383.7,Gold,54,3
+C2439,22,Male,Ahmedabad,Bachelor's,50k-100k,14242.42,Silver,3,6
+C2440,22,Male,Bangalore,Master's,25k-50k,6236.07,Gold,31,1
+C2441,46,Male,Chennai,Master's,<25k,3310.42,Basic,19,1
+C2442,25,Male,Delhi,High School,<25k,1936.77,Silver,37,1
+C2443,22,Other,Hyderabad,Bachelor's,25k-50k,7895.77,Basic,9,2
+C2444,49,Male,Delhi,Master's,25k-50k,8326.15,Silver,11,2
+C2445,18,Male,Kolkata,Master's,25k-50k,5706.35,Silver,7,1
+C2446,25,Female,Mumbai,Master's,100k-200k,37904.83,Basic,21,10
+C2447,35,Male,Bangalore,High School,50k-100k,23135.9,Basic,16,7
+C2448,48,Male,Bangalore,High School,50k-100k,26211.33,Basic,59,4
+C2449,44,Male,Hyderabad,High School,50k-100k,19342.16,Platinum,5,6
+C2450,22,Male,Mumbai,Bachelor's,50k-100k,16964.99,Basic,23,1
+C2451,31,Female,Kolkata,High School,25k-50k,7948.9,Basic,5,1
+C2452,32,Female,Pune,Master's,200k+,75937.52,Gold,34,23
+C2453,32,Female,Mumbai,Bachelor's,<25k,2428.65,Silver,17,1
+C2454,37,Female,Hyderabad,PhD,50k-100k,24255.03,Silver,47,1
+C2455,31,Male,Chennai,Bachelor's,100k-200k,49427.68,Basic,37,16
+C2456,18,Female,Kolkata,High School,<25k,623.95,Silver,10,1
+C2457,36,Female,Ahmedabad,High School,<25k,500.0,Basic,10,1
+C2458,31,Female,Delhi,Bachelor's,50k-100k,15575.3,Silver,56,3
+C2459,31,Female,Mumbai,Bachelor's,50k-100k,17830.99,Basic,23,5
+C2460,29,Male,Ahmedabad,Bachelor's,50k-100k,16498.42,Platinum,18,3
+C2461,30,Female,Ahmedabad,High School,25k-50k,5993.79,Basic,56,1
+C2462,37,Male,Mumbai,Bachelor's,25k-50k,7516.92,Silver,2,3
+C2463,26,Male,Mumbai,High School,50k-100k,18684.11,Silver,56,4
+C2464,28,Female,Ahmedabad,Master's,50k-100k,22913.26,Basic,12,6
+C2465,46,Male,Bangalore,Bachelor's,100k-200k,45438.1,Basic,43,10
+C2466,33,Male,Mumbai,Bachelor's,50k-100k,19804.03,Platinum,36,8
+C2467,18,Female,Pune,PhD,25k-50k,6237.69,Basic,28,1
+C2468,35,Male,Hyderabad,Bachelor's,50k-100k,14799.45,Basic,41,3
+C2469,25,Male,Hyderabad,Bachelor's,25k-50k,7894.51,Basic,32,4
+C2470,31,Male,Bangalore,Master's,100k-200k,39444.38,Basic,3,3
+C2471,19,Female,Ahmedabad,High School,100k-200k,44884.01,Gold,26,20
+C2472,35,Female,Chennai,Bachelor's,100k-200k,39711.47,Silver,53,17
+C2473,42,Male,Ahmedabad,Bachelor's,100k-200k,28002.88,Platinum,51,9
+C2474,19,Male,Delhi,Master's,100k-200k,26497.99,Silver,34,4
+C2475,33,Female,Chennai,Bachelor's,50k-100k,22950.38,Basic,26,6
+C2476,41,Female,Kolkata,Bachelor's,25k-50k,4836.67,Silver,47,1
+C2477,18,Male,Delhi,Bachelor's,50k-100k,20851.07,Basic,23,8
+C2478,30,Male,Pune,Bachelor's,<25k,2820.91,Basic,29,1
+C2479,33,Female,Mumbai,Master's,50k-100k,12360.68,Basic,19,3
+C2480,38,Male,Pune,Master's,50k-100k,7158.02,Basic,51,1
+C2481,49,Female,Pune,Master's,50k-100k,10118.35,Gold,23,1
+C2482,49,Male,Kolkata,Master's,50k-100k,19123.56,Silver,46,6
+C2483,39,Male,Hyderabad,PhD,100k-200k,24837.02,Gold,22,4
+C2484,23,Male,Mumbai,High School,<25k,4057.05,Silver,27,1
+C2485,18,Female,Chennai,Bachelor's,50k-100k,22864.31,Gold,14,7
+C2486,23,Male,Chennai,High School,25k-50k,2992.12,Gold,36,1
+C2487,25,Female,Pune,Master's,100k-200k,43781.84,Silver,12,11
+C2488,50,Female,Mumbai,Bachelor's,200k+,57975.86,Platinum,51,15
+C2489,30,Female,Ahmedabad,Bachelor's,50k-100k,24784.27,Silver,41,5
+C2490,35,Male,Bangalore,Bachelor's,25k-50k,9769.54,Basic,14,2
+C2491,44,Female,Mumbai,Bachelor's,50k-100k,23211.68,Basic,3,3
+C2492,18,Male,Pune,High School,25k-50k,7221.51,Basic,22,3
+C2493,21,Male,Bangalore,Master's,50k-100k,20533.88,Basic,55,3
+C2494,22,Female,Mumbai,Bachelor's,50k-100k,11252.34,Silver,12,2
+C2495,22,Female,Delhi,Bachelor's,50k-100k,13258.36,Gold,1,5
+C2496,38,Female,Hyderabad,Master's,50k-100k,24898.38,Silver,56,7
+C2497,34,Male,Mumbai,Bachelor's,50k-100k,8234.91,Platinum,12,1
+C2498,27,Female,Delhi,Bachelor's,50k-100k,14832.29,Gold,32,1
+C2499,26,Female,Pune,High School,25k-50k,7453.35,Gold,19,3
+C2500,34,Male,Ahmedabad,PhD,50k-100k,14414.22,Platinum,31,4
+C2501,32,Male,Pune,PhD,50k-100k,22479.8,Silver,15,6
+C2502,28,Female,Delhi,Bachelor's,50k-100k,17270.49,Gold,48,6
+C2503,58,Female,Bangalore,Bachelor's,100k-200k,28759.0,Basic,24,3
+C2504,34,Female,Chennai,Bachelor's,50k-100k,21647.39,Basic,59,10
+C2505,35,Female,Delhi,Bachelor's,25k-50k,5479.27,Silver,53,1
+C2506,26,Female,Mumbai,Bachelor's,<25k,2218.66,Platinum,10,1
+C2507,18,Male,Delhi,Bachelor's,100k-200k,31788.02,Silver,12,10
+C2508,36,Female,Hyderabad,Master's,50k-100k,12685.25,Basic,2,2
+C2509,18,Male,Mumbai,Bachelor's,25k-50k,5179.55,Silver,42,1
+C2510,41,Female,Mumbai,Bachelor's,50k-100k,22684.7,Silver,49,6
+C2511,46,Female,Bangalore,Bachelor's,100k-200k,27978.88,Gold,22,10
+C2512,43,Female,Hyderabad,Bachelor's,200k+,67501.85,Basic,43,20
+C2513,32,Male,Ahmedabad,Bachelor's,25k-50k,8495.82,Silver,54,2
+C2514,26,Female,Kolkata,Bachelor's,50k-100k,23299.73,Silver,16,5
+C2515,52,Male,Chennai,High School,100k-200k,14181.63,Silver,12,6
+C2516,20,Male,Bangalore,Bachelor's,25k-50k,9165.35,Silver,24,1
+C2517,34,Female,Mumbai,Bachelor's,200k+,76769.92,Basic,53,26
+C2518,35,Female,Mumbai,Master's,50k-100k,12195.28,Gold,4,3
+C2519,21,Female,Pune,Bachelor's,25k-50k,10757.69,Gold,50,3
+C2520,18,Male,Chennai,Bachelor's,200k+,66834.54,Basic,8,11
+C2521,26,Male,Delhi,Bachelor's,25k-50k,7833.69,Gold,35,2
+C2522,22,Female,Bangalore,High School,25k-50k,5354.74,Platinum,20,2
+C2523,18,Male,Mumbai,Bachelor's,25k-50k,6456.76,Basic,17,1
+C2524,37,Male,Bangalore,Bachelor's,25k-50k,10402.35,Gold,54,3
+C2525,26,Male,Kolkata,High School,25k-50k,9035.46,Platinum,34,1
+C2526,32,Female,Bangalore,Bachelor's,100k-200k,42684.97,Platinum,23,13
+C2527,49,Male,Kolkata,Master's,200k+,43206.21,Basic,37,7
+C2528,43,Female,Mumbai,Master's,100k-200k,57864.59,Gold,38,13
+C2529,36,Male,Hyderabad,High School,100k-200k,10484.54,Silver,42,2
+C2530,30,Male,Mumbai,Master's,100k-200k,35237.01,Gold,13,5
+C2531,26,Female,Chennai,High School,25k-50k,9536.98,Silver,1,4
+C2532,27,Male,Mumbai,Bachelor's,50k-100k,22518.07,Silver,45,6
+C2533,30,Female,Delhi,Master's,100k-200k,47772.82,Basic,23,16
+C2534,34,Male,Mumbai,High School,<25k,3615.77,Platinum,54,1
+C2535,46,Female,Kolkata,High School,200k+,74742.21,Gold,45,21
+C2536,23,Male,Bangalore,Master's,50k-100k,22912.89,Gold,49,6
+C2537,31,Male,Mumbai,Master's,200k+,34256.61,Basic,59,5
+C2538,49,Female,Chennai,Master's,200k+,44852.62,Basic,2,11
+C2539,30,Male,Chennai,Master's,50k-100k,16710.95,Basic,14,7
+C2540,26,Male,Mumbai,Bachelor's,50k-100k,20688.72,Basic,20,6
+C2541,47,Female,Bangalore,High School,<25k,1556.02,Silver,30,1
+C2542,19,Male,Mumbai,Bachelor's,50k-100k,24981.12,Silver,34,4
+C2543,45,Female,Chennai,Bachelor's,200k+,68308.1,Platinum,41,17
+C2544,57,Female,Ahmedabad,Bachelor's,25k-50k,9893.29,Basic,51,4
+C2545,18,Male,Ahmedabad,Master's,50k-100k,16261.91,Gold,6,5
+C2546,46,Female,Delhi,High School,100k-200k,30277.22,Silver,14,4
+C2547,30,Female,Delhi,High School,25k-50k,3542.49,Basic,16,2
+C2548,41,Female,Mumbai,PhD,50k-100k,23503.17,Silver,51,6
+C2549,43,Female,Ahmedabad,Bachelor's,100k-200k,30906.75,Silver,17,7
+C2550,50,Male,Pune,PhD,50k-100k,24053.7,Silver,55,12
+C2551,47,Male,Kolkata,Bachelor's,25k-50k,5502.91,Basic,6,1
+C2552,22,Female,Chennai,Master's,25k-50k,8582.47,Basic,9,1
+C2553,29,Male,Pune,Bachelor's,100k-200k,46915.68,Basic,48,14
+C2554,30,Male,Kolkata,Bachelor's,100k-200k,55447.95,Gold,22,18
+C2555,38,Male,Delhi,High School,25k-50k,7870.63,Silver,22,1
+C2556,40,Male,Kolkata,High School,25k-50k,9301.45,Basic,49,1
+C2557,28,Female,Mumbai,Bachelor's,50k-100k,18010.14,Basic,9,7
+C2558,52,Male,Mumbai,Bachelor's,100k-200k,33895.6,Basic,59,7
+C2559,28,Male,Bangalore,Bachelor's,25k-50k,8537.62,Silver,53,1
+C2560,53,Female,Ahmedabad,Bachelor's,100k-200k,37923.37,Silver,23,6
+C2561,28,Female,Delhi,Bachelor's,<25k,1769.96,Gold,35,1
+C2562,44,Male,Hyderabad,High School,50k-100k,17728.83,Platinum,33,5
+C2563,34,Female,Mumbai,PhD,50k-100k,12872.61,Platinum,58,2
+C2564,18,Female,Ahmedabad,PhD,25k-50k,8434.68,Basic,26,3
+C2565,32,Female,Kolkata,Master's,100k-200k,52075.85,Silver,44,12
+C2566,31,Female,Delhi,Bachelor's,50k-100k,15853.71,Basic,59,2
+C2567,34,Male,Hyderabad,High School,25k-50k,7490.84,Platinum,29,5
+C2568,26,Female,Mumbai,High School,50k-100k,20424.31,Silver,10,2
+C2569,34,Female,Mumbai,Master's,100k-200k,36840.05,Basic,7,8
+C2570,29,Male,Ahmedabad,Master's,200k+,71063.77,Silver,16,21
+C2571,25,Female,Hyderabad,Master's,50k-100k,18220.21,Basic,40,5
+C2572,40,Male,Ahmedabad,High School,100k-200k,47606.11,Silver,31,11
+C2573,31,Male,Delhi,PhD,100k-200k,30483.43,Basic,15,12
+C2574,34,Male,Chennai,Master's,200k+,75661.27,Silver,43,16
+C2575,22,Female,Pune,Master's,100k-200k,31576.72,Platinum,56,10
+C2576,38,Female,Chennai,Bachelor's,50k-100k,13906.95,Silver,36,2
+C2577,27,Female,Pune,High School,<25k,3425.57,Silver,23,1
+C2578,38,Female,Mumbai,Bachelor's,200k+,50132.93,Basic,3,11
+C2579,42,Other,Ahmedabad,Bachelor's,100k-200k,22692.54,Platinum,45,6
+C2580,37,Female,Bangalore,Bachelor's,100k-200k,53147.69,Gold,15,12
+C2581,27,Male,Ahmedabad,Bachelor's,100k-200k,27583.42,Gold,40,4
+C2582,42,Male,Pune,Bachelor's,25k-50k,9762.9,Basic,36,2
+C2583,42,Female,Chennai,Bachelor's,50k-100k,14093.17,Basic,50,3
+C2584,31,Female,Bangalore,Bachelor's,50k-100k,11334.17,Silver,31,5
+C2585,51,Female,Hyderabad,Master's,50k-100k,20865.98,Basic,15,4
+C2586,36,Female,Hyderabad,Master's,200k+,64271.74,Gold,13,11
+C2587,35,Other,Delhi,PhD,100k-200k,34839.8,Silver,55,8
+C2588,21,Male,Ahmedabad,PhD,100k-200k,46588.24,Silver,11,15
+C2589,46,Male,Ahmedabad,High School,25k-50k,8124.96,Basic,30,4
+C2590,48,Male,Pune,Bachelor's,50k-100k,16712.6,Platinum,57,4
+C2591,31,Female,Chennai,High School,50k-100k,18293.4,Basic,44,3
+C2592,45,Male,Hyderabad,Bachelor's,100k-200k,44469.45,Basic,30,12
+C2593,55,Female,Mumbai,High School,50k-100k,16157.69,Basic,52,8
+C2594,45,Male,Chennai,Bachelor's,25k-50k,7796.34,Platinum,14,1
+C2595,27,Male,Hyderabad,High School,50k-100k,19425.7,Basic,1,2
+C2596,22,Male,Bangalore,Master's,50k-100k,15525.74,Basic,59,3
+C2597,42,Male,Mumbai,PhD,100k-200k,37211.0,Gold,20,14
+C2598,33,Male,Pune,Master's,50k-100k,11979.25,Silver,6,3
+C2599,49,Female,Pune,Master's,50k-100k,16802.08,Basic,49,8
+C2600,40,Female,Hyderabad,Bachelor's,200k+,29773.37,Platinum,49,3
+C2601,36,Female,Kolkata,High School,25k-50k,10481.23,Gold,14,2
+C2602,53,Male,Bangalore,High School,<25k,1334.11,Basic,19,1
+C2603,38,Male,Kolkata,Master's,200k+,67185.77,Basic,10,13
+C2604,38,Male,Pune,Master's,25k-50k,7329.79,Basic,6,2
+C2605,36,Female,Kolkata,Bachelor's,50k-100k,12244.38,Silver,13,4
+C2606,43,Male,Bangalore,Bachelor's,100k-200k,33805.03,Silver,11,7
+C2607,42,Female,Chennai,High School,<25k,2085.79,Silver,42,1
+C2608,39,Male,Bangalore,Master's,25k-50k,10132.8,Silver,9,3
+C2609,42,Female,Pune,Bachelor's,200k+,44021.51,Silver,36,13
+C2610,27,Female,Kolkata,Master's,<25k,3174.82,Gold,37,1
+C2611,45,Male,Hyderabad,Bachelor's,200k+,69294.95,Silver,58,19
+C2612,32,Male,Delhi,Bachelor's,200k+,79863.22,Gold,6,19
+C2613,36,Female,Mumbai,Bachelor's,50k-100k,6607.34,Gold,21,3
+C2614,45,Male,Mumbai,Master's,50k-100k,15280.19,Basic,14,4
+C2615,31,Female,Pune,Master's,200k+,74321.53,Gold,14,16
+C2616,30,Male,Hyderabad,Bachelor's,25k-50k,4686.01,Silver,59,1
+C2617,31,Male,Ahmedabad,Bachelor's,<25k,2953.54,Platinum,16,1
+C2618,44,Female,Hyderabad,Master's,50k-100k,25112.88,Platinum,37,4
+C2619,44,Male,Pune,Bachelor's,50k-100k,14865.41,Silver,48,4
+C2620,49,Male,Bangalore,PhD,25k-50k,9252.47,Silver,27,2
+C2621,28,Female,Hyderabad,Master's,50k-100k,18115.47,Basic,55,6
+C2622,41,Female,Kolkata,Bachelor's,100k-200k,33634.53,Gold,17,8
+C2623,42,Male,Bangalore,High School,50k-100k,20013.57,Basic,18,6
+C2624,30,Female,Chennai,Master's,100k-200k,49704.15,Silver,47,15
+C2625,30,Male,Delhi,PhD,50k-100k,2857.45,Silver,57,1
+C2626,49,Female,Delhi,Master's,100k-200k,29200.91,Silver,57,7
+C2627,49,Female,Delhi,Master's,100k-200k,24577.75,Gold,2,9
+C2628,32,Female,Mumbai,Bachelor's,<25k,2114.02,Basic,12,1
+C2629,18,Female,Bangalore,Bachelor's,<25k,3749.77,Basic,7,2
+C2630,19,Female,Chennai,Bachelor's,25k-50k,7734.73,Platinum,42,2
+C2631,23,Female,Mumbai,Bachelor's,<25k,2704.1,Basic,9,1
+C2632,19,Male,Chennai,Bachelor's,25k-50k,8789.78,Platinum,47,5
+C2633,18,Female,Delhi,Bachelor's,50k-100k,10853.08,Silver,14,1
+C2634,30,Male,Pune,High School,<25k,2257.06,Silver,2,1
+C2635,34,Female,Mumbai,Bachelor's,50k-100k,2954.03,Gold,38,1
+C2636,18,Male,Hyderabad,Master's,50k-100k,23460.33,Gold,58,8
+C2637,25,Male,Ahmedabad,Bachelor's,50k-100k,21331.45,Silver,44,6
+C2638,54,Female,Hyderabad,Master's,100k-200k,16318.64,Basic,22,4
+C2639,24,Male,Mumbai,Bachelor's,50k-100k,13938.06,Basic,24,1
+C2640,39,Female,Hyderabad,Master's,200k+,53264.82,Basic,36,13
+C2641,32,Male,Pune,High School,25k-50k,13072.96,Basic,11,8
+C2642,30,Female,Pune,Bachelor's,<25k,3251.65,Basic,40,1
+C2643,48,Male,Delhi,PhD,100k-200k,48367.39,Gold,26,8
+C2644,29,Male,Kolkata,Bachelor's,25k-50k,7368.24,Basic,18,1
+C2645,48,Female,Chennai,Bachelor's,100k-200k,39537.01,Basic,36,7
+C2646,42,Female,Mumbai,Bachelor's,100k-200k,26294.81,Basic,45,11
+C2647,21,Female,Bangalore,Master's,100k-200k,41580.83,Silver,35,9
+C2648,46,Female,Chennai,Master's,100k-200k,51454.99,Basic,25,13
+C2649,37,Female,Mumbai,Bachelor's,50k-100k,18319.7,Basic,47,4
+C2650,21,Female,Pune,High School,25k-50k,8638.42,Silver,45,2
+C2651,26,Male,Mumbai,Master's,100k-200k,37858.16,Basic,44,7
+C2652,43,Female,Kolkata,Master's,25k-50k,3135.63,Basic,32,1
+C2653,36,Female,Ahmedabad,Bachelor's,50k-100k,24568.91,Silver,41,15
+C2654,34,Male,Delhi,PhD,50k-100k,23655.72,Basic,31,4
+C2655,22,Male,Chennai,Bachelor's,50k-100k,21923.77,Silver,29,10
+C2656,19,Male,Chennai,Master's,50k-100k,15570.71,Basic,21,2
+C2657,38,Female,Chennai,Master's,25k-50k,12699.96,Platinum,48,7
+C2658,34,Female,Ahmedabad,Bachelor's,50k-100k,14080.61,Basic,19,3
+C2659,52,Female,Delhi,High School,25k-50k,6180.53,Basic,34,1
+C2660,22,Female,Mumbai,Bachelor's,100k-200k,34678.76,Silver,36,6
+C2661,18,Female,Mumbai,PhD,50k-100k,18701.34,Silver,21,6
+C2662,33,Male,Bangalore,Master's,50k-100k,21976.79,Gold,11,4
+C2663,45,Male,Delhi,Bachelor's,50k-100k,18738.91,Silver,12,2
+C2664,35,Male,Kolkata,Master's,50k-100k,24993.85,Silver,38,7
+C2665,19,Female,Ahmedabad,Master's,50k-100k,18510.23,Silver,23,5
+C2666,45,Female,Kolkata,Bachelor's,100k-200k,35509.45,Basic,31,13
+C2667,20,Male,Delhi,Master's,<25k,3235.82,Basic,28,2
+C2668,40,Female,Kolkata,High School,50k-100k,11906.87,Gold,40,2
+C2669,42,Female,Chennai,Bachelor's,50k-100k,21080.41,Platinum,2,7
+C2670,31,Male,Mumbai,Master's,100k-200k,28332.02,Gold,41,7
+C2671,42,Male,Delhi,Bachelor's,50k-100k,19787.96,Silver,14,4
+C2672,40,Male,Ahmedabad,Bachelor's,<25k,3861.49,Gold,32,2
+C2673,44,Male,Hyderabad,Bachelor's,50k-100k,18325.35,Basic,35,3
+C2674,30,Male,Kolkata,Bachelor's,25k-50k,8234.64,Basic,2,4
+C2675,59,Male,Chennai,Bachelor's,50k-100k,20790.48,Basic,28,5
+C2676,31,Other,Delhi,Bachelor's,100k-200k,41999.25,Basic,6,11
+C2677,22,Female,Bangalore,Bachelor's,25k-50k,9963.42,Basic,47,3
+C2678,29,Male,Bangalore,High School,25k-50k,4305.56,Gold,43,1
+C2679,36,Male,Kolkata,High School,25k-50k,6760.96,Platinum,41,7
+C2680,45,Male,Chennai,Bachelor's,25k-50k,7858.55,Silver,16,2
+C2681,43,Male,Pune,Bachelor's,25k-50k,7150.36,Silver,20,1
+C2682,18,Male,Pune,Bachelor's,<25k,2451.14,Silver,50,1
+C2683,19,Male,Bangalore,High School,50k-100k,19017.93,Gold,50,3
+C2684,38,Male,Chennai,Bachelor's,25k-50k,8253.97,Silver,10,4
+C2685,52,Female,Kolkata,Bachelor's,200k+,45221.04,Basic,57,5
+C2686,42,Female,Chennai,PhD,50k-100k,11910.34,Basic,18,3
+C2687,36,Male,Ahmedabad,High School,100k-200k,51908.4,Gold,8,8
+C2688,47,Male,Bangalore,Master's,50k-100k,19554.36,Basic,19,1
+C2689,29,Male,Hyderabad,PhD,50k-100k,25826.31,Silver,24,3
+C2690,23,Female,Bangalore,High School,25k-50k,6632.54,Platinum,28,1
+C2691,39,Male,Bangalore,Master's,200k+,54520.92,Basic,58,8
+C2692,28,Female,Mumbai,Master's,25k-50k,5558.05,Silver,1,3
+C2693,33,Female,Kolkata,High School,<25k,3238.18,Gold,58,1
+C2694,42,Male,Ahmedabad,Bachelor's,100k-200k,27648.57,Gold,12,9
+C2695,33,Female,Bangalore,High School,50k-100k,12627.73,Platinum,8,3
+C2696,51,Male,Bangalore,High School,25k-50k,9314.36,Silver,54,3
+C2697,40,Male,Kolkata,High School,50k-100k,14806.3,Basic,15,5
+C2698,22,Female,Delhi,Bachelor's,50k-100k,15576.24,Basic,36,5
+C2699,22,Male,Kolkata,Master's,<25k,1837.85,Gold,42,1
+C2700,29,Male,Mumbai,Bachelor's,50k-100k,17360.4,Gold,17,2
+C2701,29,Female,Pune,PhD,50k-100k,10345.78,Basic,6,3
+C2702,26,Male,Bangalore,High School,25k-50k,11052.17,Basic,6,3
+C2703,22,Female,Bangalore,High School,50k-100k,25929.23,Silver,36,4
+C2704,53,Male,Mumbai,Bachelor's,25k-50k,7348.65,Gold,2,2
+C2705,26,Male,Mumbai,Bachelor's,50k-100k,25678.73,Basic,35,6
+C2706,38,Male,Delhi,Master's,200k+,72704.18,Basic,22,23
+C2707,38,Male,Kolkata,Bachelor's,25k-50k,10098.25,Basic,35,9
+C2708,28,Male,Kolkata,High School,<25k,2081.38,Silver,14,1
+C2709,28,Female,Delhi,Master's,25k-50k,6023.71,Silver,24,3
+C2710,45,Male,Mumbai,Bachelor's,50k-100k,24786.27,Gold,38,12
+C2711,34,Female,Pune,Bachelor's,50k-100k,22983.35,Gold,33,6
+C2712,47,Male,Bangalore,Bachelor's,25k-50k,6714.05,Silver,6,1
+C2713,49,Male,Bangalore,Master's,50k-100k,19537.52,Basic,54,5
+C2714,35,Male,Chennai,PhD,50k-100k,12164.46,Gold,22,6
+C2715,31,Female,Ahmedabad,High School,<25k,2178.79,Silver,57,1
+C2716,21,Female,Bangalore,Bachelor's,50k-100k,31921.29,Platinum,33,9
+C2717,24,Female,Chennai,Master's,100k-200k,48455.29,Gold,59,12
+C2718,26,Female,Hyderabad,Master's,200k+,39910.43,Basic,18,10
+C2719,34,Female,Mumbai,Bachelor's,25k-50k,10607.75,Platinum,32,1
+C2720,32,Male,Delhi,Master's,50k-100k,16118.17,Silver,46,1
+C2721,18,Male,Hyderabad,High School,25k-50k,5744.43,Gold,2,1
+C2722,18,Male,Hyderabad,Bachelor's,100k-200k,50487.67,Silver,12,9
+C2723,24,Male,Kolkata,Bachelor's,50k-100k,27458.54,Basic,38,7
+C2724,58,Male,Chennai,High School,50k-100k,26374.4,Basic,26,5
+C2725,24,Male,Mumbai,High School,25k-50k,9260.19,Basic,41,1
+C2726,35,Male,Mumbai,High School,25k-50k,7732.28,Basic,50,3
+C2727,26,Male,Chennai,Bachelor's,50k-100k,19808.35,Basic,28,3
+C2728,27,Male,Chennai,Bachelor's,100k-200k,25623.05,Basic,17,8
+C2729,27,Male,Delhi,Bachelor's,50k-100k,26640.17,Basic,3,5
+C2730,31,Female,Mumbai,High School,100k-200k,31649.0,Platinum,31,6
+C2731,27,Male,Chennai,Bachelor's,50k-100k,16588.59,Platinum,24,6
+C2732,30,Female,Bangalore,PhD,50k-100k,16745.15,Basic,9,5
+C2733,31,Male,Kolkata,Bachelor's,50k-100k,21626.45,Gold,35,6
+C2734,20,Male,Bangalore,Bachelor's,100k-200k,32667.97,Gold,5,7
+C2735,36,Female,Ahmedabad,Master's,50k-100k,25567.92,Gold,46,4
+C2736,18,Female,Kolkata,PhD,25k-50k,5546.87,Silver,32,3
+C2737,36,Male,Ahmedabad,Bachelor's,50k-100k,29654.06,Basic,48,6
+C2738,23,Male,Delhi,Master's,50k-100k,27919.47,Platinum,7,6
+C2739,32,Male,Delhi,High School,<25k,3182.25,Gold,3,1
+C2740,66,Male,Mumbai,High School,50k-100k,8582.59,Gold,22,3
+C2741,30,Female,Delhi,High School,50k-100k,20583.08,Basic,3,2
+C2742,50,Male,Mumbai,Bachelor's,50k-100k,14087.75,Silver,53,3
+C2743,18,Female,Delhi,Bachelor's,25k-50k,12287.29,Gold,23,1
+C2744,26,Male,Mumbai,Master's,100k-200k,35490.29,Silver,49,6
+C2745,28,Male,Chennai,Bachelor's,25k-50k,7487.19,Silver,57,3
+C2746,66,Male,Bangalore,High School,50k-100k,23587.29,Basic,24,5
+C2747,31,Male,Bangalore,Bachelor's,<25k,2592.34,Silver,3,1
+C2748,39,Female,Mumbai,High School,<25k,3204.02,Basic,26,1
+C2749,30,Female,Bangalore,High School,25k-50k,6343.4,Platinum,15,1
+C2750,42,Female,Delhi,Bachelor's,25k-50k,8583.48,Silver,24,2
+C2751,39,Female,Mumbai,Bachelor's,50k-100k,20579.7,Gold,25,3
+C2752,42,Male,Ahmedabad,Bachelor's,<25k,2760.23,Platinum,38,1
+C2753,27,Male,Pune,Master's,50k-100k,23022.69,Silver,37,9
+C2754,40,Male,Kolkata,High School,50k-100k,18409.43,Platinum,36,4
+C2755,25,Male,Hyderabad,Master's,25k-50k,8161.23,Platinum,26,2
+C2756,18,Male,Kolkata,Master's,25k-50k,7659.04,Gold,16,1
+C2757,47,Female,Bangalore,High School,50k-100k,26385.57,Platinum,9,5
+C2758,50,Male,Hyderabad,Master's,50k-100k,16684.22,Gold,48,3
+C2759,34,Male,Ahmedabad,Master's,50k-100k,10793.31,Silver,47,2
+C2760,33,Female,Delhi,Bachelor's,100k-200k,32645.74,Basic,51,13
+C2761,30,Female,Mumbai,Bachelor's,100k-200k,30913.01,Basic,18,2
+C2762,34,Female,Bangalore,Master's,50k-100k,15233.03,Silver,46,2
+C2763,49,Female,Bangalore,Bachelor's,100k-200k,28055.22,Silver,28,3
+C2764,44,Male,Chennai,Bachelor's,50k-100k,22292.62,Platinum,19,6
+C2765,35,Female,Bangalore,Bachelor's,50k-100k,22375.85,Platinum,1,7
+C2766,44,Female,Delhi,Master's,100k-200k,25977.63,Gold,15,5
+C2767,36,Female,Chennai,High School,100k-200k,36713.4,Basic,41,7
+C2768,18,Female,Chennai,High School,50k-100k,18451.13,Gold,28,4
+C2769,18,Female,Delhi,Master's,50k-100k,14731.02,Silver,17,3
+C2770,18,Male,Mumbai,Master's,200k+,78518.41,Silver,25,17
+C2771,24,Female,Delhi,Bachelor's,25k-50k,5223.71,Basic,29,1
+C2772,46,Female,Chennai,Bachelor's,100k-200k,40363.96,Basic,23,13
+C2773,18,Male,Bangalore,Bachelor's,25k-50k,9236.86,Silver,10,4
+C2774,18,Male,Mumbai,Bachelor's,25k-50k,3499.69,Basic,7,1
+C2775,30,Female,Chennai,Master's,50k-100k,16290.73,Basic,1,3
+C2776,21,Female,Delhi,Bachelor's,25k-50k,4494.26,Gold,14,1
+C2777,36,Female,Kolkata,Bachelor's,50k-100k,16190.6,Silver,40,3
+C2778,24,Female,Bangalore,Bachelor's,50k-100k,19831.39,Basic,58,2
+C2779,35,Female,Bangalore,High School,50k-100k,11567.94,Basic,48,7
+C2780,37,Female,Mumbai,Master's,25k-50k,7243.54,Platinum,56,1
+C2781,46,Male,Kolkata,Bachelor's,25k-50k,11258.76,Basic,50,5
+C2782,31,Male,Chennai,Bachelor's,25k-50k,5851.67,Gold,59,1
+C2783,23,Male,Hyderabad,Bachelor's,50k-100k,21101.9,Basic,30,5
+C2784,39,Female,Bangalore,Master's,100k-200k,40678.9,Basic,4,7
+C2785,37,Male,Ahmedabad,Master's,50k-100k,11227.58,Basic,34,3
+C2786,18,Male,Ahmedabad,Bachelor's,25k-50k,7638.07,Basic,7,3
+C2787,36,Female,Delhi,High School,50k-100k,10966.86,Basic,44,2
+C2788,31,Male,Delhi,Bachelor's,100k-200k,54052.18,Gold,16,12
+C2789,36,Male,Kolkata,Master's,200k+,63333.84,Gold,16,12
+C2790,42,Male,Hyderabad,Bachelor's,100k-200k,31825.63,Silver,46,10
+C2791,22,Male,Pune,Bachelor's,25k-50k,6613.17,Silver,8,1
+C2792,33,Female,Kolkata,High School,50k-100k,20409.0,Basic,24,5
+C2793,18,Female,Mumbai,Bachelor's,25k-50k,6086.94,Basic,36,4
+C2794,42,Male,Pune,PhD,100k-200k,24887.49,Basic,40,9
+C2795,20,Female,Bangalore,High School,<25k,2925.29,Platinum,9,1
+C2796,35,Male,Pune,High School,25k-50k,6267.41,Platinum,1,1
+C2797,20,Female,Hyderabad,Bachelor's,25k-50k,8818.59,Silver,4,5
+C2798,40,Female,Bangalore,Master's,50k-100k,22064.33,Gold,49,10
+C2799,26,Female,Delhi,Bachelor's,50k-100k,23541.08,Basic,49,8
+C2800,18,Male,Hyderabad,Bachelor's,<25k,3129.63,Silver,35,1
+C2801,18,Male,Kolkata,Bachelor's,50k-100k,11725.44,Silver,16,3
+C2802,34,Female,Mumbai,Bachelor's,50k-100k,13169.65,Platinum,43,1
+C2803,40,Female,Pune,Bachelor's,25k-50k,6901.45,Gold,52,1
+C2804,38,Female,Ahmedabad,Bachelor's,100k-200k,37880.07,Basic,4,11
+C2805,38,Male,Ahmedabad,Master's,25k-50k,6144.89,Gold,51,1
+C2806,30,Other,Mumbai,PhD,25k-50k,8942.1,Basic,41,1
+C2807,27,Male,Ahmedabad,High School,<25k,2982.86,Silver,33,1
+C2808,27,Male,Delhi,High School,25k-50k,7660.63,Basic,51,4
+C2809,30,Male,Chennai,High School,50k-100k,12294.52,Basic,49,1
+C2810,47,Male,Hyderabad,Bachelor's,25k-50k,9546.85,Silver,14,1
+C2811,49,Male,Delhi,Bachelor's,25k-50k,9148.87,Basic,49,3
+C2812,37,Male,Bangalore,Bachelor's,50k-100k,17455.32,Gold,14,5
+C2813,33,Male,Mumbai,Master's,25k-50k,8038.08,Basic,49,3
+C2814,18,Female,Bangalore,Master's,25k-50k,5475.27,Gold,33,3
+C2815,24,Female,Chennai,Bachelor's,25k-50k,5954.9,Platinum,52,3
+C2816,24,Male,Mumbai,High School,50k-100k,10634.44,Silver,44,1
+C2817,40,Male,Mumbai,Bachelor's,50k-100k,25575.77,Silver,11,4
+C2818,19,Male,Delhi,High School,100k-200k,22265.26,Silver,28,5
+C2819,32,Female,Delhi,Master's,100k-200k,41923.31,Silver,7,8
+C2820,22,Female,Hyderabad,Master's,50k-100k,19076.24,Platinum,43,6
+C2821,30,Male,Pune,Bachelor's,<25k,2816.82,Silver,8,1
+C2822,35,Female,Mumbai,High School,50k-100k,17060.89,Silver,40,1
+C2823,22,Female,Pune,High School,50k-100k,14758.09,Basic,43,6
+C2824,18,Female,Kolkata,Master's,100k-200k,34299.92,Silver,56,10
+C2825,25,Male,Hyderabad,Bachelor's,25k-50k,9060.02,Basic,5,4
+C2826,29,Female,Pune,Master's,50k-100k,20164.08,Platinum,37,6
+C2827,61,Male,Chennai,High School,100k-200k,36054.26,Platinum,24,6
+C2828,18,Female,Mumbai,Bachelor's,25k-50k,3910.4,Silver,4,2
+C2829,43,Female,Chennai,Bachelor's,100k-200k,39125.54,Gold,25,10
+C2830,35,Male,Bangalore,High School,50k-100k,12895.1,Basic,52,5
+C2831,43,Female,Pune,Bachelor's,50k-100k,11747.31,Gold,58,5
+C2832,18,Female,Kolkata,High School,25k-50k,9837.83,Gold,11,3
+C2833,18,Male,Mumbai,Master's,100k-200k,18214.21,Silver,16,3
+C2834,39,Male,Chennai,High School,25k-50k,5141.03,Basic,45,1
+C2835,39,Female,Ahmedabad,Bachelor's,25k-50k,4043.41,Gold,44,1
+C2836,43,Female,Delhi,Bachelor's,100k-200k,57339.17,Silver,51,21
+C2837,39,Male,Kolkata,Bachelor's,25k-50k,6094.26,Gold,12,1
+C2838,38,Female,Kolkata,Master's,200k+,31611.96,Basic,12,6
+C2839,30,Female,Ahmedabad,Master's,50k-100k,13469.93,Basic,5,3
+C2840,34,Male,Bangalore,High School,100k-200k,51895.27,Basic,57,12
+C2841,37,Female,Delhi,Master's,50k-100k,12463.17,Basic,52,3
+C2842,36,Female,Pune,High School,<25k,3714.98,Basic,46,1
+C2843,32,Male,Hyderabad,PhD,<25k,3001.96,Silver,50,1
+C2844,20,Male,Mumbai,Bachelor's,100k-200k,50107.3,Silver,29,20
+C2845,47,Female,Hyderabad,High School,50k-100k,20869.17,Silver,53,5
+C2846,35,Female,Chennai,Bachelor's,25k-50k,6437.87,Gold,29,1
+C2847,41,Female,Mumbai,PhD,25k-50k,10588.61,Silver,38,1
+C2848,38,Female,Bangalore,Bachelor's,100k-200k,49313.64,Silver,7,13
+C2849,45,Male,Ahmedabad,High School,50k-100k,15425.51,Basic,56,2
+C2850,53,Female,Mumbai,Bachelor's,50k-100k,17603.68,Silver,58,4
+C2851,31,Female,Pune,Master's,100k-200k,41312.11,Silver,19,9
+C2852,43,Female,Mumbai,Bachelor's,200k+,82573.31,Platinum,18,20
+C2853,36,Female,Bangalore,High School,25k-50k,8489.78,Basic,27,5
+C2854,28,Female,Delhi,Master's,50k-100k,16004.23,Basic,8,2
+C2855,40,Female,Mumbai,Master's,100k-200k,47580.68,Basic,22,8
+C2856,30,Female,Mumbai,PhD,100k-200k,38124.11,Gold,18,12
+C2857,27,Male,Kolkata,Bachelor's,50k-100k,23997.05,Silver,30,4
+C2858,35,Male,Mumbai,Master's,50k-100k,19566.63,Silver,3,4
+C2859,30,Female,Ahmedabad,High School,25k-50k,7535.89,Silver,55,1
+C2860,18,Male,Mumbai,PhD,50k-100k,30141.4,Gold,35,4
+C2861,39,Female,Delhi,High School,25k-50k,8618.2,Basic,8,5
+C2862,34,Male,Mumbai,Master's,50k-100k,18530.84,Basic,59,5
+C2863,26,Male,Pune,Master's,50k-100k,20800.13,Basic,14,2
+C2864,31,Male,Mumbai,Master's,50k-100k,18307.2,Basic,44,7
+C2865,27,Female,Delhi,Bachelor's,<25k,2484.88,Gold,16,1
+C2866,28,Male,Ahmedabad,Bachelor's,100k-200k,21247.69,Basic,10,4
+C2867,45,Male,Delhi,Master's,200k+,56824.17,Platinum,43,13
+C2868,37,Male,Bangalore,Bachelor's,100k-200k,41805.39,Platinum,1,7
+C2869,27,Female,Kolkata,Bachelor's,25k-50k,7959.05,Basic,49,2
+C2870,48,Male,Kolkata,Bachelor's,50k-100k,27492.78,Basic,43,4
+C2871,22,Male,Ahmedabad,Master's,25k-50k,8601.35,Silver,13,2
+C2872,30,Male,Ahmedabad,Master's,25k-50k,8380.76,Basic,1,1
+C2873,36,Male,Kolkata,Bachelor's,25k-50k,7233.31,Silver,42,1
+C2874,26,Female,Delhi,Bachelor's,50k-100k,16860.07,Platinum,55,3
+C2875,19,Female,Bangalore,Bachelor's,25k-50k,11268.5,Basic,43,3
+C2876,44,Female,Chennai,High School,25k-50k,4987.15,Basic,1,3
+C2877,43,Female,Pune,High School,50k-100k,17590.19,Gold,43,7
+C2878,32,Female,Ahmedabad,Master's,100k-200k,33843.48,Basic,18,3
+C2879,41,Female,Mumbai,High School,50k-100k,15425.05,Silver,38,6
+C2880,21,Female,Delhi,PhD,50k-100k,20219.77,Gold,53,9
+C2881,35,Female,Kolkata,PhD,50k-100k,20900.24,Basic,23,3
+C2882,23,Male,Ahmedabad,Bachelor's,25k-50k,9347.32,Basic,54,1
+C2883,50,Female,Mumbai,Bachelor's,100k-200k,42907.02,Silver,34,9
+C2884,20,Male,Bangalore,Bachelor's,50k-100k,21493.4,Silver,28,4
+C2885,31,Male,Chennai,Master's,200k+,62841.37,Silver,31,15
+C2886,59,Male,Hyderabad,Master's,50k-100k,24139.63,Silver,9,7
+C2887,18,Male,Ahmedabad,PhD,50k-100k,19139.11,Basic,5,3
+C2888,24,Female,Chennai,High School,<25k,3644.45,Silver,49,1
+C2889,26,Female,Bangalore,High School,100k-200k,40284.91,Basic,31,10
+C2890,43,Female,Ahmedabad,Bachelor's,50k-100k,17859.0,Platinum,45,4
+C2891,35,Male,Delhi,Bachelor's,50k-100k,12386.24,Basic,33,2
+C2892,24,Male,Bangalore,Master's,100k-200k,11021.45,Silver,52,1
+C2893,46,Male,Ahmedabad,High School,100k-200k,32477.44,Basic,56,5
+C2894,40,Male,Kolkata,Master's,<25k,2861.86,Basic,57,1
+C2895,39,Male,Mumbai,Master's,100k-200k,42139.81,Platinum,47,9
+C2896,33,Female,Hyderabad,Bachelor's,50k-100k,15426.24,Basic,28,8
+C2897,26,Male,Mumbai,High School,25k-50k,14358.14,Gold,32,1
+C2898,25,Female,Delhi,Master's,50k-100k,19717.75,Basic,35,4
+C2899,35,Male,Pune,High School,<25k,4523.81,Gold,27,1
+C2900,36,Female,Bangalore,High School,50k-100k,19006.93,Gold,29,2
+C2901,30,Female,Delhi,Bachelor's,25k-50k,8213.07,Silver,1,4
+C2902,54,Male,Pune,High School,50k-100k,21260.46,Basic,16,6
+C2903,23,Male,Pune,Bachelor's,100k-200k,40790.3,Silver,55,9
+C2904,29,Male,Pune,Bachelor's,<25k,4029.32,Basic,42,1
+C2905,23,Male,Mumbai,Bachelor's,50k-100k,23553.0,Basic,42,8
+C2906,28,Male,Ahmedabad,Bachelor's,100k-200k,13260.24,Platinum,54,1
+C2907,23,Male,Pune,High School,<25k,3041.4,Silver,24,1
+C2908,18,Female,Pune,Master's,100k-200k,30760.26,Silver,21,12
+C2909,36,Female,Ahmedabad,Bachelor's,50k-100k,15634.76,Platinum,54,4
+C2910,29,Male,Delhi,Bachelor's,25k-50k,10969.58,Silver,36,1
+C2911,31,Male,Delhi,Bachelor's,50k-100k,10018.25,Basic,25,6
+C2912,47,Female,Pune,Bachelor's,25k-50k,6033.71,Silver,47,1
+C2913,47,Female,Bangalore,Master's,200k+,82999.01,Basic,50,28
+C2914,24,Other,Pune,Bachelor's,100k-200k,41137.05,Basic,49,8
+C2915,39,Female,Chennai,Bachelor's,100k-200k,19327.15,Gold,15,2
+C2916,26,Female,Bangalore,Master's,50k-100k,11819.32,Silver,14,4
+C2917,34,Female,Chennai,Bachelor's,50k-100k,21774.53,Platinum,4,3
+C2918,18,Male,Ahmedabad,Bachelor's,25k-50k,6123.14,Basic,16,1
+C2919,49,Female,Mumbai,Bachelor's,50k-100k,18184.06,Platinum,44,7
+C2920,30,Male,Kolkata,High School,25k-50k,10454.78,Gold,5,2
+C2921,53,Female,Ahmedabad,Master's,100k-200k,50763.22,Gold,15,20
+C2922,21,Male,Delhi,Master's,50k-100k,23621.41,Gold,18,6
+C2923,28,Female,Bangalore,Master's,50k-100k,19941.87,Basic,17,5
+C2924,41,Male,Bangalore,Bachelor's,50k-100k,26311.01,Basic,5,6
+C2925,34,Male,Mumbai,Master's,50k-100k,16532.0,Silver,9,3
+C2926,51,Male,Pune,Bachelor's,50k-100k,13145.69,Silver,6,8
+C2927,19,Female,Mumbai,Bachelor's,200k+,31125.05,Basic,20,10
+C2928,45,Male,Ahmedabad,PhD,200k+,71696.33,Gold,21,18
+C2929,21,Male,Bangalore,Master's,100k-200k,46898.66,Basic,2,12
+C2930,52,Female,Bangalore,Bachelor's,100k-200k,25462.78,Platinum,48,4
+C2931,39,Female,Ahmedabad,Bachelor's,100k-200k,13076.89,Silver,39,7
+C2932,26,Other,Chennai,Master's,100k-200k,33179.23,Basic,7,5
+C2933,31,Male,Mumbai,Master's,25k-50k,7975.58,Gold,55,2
+C2934,62,Female,Pune,Bachelor's,25k-50k,11442.79,Basic,13,3
+C2935,33,Female,Mumbai,Master's,100k-200k,22918.25,Basic,53,5
+C2936,43,Male,Chennai,Bachelor's,50k-100k,11825.71,Basic,9,1
+C2937,25,Male,Delhi,Master's,100k-200k,42077.99,Basic,5,9
+C2938,37,Female,Chennai,Master's,100k-200k,27267.31,Gold,57,8
+C2939,44,Male,Mumbai,Master's,200k+,71526.72,Gold,15,13
+C2940,35,Male,Ahmedabad,Bachelor's,<25k,3387.99,Basic,45,1
+C2941,55,Male,Delhi,Master's,100k-200k,43860.89,Platinum,7,10
+C2942,36,Female,Delhi,Master's,100k-200k,39187.91,Basic,22,11
+C2943,41,Male,Hyderabad,Bachelor's,50k-100k,13636.52,Silver,9,4
+C2944,30,Other,Pune,High School,50k-100k,18187.7,Platinum,1,3
+C2945,51,Female,Pune,Master's,50k-100k,17376.81,Basic,42,1
+C2946,46,Other,Pune,Bachelor's,50k-100k,7802.01,Gold,20,3
+C2947,32,Male,Hyderabad,Master's,50k-100k,15930.89,Basic,45,7
+C2948,38,Female,Hyderabad,High School,50k-100k,25776.43,Silver,55,6
+C2949,24,Female,Kolkata,Master's,50k-100k,13077.14,Platinum,55,3
+C2950,49,Female,Pune,Bachelor's,100k-200k,51749.08,Silver,15,16
+C2951,34,Female,Kolkata,Master's,25k-50k,5002.62,Silver,29,1
+C2952,37,Other,Hyderabad,Bachelor's,100k-200k,45563.95,Basic,30,7
+C2953,21,Male,Kolkata,PhD,50k-100k,13807.84,Basic,40,3
+C2954,31,Female,Delhi,High School,25k-50k,6262.24,Basic,23,2
+C2955,29,Female,Ahmedabad,PhD,100k-200k,46741.56,Basic,33,13
+C2956,20,Male,Kolkata,Bachelor's,<25k,2055.97,Silver,56,2
+C2957,47,Male,Hyderabad,Bachelor's,100k-200k,47629.91,Gold,9,15
+C2958,30,Female,Mumbai,Bachelor's,50k-100k,22981.73,Gold,52,3
+C2959,18,Male,Mumbai,PhD,25k-50k,9542.7,Silver,40,2
+C2960,18,Female,Kolkata,High School,25k-50k,10093.94,Basic,1,3
+C2961,31,Female,Ahmedabad,Master's,25k-50k,9257.89,Basic,36,2
+C2962,42,Female,Hyderabad,High School,25k-50k,8400.96,Silver,29,2
+C2963,18,Male,Pune,Bachelor's,<25k,3815.74,Basic,23,1
+C2964,20,Female,Ahmedabad,Bachelor's,25k-50k,15704.71,Gold,27,3
+C2965,29,Female,Mumbai,High School,100k-200k,30664.7,Basic,55,3
+C2966,27,Male,Mumbai,PhD,100k-200k,44682.47,Gold,51,15
+C2967,40,Male,Mumbai,High School,25k-50k,6711.55,Basic,26,1
+C2968,30,Male,Mumbai,Master's,25k-50k,8899.97,Basic,12,1
+C2969,27,Female,Bangalore,Bachelor's,100k-200k,17580.42,Gold,8,5
+C2970,21,Female,Bangalore,Bachelor's,25k-50k,7484.62,Silver,2,2
+C2971,20,Male,Chennai,High School,<25k,4766.28,Gold,17,2
+C2972,39,Male,Ahmedabad,Bachelor's,25k-50k,3712.07,Basic,41,1
+C2973,26,Female,Hyderabad,Bachelor's,50k-100k,27894.63,Gold,38,4
+C2974,29,Other,Delhi,Bachelor's,25k-50k,8746.14,Gold,52,4
+C2975,24,Male,Hyderabad,High School,<25k,3126.13,Gold,5,1
+C2976,30,Male,Ahmedabad,Bachelor's,100k-200k,33152.63,Silver,52,7
+C2977,18,Male,Pune,Bachelor's,<25k,2005.63,Basic,54,1
+C2978,46,Female,Mumbai,High School,<25k,2024.5,Basic,17,1
+C2979,38,Female,Delhi,Bachelor's,50k-100k,8901.28,Basic,8,5
+C2980,50,Male,Kolkata,Master's,50k-100k,13211.65,Basic,5,2
+C2981,41,Male,Pune,Master's,25k-50k,6942.09,Platinum,4,1
+C2982,36,Other,Bangalore,Bachelor's,50k-100k,13577.51,Gold,13,5
+C2983,42,Female,Pune,Master's,50k-100k,14868.19,Gold,21,7
+C2984,19,Male,Bangalore,Bachelor's,<25k,2732.7,Silver,32,1
+C2985,28,Male,Delhi,Bachelor's,25k-50k,11032.52,Basic,30,4
+C2986,31,Male,Ahmedabad,Bachelor's,100k-200k,22788.06,Platinum,38,4
+C2987,41,Female,Ahmedabad,PhD,50k-100k,19981.75,Basic,49,1
+C2988,23,Male,Delhi,High School,50k-100k,18889.22,Gold,38,5
+C2989,32,Female,Mumbai,Master's,50k-100k,27184.46,Silver,13,2
+C2990,30,Female,Pune,Bachelor's,100k-200k,51625.1,Basic,38,14
+C2991,25,Female,Ahmedabad,PhD,<25k,3995.57,Basic,56,1
+C2992,37,Female,Mumbai,Master's,100k-200k,47232.07,Platinum,14,13
+C2993,38,Male,Mumbai,Bachelor's,50k-100k,21802.26,Gold,39,7
+C2994,53,Male,Pune,Bachelor's,25k-50k,8250.25,Basic,59,3
+C2995,27,Female,Chennai,High School,25k-50k,8881.32,Gold,57,1
+C2996,32,Female,Chennai,High School,<25k,2581.17,Platinum,21,1
+C2997,18,Male,Pune,Bachelor's,50k-100k,15225.04,Silver,11,7
+C2998,23,Female,Hyderabad,High School,<25k,2239.48,Gold,38,1
+C2999,33,Female,Bangalore,Master's,100k-200k,38461.22,Gold,31,8
+C3000,21,Female,Bangalore,High School,50k-100k,20162.31,Basic,17,2
+C3001,34,Male,Delhi,Bachelor's,50k-100k,16734.8,Silver,48,4
+C3002,35,Female,Ahmedabad,Bachelor's,25k-50k,6732.51,Basic,5,1
+C3003,33,Female,Delhi,Bachelor's,25k-50k,6533.24,Platinum,29,2
+C3004,41,Male,Pune,PhD,100k-200k,51511.36,Basic,39,14
+C3005,44,Male,Pune,Bachelor's,100k-200k,39856.68,Gold,54,7
+C3006,45,Female,Chennai,Bachelor's,50k-100k,14899.08,Silver,32,4
+C3007,44,Female,Mumbai,PhD,100k-200k,44249.35,Basic,18,12
+C3008,18,Female,Mumbai,Master's,50k-100k,13990.85,Basic,48,5
+C3009,25,Male,Ahmedabad,High School,<25k,4296.1,Silver,44,1
+C3010,32,Female,Bangalore,High School,200k+,64144.99,Basic,45,15
+C3011,18,Female,Chennai,Master's,50k-100k,19733.09,Basic,17,2
+C3012,26,Male,Bangalore,PhD,100k-200k,36993.99,Gold,39,7
+C3013,44,Female,Ahmedabad,Bachelor's,50k-100k,18269.52,Gold,34,7
+C3014,19,Male,Bangalore,Bachelor's,<25k,2030.49,Silver,40,1
+C3015,22,Female,Delhi,Bachelor's,50k-100k,18486.91,Gold,7,8
+C3016,26,Female,Bangalore,Bachelor's,25k-50k,8261.82,Gold,11,3
+C3017,18,Female,Chennai,Master's,50k-100k,19931.06,Basic,30,6
+C3018,21,Female,Hyderabad,Master's,50k-100k,21623.93,Basic,4,6
+C3019,24,Female,Bangalore,Master's,100k-200k,28482.1,Basic,39,4
+C3020,31,Male,Mumbai,High School,<25k,2799.42,Silver,8,2
+C3021,40,Male,Chennai,PhD,50k-100k,14215.93,Gold,52,4
+C3022,24,Female,Chennai,High School,25k-50k,5137.92,Silver,50,1
+C3023,23,Male,Bangalore,Bachelor's,100k-200k,30665.58,Basic,57,1
+C3024,33,Female,Mumbai,High School,50k-100k,16128.68,Gold,13,1
+C3025,29,Male,Bangalore,High School,<25k,1212.35,Gold,45,1
+C3026,31,Male,Kolkata,High School,50k-100k,17071.88,Basic,9,2
+C3027,33,Male,Delhi,Master's,50k-100k,18616.88,Silver,21,3
+C3028,32,Male,Ahmedabad,High School,50k-100k,19459.21,Silver,22,3
+C3029,27,Male,Pune,Bachelor's,100k-200k,37038.98,Silver,18,15
+C3030,50,Male,Pune,Bachelor's,100k-200k,34123.68,Platinum,58,13
+C3031,52,Female,Pune,Bachelor's,200k+,75731.73,Basic,46,22
+C3032,57,Female,Hyderabad,Bachelor's,200k+,43657.33,Silver,20,10
+C3033,39,Male,Hyderabad,High School,50k-100k,14613.87,Silver,43,7
+C3034,25,Male,Mumbai,Master's,50k-100k,18071.05,Basic,31,2
+C3035,39,Male,Delhi,Master's,50k-100k,13815.16,Silver,1,5
+C3036,20,Female,Mumbai,Bachelor's,50k-100k,23711.34,Platinum,18,6
+C3037,33,Female,Delhi,Bachelor's,25k-50k,11430.88,Basic,29,6
+C3038,19,Female,Chennai,Bachelor's,25k-50k,10519.86,Gold,54,1
+C3039,45,Female,Delhi,PhD,100k-200k,35268.77,Gold,5,5
+C3040,36,Male,Hyderabad,Bachelor's,<25k,2257.08,Silver,38,1
+C3041,26,Male,Mumbai,Bachelor's,25k-50k,6115.21,Silver,9,1
+C3042,52,Male,Hyderabad,Bachelor's,50k-100k,8593.43,Silver,33,6
+C3043,18,Male,Kolkata,Master's,50k-100k,12556.82,Silver,41,5
+C3044,25,Female,Bangalore,Bachelor's,50k-100k,10109.37,Basic,48,2
+C3045,35,Male,Pune,Bachelor's,200k+,59816.78,Basic,3,14
+C3046,39,Female,Kolkata,Bachelor's,50k-100k,12308.99,Basic,27,1
+C3047,47,Male,Bangalore,Master's,100k-200k,49484.53,Silver,27,10
+C3048,39,Male,Ahmedabad,Bachelor's,100k-200k,38800.1,Basic,12,8
+C3049,29,Male,Bangalore,Bachelor's,50k-100k,17282.79,Silver,15,4
+C3050,26,Male,Kolkata,Bachelor's,25k-50k,5204.84,Platinum,54,2
+C3051,56,Female,Hyderabad,Bachelor's,<25k,2965.49,Basic,29,2
+C3052,29,Male,Pune,Bachelor's,50k-100k,19894.79,Silver,24,7
+C3053,18,Male,Delhi,Master's,25k-50k,7163.95,Silver,1,1
+C3054,18,Female,Delhi,Master's,25k-50k,6681.53,Silver,45,2
+C3055,33,Male,Delhi,Bachelor's,100k-200k,54064.08,Basic,40,9
+C3056,34,Female,Kolkata,Master's,100k-200k,47303.42,Basic,26,13
+C3057,24,Female,Delhi,Bachelor's,100k-200k,20970.7,Basic,18,6
+C3058,23,Female,Chennai,Master's,25k-50k,2130.62,Basic,52,1
+C3059,49,Male,Mumbai,Master's,200k+,75870.62,Platinum,3,24
+C3060,24,Female,Delhi,Master's,50k-100k,1764.37,Basic,38,1
+C3061,18,Female,Bangalore,High School,50k-100k,25011.66,Silver,7,6
+C3062,44,Male,Hyderabad,Master's,100k-200k,25225.44,Basic,10,8
+C3063,18,Male,Pune,High School,<25k,2236.37,Gold,20,2
+C3064,28,Male,Ahmedabad,Bachelor's,25k-50k,8593.76,Gold,56,4
+C3065,31,Female,Chennai,Bachelor's,25k-50k,10621.72,Basic,14,3
+C3066,50,Female,Hyderabad,Master's,100k-200k,30755.95,Gold,37,7
+C3067,29,Female,Mumbai,High School,50k-100k,7501.15,Basic,32,1
+C3068,31,Male,Bangalore,PhD,100k-200k,37436.9,Platinum,13,12
+C3069,23,Male,Mumbai,Master's,100k-200k,46468.63,Basic,11,5
+C3070,30,Male,Mumbai,Master's,50k-100k,25390.38,Basic,44,5
+C3071,33,Male,Bangalore,Bachelor's,25k-50k,5026.36,Basic,6,2
+C3072,40,Female,Kolkata,Master's,50k-100k,17650.52,Gold,29,1
+C3073,19,Male,Hyderabad,Bachelor's,50k-100k,17193.12,Silver,33,1
+C3074,40,Male,Ahmedabad,High School,50k-100k,11362.44,Silver,37,5
+C3075,30,Male,Hyderabad,Bachelor's,100k-200k,32039.45,Silver,48,9
+C3076,24,Female,Ahmedabad,Bachelor's,<25k,3368.17,Basic,20,2
+C3077,46,Female,Hyderabad,Master's,50k-100k,25780.98,Gold,56,6
+C3078,39,Female,Mumbai,High School,50k-100k,16991.4,Platinum,30,1
+C3079,25,Female,Mumbai,Bachelor's,50k-100k,21766.78,Basic,31,5
+C3080,38,Male,Mumbai,Bachelor's,25k-50k,4192.88,Silver,4,2
+C3081,31,Female,Ahmedabad,High School,25k-50k,8152.33,Silver,35,3
+C3082,28,Male,Chennai,Bachelor's,200k+,70142.96,Basic,6,17
+C3083,44,Male,Pune,Bachelor's,50k-100k,13313.74,Silver,54,4
+C3084,18,Female,Kolkata,Master's,100k-200k,42582.17,Silver,15,8
+C3085,21,Female,Pune,PhD,100k-200k,13220.61,Gold,39,5
+C3086,38,Female,Ahmedabad,Master's,25k-50k,10297.01,Silver,21,4
+C3087,29,Male,Bangalore,Master's,25k-50k,10628.67,Basic,25,2
+C3088,37,Female,Delhi,PhD,50k-100k,24719.31,Platinum,46,6
+C3089,27,Male,Hyderabad,Bachelor's,50k-100k,16395.77,Platinum,28,8
+C3090,22,Female,Kolkata,Master's,25k-50k,7600.22,Basic,56,3
+C3091,24,Female,Delhi,PhD,50k-100k,20902.82,Platinum,42,7
+C3092,18,Female,Delhi,Bachelor's,50k-100k,9656.46,Basic,36,5
+C3093,38,Male,Bangalore,Master's,200k+,76489.34,Basic,15,17
+C3094,24,Female,Pune,Bachelor's,100k-200k,16534.33,Basic,33,6
+C3095,35,Female,Bangalore,Master's,25k-50k,12552.43,Basic,33,3
+C3096,39,Female,Mumbai,Master's,50k-100k,14474.3,Basic,50,6
+C3097,18,Male,Bangalore,Master's,50k-100k,13414.01,Basic,32,2
+C3098,32,Female,Delhi,Bachelor's,25k-50k,10750.44,Basic,4,2
+C3099,39,Male,Mumbai,Master's,200k+,91725.08,Silver,10,24
+C3100,32,Male,Mumbai,Master's,50k-100k,16512.27,Basic,50,7
+C3101,40,Male,Hyderabad,High School,25k-50k,10955.7,Silver,23,2
+C3102,32,Female,Hyderabad,Master's,25k-50k,6730.26,Silver,49,3
+C3103,32,Male,Bangalore,Bachelor's,<25k,3045.74,Basic,55,2
+C3104,18,Female,Kolkata,Bachelor's,50k-100k,22447.77,Basic,5,2
+C3105,18,Male,Mumbai,High School,25k-50k,6178.34,Basic,1,2
+C3106,23,Female,Hyderabad,High School,25k-50k,8243.65,Basic,46,5
+C3107,42,Male,Kolkata,Bachelor's,100k-200k,40033.94,Basic,24,11
+C3108,49,Other,Kolkata,PhD,100k-200k,39978.09,Gold,17,11
+C3109,29,Male,Kolkata,Bachelor's,25k-50k,11078.62,Silver,5,3
+C3110,40,Male,Pune,Master's,100k-200k,21559.15,Basic,3,8
+C3111,18,Female,Pune,Master's,25k-50k,9771.46,Silver,27,2
+C3112,27,Male,Delhi,Bachelor's,25k-50k,3397.45,Basic,31,2
+C3113,51,Female,Delhi,High School,25k-50k,8144.96,Basic,50,1
+C3114,26,Female,Kolkata,Master's,<25k,2892.07,Platinum,36,1
+C3115,30,Male,Hyderabad,Master's,100k-200k,14688.49,Silver,26,3
+C3116,31,Female,Bangalore,PhD,<25k,2504.01,Platinum,40,1
+C3117,21,Female,Bangalore,Master's,25k-50k,10614.08,Basic,51,2
+C3118,22,Male,Bangalore,Master's,100k-200k,45518.11,Silver,31,12
+C3119,50,Male,Hyderabad,Master's,100k-200k,27860.84,Basic,17,6
+C3120,18,Male,Mumbai,Master's,50k-100k,13087.71,Gold,52,1
+C3121,36,Male,Pune,Bachelor's,25k-50k,5376.18,Silver,31,2
+C3122,34,Male,Delhi,Bachelor's,25k-50k,8393.52,Basic,29,4
+C3123,43,Female,Chennai,Bachelor's,50k-100k,14888.12,Basic,48,6
+C3124,27,Female,Kolkata,Master's,<25k,3451.25,Platinum,11,1
+C3125,30,Female,Bangalore,Bachelor's,50k-100k,15415.64,Platinum,6,6
+C3126,37,Female,Pune,High School,50k-100k,13424.26,Silver,52,3
+C3127,31,Female,Delhi,Bachelor's,100k-200k,46048.02,Silver,46,9
+C3128,39,Male,Pune,Master's,50k-100k,19052.22,Basic,53,7
+C3129,22,Male,Delhi,High School,200k+,54036.95,Silver,54,8
+C3130,37,Female,Delhi,Master's,100k-200k,35096.57,Platinum,44,11
+C3131,29,Female,Hyderabad,Bachelor's,50k-100k,19019.18,Gold,1,2
+C3132,53,Male,Chennai,Bachelor's,200k+,67127.06,Silver,11,11
+C3133,44,Male,Mumbai,High School,<25k,2254.93,Gold,36,1
+C3134,18,Female,Bangalore,PhD,50k-100k,20880.32,Basic,5,1
+C3135,18,Female,Chennai,Bachelor's,25k-50k,16314.12,Silver,21,2
+C3136,31,Male,Mumbai,Bachelor's,50k-100k,19879.14,Silver,24,7
+C3137,34,Male,Delhi,Bachelor's,50k-100k,17590.62,Silver,51,4
+C3138,51,Male,Bangalore,Master's,50k-100k,24397.02,Silver,37,3
+C3139,27,Female,Mumbai,Master's,100k-200k,23419.79,Silver,45,8
+C3140,35,Female,Bangalore,Master's,25k-50k,3765.67,Silver,3,1
+C3141,34,Male,Pune,High School,<25k,3139.98,Silver,34,1
+C3142,18,Female,Kolkata,Bachelor's,25k-50k,3493.14,Basic,30,1
+C3143,18,Male,Bangalore,Bachelor's,50k-100k,12380.93,Basic,18,2
+C3144,22,Male,Delhi,PhD,100k-200k,48005.34,Basic,13,6
+C3145,39,Female,Kolkata,Bachelor's,100k-200k,21536.58,Basic,8,3
+C3146,18,Male,Ahmedabad,High School,50k-100k,14248.64,Silver,59,4
+C3147,32,Male,Mumbai,High School,<25k,2180.62,Basic,43,1
+C3148,40,Male,Bangalore,Bachelor's,100k-200k,33939.03,Basic,36,8
+C3149,45,Male,Mumbai,Master's,100k-200k,36068.75,Silver,47,9
+C3150,51,Male,Ahmedabad,High School,50k-100k,9947.87,Basic,40,1
+C3151,43,Female,Chennai,Bachelor's,50k-100k,19453.2,Basic,13,3
+C3152,18,Male,Delhi,High School,50k-100k,21078.87,Silver,32,9
+C3153,30,Male,Pune,High School,100k-200k,25607.6,Platinum,38,2
+C3154,34,Female,Delhi,Bachelor's,50k-100k,15835.79,Gold,8,7
+C3155,19,Female,Kolkata,High School,<25k,2004.08,Basic,51,1
+C3156,23,Male,Mumbai,Bachelor's,50k-100k,18692.3,Gold,55,3
+C3157,44,Female,Delhi,Master's,50k-100k,18041.81,Platinum,58,2
+C3158,29,Male,Bangalore,Master's,50k-100k,16202.3,Silver,21,6
+C3159,27,Female,Mumbai,Master's,50k-100k,3844.1,Basic,47,1
+C3160,40,Male,Bangalore,High School,25k-50k,7363.23,Silver,20,5
+C3161,31,Female,Pune,Bachelor's,50k-100k,5976.16,Basic,35,2
+C3162,34,Male,Kolkata,PhD,50k-100k,15805.09,Basic,15,4
+C3163,30,Male,Delhi,Bachelor's,50k-100k,17311.39,Platinum,12,1
+C3164,40,Female,Chennai,Bachelor's,50k-100k,24672.95,Silver,5,6
+C3165,37,Female,Hyderabad,Bachelor's,100k-200k,44649.66,Platinum,5,7
+C3166,41,Male,Mumbai,Master's,25k-50k,10317.29,Silver,11,4
+C3167,18,Female,Ahmedabad,Master's,50k-100k,21213.9,Silver,52,4
+C3168,50,Other,Kolkata,Bachelor's,200k+,59728.07,Gold,36,14
+C3169,18,Female,Delhi,Bachelor's,<25k,2672.01,Silver,8,1
+C3170,18,Male,Mumbai,Master's,50k-100k,20300.73,Silver,50,3
+C3171,31,Male,Delhi,Master's,50k-100k,18451.93,Platinum,42,1
+C3172,33,Female,Pune,High School,<25k,1986.88,Basic,33,1
+C3173,53,Female,Chennai,Bachelor's,100k-200k,45039.51,Silver,13,10
+C3174,38,Male,Delhi,Master's,100k-200k,30806.85,Gold,53,8
+C3175,35,Male,Delhi,Master's,25k-50k,7582.37,Gold,38,2
+C3176,42,Male,Pune,Bachelor's,50k-100k,10530.19,Silver,46,2
+C3177,51,Male,Kolkata,High School,50k-100k,14356.55,Basic,23,5
+C3178,49,Female,Hyderabad,High School,50k-100k,17369.97,Silver,47,3
+C3179,40,Male,Delhi,Bachelor's,<25k,1386.53,Gold,10,1
+C3180,21,Male,Delhi,High School,<25k,2754.55,Basic,35,1
+C3181,19,Male,Chennai,High School,50k-100k,17119.97,Basic,23,4
+C3182,43,Male,Bangalore,PhD,50k-100k,9430.02,Platinum,13,2
+C3183,40,Male,Pune,Master's,200k+,85691.29,Platinum,28,18
+C3184,24,Female,Mumbai,High School,<25k,5110.59,Gold,27,2
+C3185,31,Female,Delhi,Master's,200k+,93136.31,Silver,38,25
+C3186,43,Male,Mumbai,High School,100k-200k,36187.59,Silver,16,11
+C3187,40,Male,Pune,Master's,50k-100k,18306.29,Silver,34,1
+C3188,26,Male,Delhi,Bachelor's,100k-200k,47274.09,Silver,31,12
+C3189,18,Male,Pune,Bachelor's,<25k,2497.46,Silver,12,1
+C3190,30,Female,Chennai,Master's,50k-100k,22450.15,Basic,13,6
+C3191,55,Male,Mumbai,Master's,50k-100k,21801.38,Silver,54,7
+C3192,34,Male,Pune,Bachelor's,25k-50k,9556.82,Gold,10,4
+C3193,18,Male,Delhi,Master's,100k-200k,21787.1,Gold,29,6
+C3194,49,Female,Mumbai,Bachelor's,100k-200k,34252.19,Silver,32,8
+C3195,23,Female,Chennai,Bachelor's,25k-50k,10568.11,Basic,59,1
+C3196,50,Male,Hyderabad,Bachelor's,25k-50k,12030.53,Basic,49,2
+C3197,26,Male,Mumbai,High School,<25k,2025.18,Platinum,29,1
+C3198,36,Other,Pune,High School,25k-50k,7578.45,Silver,54,5
+C3199,32,Male,Bangalore,Bachelor's,200k+,81753.05,Silver,21,17
+C3200,60,Male,Mumbai,Bachelor's,100k-200k,30320.39,Silver,39,9
+C3201,39,Male,Chennai,High School,100k-200k,25328.31,Silver,5,4
+C3202,22,Female,Mumbai,Bachelor's,<25k,3074.76,Gold,53,1
+C3203,29,Male,Mumbai,Master's,100k-200k,46014.35,Platinum,30,9
+C3204,51,Other,Delhi,Bachelor's,100k-200k,47762.73,Basic,22,14
+C3205,42,Male,Pune,Bachelor's,25k-50k,7771.04,Silver,56,1
+C3206,39,Female,Mumbai,High School,25k-50k,6680.11,Basic,52,4
+C3207,29,Male,Mumbai,Bachelor's,50k-100k,21364.03,Silver,20,11
+C3208,22,Female,Hyderabad,Bachelor's,100k-200k,30189.75,Silver,26,8
+C3209,32,Female,Pune,Bachelor's,50k-100k,12553.13,Gold,32,3
+C3210,42,Female,Mumbai,High School,50k-100k,3073.04,Gold,45,1
+C3211,50,Other,Mumbai,Bachelor's,<25k,3944.63,Silver,47,1
+C3212,38,Female,Bangalore,Bachelor's,25k-50k,7759.32,Silver,52,2
+C3213,34,Other,Delhi,Master's,100k-200k,5515.78,Silver,40,1
+C3214,31,Male,Ahmedabad,Master's,200k+,46597.61,Silver,8,14
+C3215,41,Female,Bangalore,Master's,100k-200k,33019.18,Gold,55,9
+C3216,47,Male,Ahmedabad,Bachelor's,100k-200k,41672.9,Basic,26,12
+C3217,19,Male,Delhi,High School,<25k,3532.37,Silver,10,5
+C3218,21,Male,Ahmedabad,Master's,<25k,837.28,Silver,15,1
+C3219,35,Male,Hyderabad,Bachelor's,100k-200k,30698.22,Silver,20,7
+C3220,21,Male,Bangalore,Bachelor's,25k-50k,5736.91,Silver,34,1
+C3221,38,Female,Delhi,Master's,100k-200k,40217.47,Basic,10,13
+C3222,46,Female,Kolkata,Bachelor's,100k-200k,38919.95,Basic,6,12
+C3223,23,Female,Delhi,PhD,200k+,79571.25,Basic,10,22
+C3224,26,Female,Delhi,High School,<25k,973.75,Silver,58,1
+C3225,48,Female,Hyderabad,High School,<25k,2103.24,Platinum,58,1
+C3226,42,Female,Ahmedabad,Bachelor's,200k+,59518.9,Silver,57,20
+C3227,18,Female,Kolkata,Master's,25k-50k,9537.02,Platinum,24,1
+C3228,36,Female,Mumbai,High School,50k-100k,15118.07,Basic,7,2
+C3229,31,Female,Bangalore,High School,<25k,3956.37,Silver,44,1
+C3230,31,Male,Chennai,Bachelor's,50k-100k,17602.21,Basic,40,3
+C3231,39,Male,Kolkata,Bachelor's,<25k,2121.62,Platinum,7,1
+C3232,47,Female,Delhi,Bachelor's,25k-50k,10495.69,Basic,47,3
+C3233,47,Female,Mumbai,Master's,100k-200k,30942.02,Gold,30,5
+C3234,50,Male,Mumbai,Bachelor's,100k-200k,39696.0,Basic,35,16
+C3235,30,Male,Mumbai,Bachelor's,25k-50k,7506.51,Silver,10,1
+C3236,50,Male,Mumbai,Bachelor's,100k-200k,23001.23,Basic,15,9
+C3237,53,Male,Mumbai,Master's,100k-200k,43093.88,Basic,45,9
+C3238,23,Male,Mumbai,PhD,<25k,2401.87,Basic,4,1
+C3239,23,Female,Delhi,Master's,100k-200k,41597.92,Silver,54,9
+C3240,54,Female,Mumbai,Master's,100k-200k,31267.86,Platinum,14,11
+C3241,46,Female,Mumbai,High School,100k-200k,28093.49,Silver,34,12
+C3242,21,Female,Bangalore,High School,25k-50k,3208.67,Silver,13,1
+C3243,33,Female,Chennai,Bachelor's,25k-50k,4306.85,Silver,54,1
+C3244,42,Male,Hyderabad,Bachelor's,50k-100k,18265.14,Basic,17,4
+C3245,32,Female,Chennai,Bachelor's,50k-100k,16344.36,Gold,6,5
+C3246,34,Male,Mumbai,Bachelor's,<25k,2906.22,Basic,25,1
+C3247,27,Male,Chennai,Master's,100k-200k,27242.53,Silver,31,6
+C3248,42,Female,Mumbai,High School,50k-100k,4558.26,Basic,23,1
+C3249,41,Female,Pune,High School,50k-100k,16190.79,Platinum,9,4
+C3250,39,Female,Pune,Master's,50k-100k,7413.57,Silver,17,3
+C3251,38,Male,Delhi,High School,25k-50k,10576.76,Basic,54,1
+C3252,39,Male,Ahmedabad,Master's,100k-200k,28917.53,Basic,29,8
+C3253,67,Female,Hyderabad,Bachelor's,<25k,3937.13,Silver,33,1
+C3254,32,Male,Mumbai,High School,50k-100k,19012.79,Silver,37,6
+C3255,22,Female,Delhi,Bachelor's,25k-50k,2730.91,Silver,26,1
+C3256,23,Male,Delhi,Bachelor's,50k-100k,17533.38,Basic,7,3
+C3257,41,Female,Pune,High School,25k-50k,8050.55,Basic,16,2
+C3258,30,Female,Bangalore,Bachelor's,<25k,2719.63,Basic,55,1
+C3259,44,Female,Pune,Master's,100k-200k,28311.53,Basic,39,7
+C3260,23,Male,Delhi,PhD,50k-100k,7786.57,Gold,36,1
+C3261,39,Male,Mumbai,Master's,200k+,50451.98,Silver,8,11
+C3262,36,Female,Mumbai,High School,25k-50k,7171.96,Silver,23,1
+C3263,24,Male,Mumbai,Bachelor's,50k-100k,11083.2,Gold,39,4
+C3264,34,Male,Ahmedabad,Bachelor's,25k-50k,8468.36,Basic,52,1
+C3265,49,Female,Kolkata,Bachelor's,100k-200k,36374.57,Silver,5,8
+C3266,41,Female,Pune,Bachelor's,50k-100k,15742.72,Basic,47,3
+C3267,34,Female,Hyderabad,Bachelor's,<25k,3626.03,Gold,57,1
+C3268,25,Female,Chennai,Bachelor's,<25k,3203.09,Silver,30,1
+C3269,48,Male,Pune,High School,100k-200k,23307.26,Platinum,46,6
+C3270,46,Female,Chennai,Bachelor's,100k-200k,22159.0,Basic,11,3
+C3271,38,Female,Bangalore,Bachelor's,25k-50k,13399.09,Silver,25,4
+C3272,46,Male,Bangalore,Bachelor's,50k-100k,26906.85,Basic,25,6
+C3273,33,Male,Pune,Bachelor's,50k-100k,17095.41,Silver,39,3
+C3274,22,Male,Bangalore,Master's,50k-100k,2748.51,Silver,12,1
+C3275,45,Female,Pune,PhD,50k-100k,6183.99,Basic,8,1
+C3276,34,Male,Delhi,Master's,25k-50k,5881.42,Basic,54,1
+C3277,35,Female,Bangalore,Bachelor's,<25k,3090.52,Gold,6,1
+C3278,22,Female,Mumbai,Bachelor's,100k-200k,38010.69,Basic,22,10
+C3279,23,Male,Chennai,Master's,100k-200k,64750.4,Silver,31,15
+C3280,35,Male,Kolkata,PhD,50k-100k,14526.43,Basic,52,2
+C3281,26,Male,Kolkata,Bachelor's,100k-200k,31805.13,Basic,42,6
+C3282,39,Other,Delhi,Bachelor's,25k-50k,9392.38,Gold,9,3
+C3283,30,Male,Ahmedabad,Bachelor's,100k-200k,40408.69,Basic,46,7
+C3284,34,Female,Bangalore,Bachelor's,100k-200k,33790.85,Basic,57,10
+C3285,26,Female,Chennai,Master's,25k-50k,8917.84,Platinum,49,1
+C3286,50,Female,Kolkata,Bachelor's,50k-100k,15075.01,Silver,38,4
+C3287,45,Male,Mumbai,Bachelor's,50k-100k,20169.3,Basic,2,6
+C3288,18,Male,Delhi,Master's,50k-100k,17823.63,Basic,12,7
+C3289,32,Male,Pune,Bachelor's,25k-50k,10346.1,Gold,14,1
+C3290,41,Male,Pune,High School,50k-100k,22701.76,Basic,5,3
+C3291,18,Male,Ahmedabad,High School,200k+,37950.64,Silver,2,3
+C3292,20,Male,Chennai,High School,<25k,1815.48,Basic,10,1
+C3293,26,Female,Delhi,Bachelor's,25k-50k,8554.14,Basic,7,1
+C3294,18,Male,Mumbai,PhD,100k-200k,18984.67,Silver,34,3
+C3295,44,Male,Ahmedabad,Master's,100k-200k,46127.66,Basic,5,10
+C3296,41,Female,Delhi,Bachelor's,100k-200k,12055.47,Silver,22,5
+C3297,27,Male,Pune,Bachelor's,25k-50k,10104.33,Gold,33,4
+C3298,53,Male,Bangalore,Bachelor's,50k-100k,10127.91,Silver,10,2
+C3299,18,Female,Hyderabad,PhD,<25k,3150.38,Basic,40,2
+C3300,41,Female,Mumbai,High School,50k-100k,23809.27,Silver,18,7
+C3301,34,Female,Chennai,High School,<25k,4175.11,Basic,14,1
+C3302,44,Female,Pune,PhD,100k-200k,38682.36,Gold,22,10
+C3303,50,Female,Bangalore,Bachelor's,25k-50k,4173.41,Platinum,5,1
+C3304,52,Male,Chennai,Bachelor's,25k-50k,8041.24,Silver,50,2
+C3305,41,Male,Delhi,Bachelor's,<25k,3271.09,Basic,17,1
+C3306,39,Female,Mumbai,Bachelor's,50k-100k,15611.0,Silver,36,2
+C3307,25,Male,Delhi,Master's,25k-50k,5935.76,Basic,30,2
+C3308,40,Female,Pune,Master's,100k-200k,28119.46,Platinum,18,3
+C3309,20,Female,Ahmedabad,Master's,100k-200k,40813.64,Basic,22,9
+C3310,36,Male,Hyderabad,Bachelor's,50k-100k,21452.52,Gold,39,12
+C3311,46,Female,Mumbai,Master's,100k-200k,21125.75,Basic,58,4
+C3312,51,Male,Chennai,Bachelor's,<25k,3389.27,Basic,48,1
+C3313,21,Male,Chennai,High School,50k-100k,12885.88,Basic,44,3
+C3314,38,Male,Delhi,Master's,100k-200k,30556.54,Basic,21,6
+C3315,31,Male,Hyderabad,Bachelor's,25k-50k,8911.98,Basic,21,3
+C3316,29,Male,Pune,Bachelor's,25k-50k,10068.74,Silver,54,3
+C3317,38,Male,Hyderabad,High School,50k-100k,21201.53,Basic,15,2
+C3318,34,Female,Mumbai,Master's,25k-50k,10106.27,Basic,57,4
+C3319,35,Male,Ahmedabad,Master's,25k-50k,8995.77,Silver,12,3
+C3320,32,Female,Hyderabad,High School,25k-50k,6043.04,Basic,33,1
+C3321,24,Female,Mumbai,Bachelor's,50k-100k,25382.41,Silver,49,7
+C3322,30,Female,Delhi,Master's,25k-50k,10021.33,Gold,52,2
+C3323,39,Female,Chennai,Bachelor's,100k-200k,17554.66,Gold,45,3
+C3324,29,Female,Chennai,Bachelor's,100k-200k,35536.06,Basic,45,14
+C3325,18,Male,Bangalore,High School,<25k,3633.22,Silver,40,2
+C3326,55,Male,Pune,Bachelor's,100k-200k,42859.61,Platinum,45,4
+C3327,24,Male,Bangalore,PhD,25k-50k,9226.85,Silver,1,1
+C3328,52,Male,Chennai,Bachelor's,100k-200k,43558.66,Silver,4,17
+C3329,35,Male,Hyderabad,Bachelor's,100k-200k,33441.99,Platinum,40,15
+C3330,18,Male,Hyderabad,Bachelor's,100k-200k,7984.66,Basic,20,2
+C3331,18,Female,Kolkata,Bachelor's,<25k,4090.69,Silver,6,1
+C3332,39,Female,Pune,Bachelor's,25k-50k,4699.87,Gold,11,3
+C3333,45,Male,Bangalore,Bachelor's,<25k,2464.02,Gold,41,1
+C3334,29,Male,Ahmedabad,Bachelor's,50k-100k,21921.07,Gold,34,11
+C3335,53,Male,Kolkata,High School,25k-50k,10577.9,Silver,43,1
+C3336,46,Female,Bangalore,High School,50k-100k,20589.9,Basic,21,9
+C3337,20,Female,Mumbai,Master's,50k-100k,18336.5,Basic,32,3
+C3338,32,Female,Hyderabad,Bachelor's,25k-50k,9174.1,Basic,29,1
+C3339,36,Female,Ahmedabad,Master's,200k+,81372.01,Gold,38,18
+C3340,27,Female,Delhi,Bachelor's,<25k,3922.49,Gold,37,1
+C3341,18,Male,Kolkata,Bachelor's,50k-100k,18465.78,Basic,24,7
+C3342,36,Male,Pune,Master's,100k-200k,36735.19,Basic,41,6
+C3343,41,Male,Hyderabad,Bachelor's,50k-100k,15560.9,Platinum,24,3
+C3344,43,Male,Kolkata,PhD,50k-100k,9352.77,Basic,50,1
+C3345,26,Male,Chennai,Bachelor's,100k-200k,21255.83,Basic,13,4
+C3346,52,Male,Mumbai,Bachelor's,25k-50k,9180.67,Gold,48,1
+C3347,38,Female,Ahmedabad,Bachelor's,50k-100k,12893.52,Gold,56,1
+C3348,19,Female,Kolkata,Bachelor's,50k-100k,24463.01,Platinum,24,9
+C3349,38,Male,Pune,Master's,25k-50k,4148.51,Basic,4,1
+C3350,29,Female,Ahmedabad,High School,25k-50k,2060.53,Silver,34,1
+C3351,25,Female,Delhi,PhD,50k-100k,14811.31,Basic,56,7
+C3352,27,Male,Hyderabad,Master's,25k-50k,9117.54,Gold,26,2
+C3353,27,Male,Delhi,High School,50k-100k,15479.28,Basic,40,3
+C3354,29,Female,Bangalore,Bachelor's,100k-200k,1245.88,Basic,15,1
+C3355,23,Male,Chennai,Bachelor's,100k-200k,30934.3,Basic,28,10
+C3356,29,Male,Bangalore,Master's,100k-200k,41025.25,Gold,46,6
+C3357,40,Male,Delhi,PhD,100k-200k,38676.03,Gold,36,12
+C3358,44,Male,Chennai,Master's,200k+,39633.88,Basic,22,16
+C3359,51,Female,Chennai,Bachelor's,<25k,4375.91,Gold,46,2
+C3360,32,Male,Delhi,Bachelor's,25k-50k,7601.51,Basic,24,1
+C3361,22,Female,Bangalore,High School,25k-50k,6872.42,Silver,18,2
+C3362,18,Male,Delhi,Bachelor's,50k-100k,21697.35,Silver,40,7
+C3363,29,Male,Delhi,Bachelor's,50k-100k,18258.76,Basic,29,1
+C3364,25,Male,Pune,Master's,25k-50k,12017.69,Silver,7,1
+C3365,43,Female,Hyderabad,Master's,50k-100k,16249.55,Silver,49,1
+C3366,18,Female,Mumbai,Bachelor's,50k-100k,15618.22,Gold,38,2
+C3367,38,Male,Mumbai,Master's,<25k,3731.56,Basic,45,1
+C3368,47,Female,Hyderabad,Bachelor's,100k-200k,33964.59,Silver,35,5
+C3369,34,Male,Pune,Master's,100k-200k,33894.94,Basic,44,11
+C3370,29,Female,Delhi,Bachelor's,25k-50k,14087.03,Silver,13,5
+C3371,43,Female,Ahmedabad,Bachelor's,100k-200k,48363.08,Silver,42,8
+C3372,45,Male,Mumbai,High School,50k-100k,14801.87,Gold,13,3
+C3373,18,Female,Delhi,High School,25k-50k,9870.99,Basic,27,3
+C3374,34,Female,Pune,Master's,25k-50k,2867.68,Basic,18,1
+C3375,43,Male,Kolkata,Bachelor's,50k-100k,16977.44,Platinum,50,6
+C3376,28,Male,Bangalore,Bachelor's,<25k,2978.88,Basic,7,2
+C3377,37,Male,Chennai,Master's,25k-50k,7531.11,Gold,28,5
+C3378,39,Male,Kolkata,High School,<25k,2384.41,Basic,56,1
+C3379,29,Female,Delhi,Master's,50k-100k,17547.3,Gold,57,3
+C3380,33,Female,Ahmedabad,Master's,50k-100k,19972.75,Basic,24,1
+C3381,18,Female,Pune,Bachelor's,25k-50k,9758.97,Basic,58,3
+C3382,45,Male,Hyderabad,Master's,200k+,61576.25,Basic,16,12
+C3383,18,Male,Mumbai,High School,<25k,3940.92,Basic,3,1
+C3384,33,Female,Bangalore,Bachelor's,50k-100k,24618.05,Silver,59,6
+C3385,30,Female,Pune,Master's,<25k,2276.19,Platinum,16,1
+C3386,46,Male,Ahmedabad,Master's,50k-100k,26849.43,Basic,21,7
+C3387,49,Male,Ahmedabad,Bachelor's,50k-100k,18960.89,Basic,58,6
+C3388,31,Male,Mumbai,Bachelor's,100k-200k,33062.89,Basic,32,5
+C3389,40,Male,Bangalore,Bachelor's,100k-200k,46186.65,Platinum,21,15
+C3390,32,Female,Mumbai,Master's,50k-100k,19896.54,Gold,33,2
+C3391,43,Male,Delhi,Master's,50k-100k,18588.13,Basic,19,6
+C3392,29,Male,Pune,Bachelor's,100k-200k,58468.79,Silver,39,11
+C3393,35,Male,Pune,PhD,100k-200k,41189.03,Silver,55,7
+C3394,21,Female,Hyderabad,High School,100k-200k,51504.07,Basic,31,16
+C3395,36,Female,Ahmedabad,Master's,100k-200k,29621.81,Silver,49,9
+C3396,41,Female,Chennai,Master's,25k-50k,5610.43,Basic,26,2
+C3397,31,Female,Delhi,Master's,100k-200k,33136.34,Basic,39,10
+C3398,18,Female,Delhi,Bachelor's,100k-200k,21336.1,Basic,53,3
+C3399,41,Female,Kolkata,Bachelor's,50k-100k,13578.34,Basic,18,2
+C3400,27,Male,Mumbai,Bachelor's,50k-100k,24778.88,Gold,49,1
+C3401,18,Female,Kolkata,Master's,50k-100k,28564.72,Gold,10,10
+C3402,18,Female,Chennai,Bachelor's,50k-100k,22024.04,Silver,19,5
+C3403,62,Female,Delhi,Bachelor's,200k+,54730.75,Silver,14,11
+C3404,48,Male,Kolkata,High School,50k-100k,20238.2,Gold,22,2
+C3405,21,Female,Pune,Master's,50k-100k,27275.36,Silver,44,13
+C3406,22,Female,Bangalore,Master's,100k-200k,52000.36,Silver,35,11
+C3407,21,Male,Ahmedabad,Bachelor's,50k-100k,4207.42,Silver,19,1
+C3408,37,Male,Delhi,High School,50k-100k,13610.14,Platinum,34,3
+C3409,45,Male,Mumbai,Master's,200k+,39049.75,Basic,58,5
+C3410,32,Female,Kolkata,Master's,100k-200k,31603.37,Silver,45,7
+C3411,29,Male,Chennai,Bachelor's,100k-200k,40594.52,Basic,15,16
+C3412,47,Female,Chennai,Master's,25k-50k,7760.61,Gold,39,2
+C3413,34,Female,Chennai,Bachelor's,50k-100k,20796.25,Platinum,9,2
+C3414,33,Other,Delhi,Master's,100k-200k,36553.24,Silver,45,8
+C3415,32,Female,Hyderabad,Bachelor's,100k-200k,32497.68,Silver,5,12
+C3416,31,Female,Pune,Bachelor's,25k-50k,5658.05,Basic,12,1
+C3417,51,Other,Hyderabad,Bachelor's,<25k,2944.08,Gold,35,1
+C3418,25,Male,Delhi,Master's,100k-200k,44520.98,Basic,17,15
+C3419,37,Female,Bangalore,Bachelor's,100k-200k,25590.57,Basic,10,6
+C3420,41,Male,Mumbai,Bachelor's,100k-200k,45509.68,Gold,31,12
+C3421,43,Male,Bangalore,Master's,100k-200k,24947.09,Basic,1,4
+C3422,30,Female,Bangalore,Master's,100k-200k,35154.76,Silver,7,9
+C3423,33,Other,Bangalore,Bachelor's,50k-100k,10690.89,Basic,11,1
+C3424,42,Female,Mumbai,High School,50k-100k,16384.03,Silver,45,2
+C3425,34,Female,Chennai,High School,100k-200k,40133.58,Silver,8,4
+C3426,25,Female,Mumbai,Bachelor's,<25k,5062.74,Platinum,55,1
+C3427,30,Female,Bangalore,Bachelor's,50k-100k,29291.74,Silver,10,7
+C3428,33,Female,Mumbai,PhD,200k+,61051.16,Basic,3,16
+C3429,42,Female,Chennai,High School,100k-200k,46760.18,Silver,22,18
+C3430,38,Female,Delhi,Master's,100k-200k,28581.14,Silver,23,9
+C3431,42,Female,Delhi,Master's,100k-200k,32652.41,Gold,17,5
+C3432,36,Other,Bangalore,Bachelor's,25k-50k,7288.31,Gold,4,1
+C3433,39,Male,Bangalore,High School,50k-100k,24277.24,Silver,8,7
+C3434,28,Female,Kolkata,Bachelor's,25k-50k,8851.5,Basic,28,1
+C3435,28,Male,Kolkata,PhD,25k-50k,2788.37,Silver,38,1
+C3436,38,Male,Ahmedabad,Bachelor's,<25k,4645.32,Basic,52,2
+C3437,44,Female,Mumbai,Bachelor's,100k-200k,38965.28,Basic,57,9
+C3438,36,Male,Ahmedabad,Master's,50k-100k,25084.7,Basic,4,7
+C3439,41,Female,Delhi,Master's,200k+,61275.31,Basic,6,12
+C3440,41,Male,Kolkata,Master's,50k-100k,15665.64,Basic,18,5
+C3441,31,Female,Chennai,Bachelor's,25k-50k,7429.99,Basic,33,2
+C3442,40,Male,Delhi,Master's,50k-100k,22501.65,Gold,49,3
+C3443,32,Male,Mumbai,Master's,100k-200k,35305.69,Gold,41,5
+C3444,42,Female,Mumbai,High School,25k-50k,10120.42,Silver,7,3
+C3445,36,Female,Kolkata,Bachelor's,25k-50k,11802.57,Gold,34,1
+C3446,34,Male,Kolkata,Bachelor's,25k-50k,8264.37,Gold,10,2
+C3447,25,Female,Ahmedabad,Bachelor's,50k-100k,17057.15,Silver,37,9
+C3448,53,Male,Hyderabad,Bachelor's,100k-200k,29600.11,Basic,32,13
+C3449,30,Female,Pune,Master's,50k-100k,15759.83,Gold,8,8
+C3450,39,Female,Delhi,Bachelor's,100k-200k,28820.66,Silver,21,7
+C3451,38,Female,Mumbai,Bachelor's,50k-100k,22333.86,Gold,15,6
+C3452,31,Female,Hyderabad,High School,25k-50k,11401.74,Platinum,54,1
+C3453,18,Male,Pune,Bachelor's,<25k,3287.72,Silver,33,1
+C3454,28,Female,Mumbai,Bachelor's,25k-50k,8316.77,Basic,47,1
+C3455,18,Female,Delhi,Bachelor's,<25k,2775.89,Gold,6,1
+C3456,34,Male,Delhi,Bachelor's,100k-200k,29465.1,Platinum,32,6
+C3457,23,Male,Chennai,Bachelor's,25k-50k,6085.45,Silver,36,1
+C3458,23,Female,Bangalore,Bachelor's,100k-200k,47319.51,Gold,57,22
+C3459,52,Male,Bangalore,PhD,100k-200k,42419.63,Silver,24,9
+C3460,54,Female,Delhi,Bachelor's,25k-50k,10607.96,Platinum,59,6
+C3461,40,Male,Bangalore,Master's,100k-200k,30632.03,Basic,45,5
+C3462,37,Male,Hyderabad,High School,<25k,1973.98,Silver,7,1
+C3463,34,Male,Kolkata,Bachelor's,50k-100k,20040.87,Gold,4,4
+C3464,63,Female,Chennai,Master's,200k+,57943.19,Basic,14,15
+C3465,37,Female,Mumbai,Master's,25k-50k,8989.96,Silver,48,3
+C3466,28,Female,Kolkata,High School,<25k,5544.9,Gold,10,2
+C3467,37,Male,Delhi,PhD,50k-100k,8182.55,Gold,47,4
+C3468,35,Male,Pune,Bachelor's,100k-200k,44532.47,Gold,28,16
+C3469,26,Other,Mumbai,Master's,50k-100k,16367.77,Silver,29,3
+C3470,21,Female,Hyderabad,Master's,100k-200k,23212.31,Basic,44,3
+C3471,50,Male,Delhi,Bachelor's,100k-200k,21001.58,Basic,5,6
+C3472,43,Male,Pune,Bachelor's,50k-100k,21949.08,Gold,36,4
+C3473,39,Male,Mumbai,Bachelor's,50k-100k,32489.01,Silver,19,8
+C3474,33,Other,Mumbai,Master's,100k-200k,41787.28,Gold,40,11
+C3475,27,Male,Mumbai,Bachelor's,<25k,2502.84,Basic,25,1
+C3476,28,Female,Mumbai,Bachelor's,<25k,3415.75,Silver,49,1
+C3477,41,Female,Pune,High School,50k-100k,7052.15,Platinum,41,2
+C3478,32,Male,Delhi,Bachelor's,50k-100k,14089.14,Silver,36,6
+C3479,35,Female,Delhi,Bachelor's,50k-100k,16676.38,Silver,54,1
+C3480,46,Male,Hyderabad,Bachelor's,50k-100k,22460.39,Silver,17,7
+C3481,29,Female,Mumbai,Bachelor's,100k-200k,21993.58,Silver,14,5
+C3482,34,Female,Mumbai,High School,<25k,3308.9,Gold,2,1
+C3483,30,Female,Ahmedabad,Bachelor's,25k-50k,8276.42,Silver,23,8
+C3484,31,Female,Delhi,Bachelor's,50k-100k,21665.2,Silver,4,2
+C3485,33,Male,Kolkata,PhD,200k+,79918.73,Basic,6,13
+C3486,42,Male,Kolkata,PhD,50k-100k,7000.71,Gold,23,1
+C3487,27,Male,Mumbai,Master's,25k-50k,9908.84,Silver,3,5
+C3488,46,Female,Bangalore,Master's,50k-100k,20016.82,Silver,33,7
+C3489,22,Male,Mumbai,Bachelor's,<25k,3860.32,Gold,11,1
+C3490,29,Female,Delhi,Bachelor's,<25k,3871.41,Basic,14,1
+C3491,23,Male,Hyderabad,Bachelor's,100k-200k,42369.09,Basic,15,10
+C3492,35,Male,Bangalore,Master's,50k-100k,9367.48,Silver,54,1
+C3493,31,Male,Mumbai,Master's,50k-100k,19307.56,Basic,58,3
+C3494,44,Female,Delhi,Bachelor's,25k-50k,6492.03,Gold,36,2
+C3495,45,Female,Mumbai,Bachelor's,25k-50k,11607.68,Gold,39,2
+C3496,18,Female,Bangalore,Master's,50k-100k,13509.57,Silver,23,1
+C3497,25,Male,Chennai,Bachelor's,50k-100k,21439.81,Silver,51,3
+C3498,28,Male,Pune,Bachelor's,25k-50k,9090.7,Gold,27,2
+C3499,28,Male,Mumbai,Bachelor's,50k-100k,18620.19,Basic,33,8
